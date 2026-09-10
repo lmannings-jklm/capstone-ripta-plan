@@ -7,9 +7,9 @@ This project is focused on evaluating the overall effectiveness of a proposed pl
 ---
 
 ## 2. Key Questions
-- Does extending RIPTA bus routes coming from all points south, west, north, and east to PRW-FS structurally increase the temporal driving delays, vehicle service hours, and marginal operating costs?
-- Does relocating the transit hub away from KP to PRW-FS disproportionately increase walking travel time penalties and steep slope elevation burdens for vulnerable, transit-dependent populations compared to non-vulnerable populations?
-- How significantly does relocating the transit hub disrupt established bus-to-bus transfer volumes and schedule overlaps?
+- **Does extending RIPTA bus routes coming from all points south, west, north, and east to PRW-FS structurally increase the temporal driving delays, vehicle service hours, and marginal operating costs?**
+- **Does relocating the transit hub away from KP to PRW-FS disproportionately increase walking travel time penalties and steep slope elevation burdens for vulnerable, transit-dependent populations compared to non-vulnerable populations?**
+- **How significantly does relocating the transit hub disrupt established bus-to-bus transfer volumes and schedule overlaps?**
 
 ---
 
@@ -17,7 +17,7 @@ This project is focused on evaluating the overall effectiveness of a proposed pl
 
 ### Codes and Resourses
 
-- **Editor:** RStudio 2026.07.0 Build 139
+- **Editor:** RStudio 2026.08.2 Build 200
 - **R Version:** R version 4.5.0
 ---
 ### R Packages Used
