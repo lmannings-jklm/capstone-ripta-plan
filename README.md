@@ -11,7 +11,7 @@ This study executes a two-pronged data science project to analyze the operationa
 ---
 
 ## 2. Key Questions
-- **Does extending RIPTA bus routes coming from all points south, west, north, and east to PRW-FS structurally increase the temporal driving delays, vehicle service hours, and marginal operating costs?**
+- **What are the primary drivers of schedule delay within the existing Providence transit network, and how will the physical relocation to Park Row West impact overall operational reliability?**
 - **Does relocating the transit hub away from KP to PRW-FS disproportionately increase walking travel time penalties and steep slope elevation burdens for vulnerable, transit-dependent populations compared to non-vulnerable populations?**
 
 ---
