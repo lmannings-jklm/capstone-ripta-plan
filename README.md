@@ -48,9 +48,22 @@ The following libraries and options are required to complete the assignment:
 - `prettymapr`   Enables automated map formatting.     
 ---
 
-## 4. Data
+## 4. Primary Data Summary
 
-### Source Data
+### General Transit Feed Specification(GTFS)
+GTFS is an Open Standard used to distribute relevant information about transit systems to riders. It allows public transit agencies to publish their transit data in a format that can be consumed by a wide variety of software applications.
+
+### RIPTA CAD/AVL Historical Archive
+To overcome the limitations of algorithmically interpolated static schedules and the API rate constraints of streaming GTFS-Realtime feeds, a 12-month contiguous historical archive of CAD/AVL transit event records was acquired via a formal Rhode Island Access to Public Records Act (APRA) request. This dataset provides the high-fidelity event precision requires for econometric modeling, logging scheduled vs. actual vehicle movements, schedule deviation in seconds, and high-precision GPS coordinates for decision timepoint isolation across the downcity network.
+
+### RIPTA Kennedy Plaza Transfer Data & Passenger Counts
+A RIPTA public outreach survey to a total of 4,438 individuals in support of the project to capture public engagement feedback. The surveys documented origin zip codes and trip purposes. While it would be advantageous to use this data to estimate the proportion of riders that terminate their trip in Downcity Providence from a particular bus route, this data was not captured in the survey and zip code is not specific enough to infer a specific route. Additionally, the survey sample was not assessed to be representative of all daily RIPTA riders, as it was only distributed online and at public hearings, and included about 15% of non-riders or infrequent riders.
+
+### U.S. Census Bureau Databases
+U.S Census Bureau block-group demographic data can be pulled via the American Community Survey (ACS) 5-Year estimates. This data—specifically tracking median household income, race and ethnicity, zero-vehicle households, civilian ambulatory disability, and senior populations— is utilized to parameterize the equity evaluation and classify neighborhoods into the study's Transit-Dependent and Mobility-Challenged vulnerability tiers.
+
+### RIGIS Digital Elevation Models (DEM) & Spatial Layers
+Elevation datasets from the Rhode Island Geographic Information System (RIGIS) paired with street / parcel boundaries to construct walking buffers and compute slope gradients and effort weighted walking speeds.
 
 
 ---
