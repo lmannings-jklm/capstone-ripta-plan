@@ -14,3 +14,7 @@
 Google-Notebook/
 data/old/
 scripts/old/
+
+# Large files exceeding GitHub's 100 MB limit
+data/ripta_avl_1yr_log.csv
+notebook/footnote-references/TRCP Report 165.pdf
