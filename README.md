@@ -119,7 +119,7 @@ Project Repository structure is outlined below.
 ```
 ## 6. Results and Evaluation
 
-See the **Conclusions & Results** sections of the capstone report, [`capstone_ripta.pdf`](notebook/capstone-ripta.html).
+See the **Conclusions & Results** sections of the capstone report, [`capstone_ripta.pdf`](notebook/capstone-ripta.pdf).
 
 ## 7. Data & Code Availability
 
