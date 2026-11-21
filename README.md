@@ -1,4 +1,4 @@
-![Header Image](KP-aerial.png)
+![Header Image](images/KP-aerial.png)
 # Harvard Data Science Capstone: Evaluating the Operational and Equity Impacts of Providence Transit Center Relocation
 
 ## 1. Project Overview
