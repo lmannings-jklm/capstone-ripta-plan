@@ -126,6 +126,15 @@ See the **Conclusions & Results** sections of the capstone report, [`capstone_ri
 The processed datasets generated and analyzed during this project, along with the complete R processing scripts, are available in the project repository at <https://github.com/lmannings-jklm/capstone-ripta-plan>.
 All third-party spatial and demographic inputs can be retrieved directly from their respective public portals.
 
+---
+### Accessing the Raw 1-Year RIPTA CAD/AVL Log
+Because the raw 12-month RIPTA CAD/AVL historical archive (`ripta_avl_1yr_log.csv`, ~924 MB) exceeds GitHub's 100 MB standard file-size limit, it is hosted separately as a GitHub Release asset rather than in the main repository tree.
+
+To reproduce the full raw data ingestion pipeline from scratch:
+1. Navigate to the repository's **[Releases](https://github.com/lmannings-jklm/capstone-ripta-plan/releases)** page.
+2. Under the latest release's **Assets** section, download `ripta_avl_1yr_log.csv`.
+3. Place the downloaded file into the local `data/` directory (`data/ripta_avl_1yr_log.csv`) before running the ingestion scripts.
+
 ## 8. Acknowledgements
 
 Extended thanks are due to the HarvardX Data Science program for providing the foundation and motivation to select and complete this project. Additional thanks go to my family and several professional colleagues who encouraged me to focus on a problem with meaningful impacts on my community. I gratefully acknowledge RIPTA Legal Services and agency data administrators for fulfilling this public records request and providing access to historical Computer-Aided Dispatch and Automatic Vehicle Location (CAD/AVL) archives.
