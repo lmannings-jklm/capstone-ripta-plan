@@ -1,0 +1,6 @@
+Predictor,Importance
+trip_freq_buses_hr,100
+time_of_day_factor,15.18
+approach_directionEast,12.46
+approach_directionSouth,6.68
+approach_directionWest,0

@@ -1,0 +1,31 @@
+route_id,route_long_name,approach_direction,total_arrivals,first_arrival,last_arrival,trip_hdwy,trip_freq
+1,Eddy St/Hope St/Benefit St,East,59,08:10:00,17:58:00,10.1,5.9405940594059405
+1,Eddy St/Hope St/Benefit St,South,60,08:10:00,17:58:00,10,6
+6,Prairie Ave/Roger Williams Park Zoo,South,26,08:35:00,17:35:00,21.6,2.7777777777777777
+11,Broad/North Main,East,104,08:05:00,17:59:00,5.8,10.344827586206897
+11,Broad/North Main,West,104,08:05:00,17:59:00,5.8,10.344827586206897
+14,West Bay - Newport,South,28,08:55:00,17:55:00,20,3
+17,Dyer Ave/Pocasset Ave,West,35,08:09:00,17:47:00,17,3.5294117647058822
+19,Plainfield St/Westminster St,West,35,08:06:00,17:48:00,17.1,3.508771929824561
+20,Elmwood Ave/Airport,South,62,08:13:00,17:58:00,9.6,6.25
+21,Reservoir Ave/Garden City/CCRI Warwick,North,35,08:12:00,17:58:00,17.2,3.488372093023256
+22,Pontiac Ave,South,34,08:20:00,17:43:00,17.1,3.508771929824561
+27,Broadway/Manton Ave,West,47,08:07:00,17:58:00,12.8,4.6875
+28,Broadway/Hartford Ave,West,48,08:13:00,17:56:00,12.4,4.838709677419355
+30,Oaklawn Ave,West,36,08:08:00,17:48:00,16.6,3.614457831325301
+31,Cranston St,North,68,08:03:00,17:58:00,8.9,6.741573033707865
+33,Riverside,East,35,08:23:00,17:58:00,16.9,3.550295857988166
+34,Warren Ave/Seekonk Square,East,27,08:18:00,17:58:00,22.3,2.6905829596412554
+35,Rumford/Newport Ave,East,22,08:05:00,18:00:00,28.3,2.1201413427561837
+50,Douglas Ave,North,57,08:13:00,17:58:00,10.4,5.769230769230769
+51,Charles St/Twin River/CCRI Lincoln,North,36,08:12:00,17:35:00,16.1,3.726708074534161
+54,Lincoln/Woonsocket,North,31,08:05:00,17:20:00,18.5,3.2432432432432434
+55,Admiral St (Providence College & RI College),North,49,08:03:00,17:48:00,12.2,4.918032786885246
+56,Chalkstone Ave,North,67,08:06:00,17:57:00,9,6.666666666666667
+57,Smith St,North,48,08:13:00,17:58:00,12.4,4.838709677419355
+60,Providence - Newport (East Bay),East,43,08:05:00,18:00:00,14.2,4.225352112676057
+66,Providence - URI Kingston/CCRI Warwick,North,33,08:15:00,17:48:00,17.9,3.3519553072625703
+72,Weeden St (Central Falls),North,57,08:00:00,18:00:00,10.7,5.607476635514019
+78,Beverage Hill Ave (East Providence & Pawtucket),East,38,08:23:00,17:57:00,15.5,3.870967741935484
+92,East Side/Federal Hill/RI College,East,50,08:00:00,17:46:00,12,5
+92,East Side/Federal Hill/RI College,West,49,08:10:00,18:00:00,12.3,4.878048780487805

@@ -1,0 +1,60 @@
+feed_version_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+RIPTA-GTFS,1,1,Eddy St/Hope St/Benefit St,NA,3,http://ripta.com/1,E0004D,FFFFFF
+RIPTA-GTFS,10,10x,North Scituate Express,NA,3,http://www.ripta.com/10,93328E,FFFFFF
+RIPTA-GTFS,11,R,Broad/North Main,NA,3,http://ripta.com/11,00843D,FFFFFF
+RIPTA-GTFS,12,12x,Arctic/RI-117 Express,NA,3,http://www.ripta.com/12,93328E,FFFFFF
+RIPTA-GTFS,13,13,Coventry/Arctic/CCRI Warwick,NA,3,http://www.ripta.com/13,0085CA,FFFFFF
+RIPTA-GTFS,14,14,West Bay - Newport,NA,3,http://www.ripta.com/14,0085CA,FFFFFF
+RIPTA-GTFS,16,16,Bald Hill Rd/NEIT,NA,3,NA,0085CA,FFFFFF
+RIPTA-GTFS,17,17,Dyer Ave/Pocasset Ave,NA,3,http://www.ripta.com/17,0085CA,FFFFFF
+RIPTA-GTFS,18,18,Union Ave,NA,3,http://www.ripta.com/18,0085CA,FFFFFF
+RIPTA-GTFS,19,19,Plainfield St/Westminster St,NA,3,http://www.ripta.com/19,0085CA,FFFFFF
+RIPTA-GTFS,20,20,Elmwood Ave/Airport,NA,3,http://ripta.com/20,E0004D,FFFFFF
+RIPTA-GTFS,21,21,Reservoir Ave/Garden City/CCRI Warwick,NA,3,http://www.ripta.com/21,0085CA,FFFFFF
+RIPTA-GTFS,22,22,Pontiac Ave,NA,3,http://www.ripta.com/22,0085CA,FFFFFF
+RIPTA-GTFS,23,23,Arctic/Crompton/Center of New England,NA,3,NA,0085CA,FFFFFF
+RIPTA-GTFS,24,24L,Providence/Fall-River/Newport Express,NA,3,http://www.ripta.com/24,93328E,FFFFFF
+RIPTA-GTFS,27,27,Broadway/Manton Ave,NA,3,http://www.ripta.com/27,E0004D,FFFFFF
+RIPTA-GTFS,28,28,Broadway/Hartford Ave,NA,3,http://www.ripta.com/28,E0004D,FFFFFF
+RIPTA-GTFS,29,29,CCRI Warwick/Conimicut,NA,3,http://www.ripta.com/29,0085CA,FFFFFF
+RIPTA-GTFS,3,3,Warwick Ave/Oakland Beach,NA,3,http://ripta.com/3,0085CA,FFFFFF
+RIPTA-GTFS,30,30,Oaklawn Ave,NA,3,http://www.ripta.com/30,0085CA,FFFFFF
+RIPTA-GTFS,31,31,Cranston St,NA,3,http://www.ripta.com/31,E0004D,FFFFFF
+RIPTA-GTFS,32,32,Wampanoag Mall/Seekonk Square,NA,3,http://www.ripta.com/32,0085CA,FFFFFF
+RIPTA-GTFS,33,33,Riverside,NA,3,http://www.ripta.com/33,0085CA,FFFFFF
+RIPTA-GTFS,34,34,Warren Ave/Seekonk Square,NA,3,http://www.ripta.com/34,0085CA,FFFFFF
+RIPTA-GTFS,35,35,Rumford/Newport Ave,NA,3,http://www.ripta.com/35,0085CA,FFFFFF
+RIPTA-GTFS,4,4,Pawtuxet Village/Warwick Neck,NA,3,http://ripta.com/4,0085CA,FFFFFF
+RIPTA-GTFS,40,40,Butler Hospital/Elmgrove Ave,NA,3,http://www.ripta.com/40,0085CA,FFFFFF
+RIPTA-GTFS,50,50,Douglas Ave,NA,3,http://www.ripta.com/50,E0004D,FFFFFF
+RIPTA-GTFS,51,51,Charles St/Twin River/CCRI Lincoln,NA,3,http://www.ripta.com/51,0085CA,FFFFFF
+RIPTA-GTFS,54,54,Lincoln/Woonsocket,NA,3,http://www.ripta.com/54,0085CA,FFFFFF
+RIPTA-GTFS,55,55,Admiral St (Providence College & RI College),NA,3,http://www.ripta.com/55,0085CA,FFFFFF
+RIPTA-GTFS,56,56,Chalkstone Ave,NA,3,http://www.ripta.com/56,E0004D,FFFFFF
+RIPTA-GTFS,57,57,Smith St,NA,3,http://www.ripta.com/57,0085CA,FFFFFF
+RIPTA-GTFS,58,58,Mineral Spring Ave/North Providence,NA,3,http://www.ripta.com/58,0085CA,FFFFFF
+RIPTA-GTFS,59,59x,North Smithfield/Lincoln Express,NA,3,http://www.ripta.com/59,93328E,FFFFFF
+RIPTA-GTFS,6,6,Prairie Ave/Roger Williams Park Zoo,NA,3,http://ripta.com/6,0085CA,FFFFFF
+RIPTA-GTFS,60,60,Providence - Newport (East Bay),NA,3,http://www.ripta.com/60,0085CA,FFFFFF
+RIPTA-GTFS,61,61x,Tiverton/East Bay Express,NA,3,http://www.ripta.com/61-1,93328E,FFFFFF
+RIPTA-GTFS,63,63,Broadway (Newport-Middletown),NA,3,http://www.ripta.com/63,0085CA,FFFFFF
+RIPTA-GTFS,64,64,Newport/URI Kingston,NA,3,http://www.ripta.com/64,0085CA,FFFFFF
+RIPTA-GTFS,65,65x,Narragansett/Wakefield Express,NA,3,http://www.ripta.com/65,93328E,FFFFFF
+RIPTA-GTFS,66,66,Providence - URI Kingston/CCRI Warwick,NA,3,http://www.ripta.com/66,0085CA,FFFFFF
+RIPTA-GTFS,67,67,Bellevue Ave/Salve Regina/Mansions,NA,3,http://www.ripta.com/67,0085CA,FFFFFF
+RIPTA-GTFS,68,68,CCRI Newport/Memorial Blvd/First Beach,NA,3,http://ripta.com/68,0085CA,FFFFFF
+RIPTA-GTFS,69,69,URI Kingston/Galilee,NA,3,NA,0085CA,FFFFFF
+RIPTA-GTFS,7,QX,Quonset Express,NA,3,http://ripta.com/qx,93328E,FFFFFF
+RIPTA-GTFS,71,71,Broad St/Pawtucket Ave (Pawtucket),NA,3,http://www.ripta.com/71,0085CA,FFFFFF
+RIPTA-GTFS,72,72,Weeden St (Central Falls),NA,3,http://ripta.com/72,E0004D,FFFFFF
+RIPTA-GTFS,73,73,Mineral Spring Ave (Pawtucket - CCRI-Lincoln),NA,3,http://www.ripta.com/73,0085CA,FFFFFF
+RIPTA-GTFS,75,75,Dexter St/Lincoln Mall,NA,3,http://www.ripta.com/75,0085CA,FFFFFF
+RIPTA-GTFS,76,76,Central Ave,NA,3,http://www.ripta.com/76,0085CA,FFFFFF
+RIPTA-GTFS,78,78,Beverage Hill Ave (East Providence & Pawtucket),NA,3,http://www.ripta.com/78,0085CA,FFFFFF
+RIPTA-GTFS,80,80,Armistice Blvd,NA,3,http://www.ripta.com/80,0085CA,FFFFFF
+RIPTA-GTFS,87,87,Fairmount St/Walnut Hill Plaza,NA,3,http://ripta.com/87,0085CA,FFFFFF
+RIPTA-GTFS,88,88,Walmart Connector,NA,3,NA,C9DB57,000000
+RIPTA-GTFS,89,WM,Thursday Only Walmart Shopper,NA,3,NA,C9DB57,000000
+RIPTA-GTFS,9,9x,Pascoag Express,NA,3,http://www.ripta.com/9,93328E,FFFFFF
+RIPTA-GTFS,92,92,East Side/Federal Hill/RI College,NA,3,http://ripta.com/92,E0004D,FFFFFF
+RIPTA-GTFS,95,95x,Westerly Express,NA,3,http://ripta.com/95,93328E,FFFFFF

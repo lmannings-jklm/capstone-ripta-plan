@@ -1,0 +1,4 @@
+Model,Test_RMSE,Test_Rsquared,Test_MAE
+Random Forest,11.5532,0.0047,3.673
+OLS Linear Regression,11.5692,0.002,3.6813
+Elastic Net (glmnet),11.5693,0.002,3.6809

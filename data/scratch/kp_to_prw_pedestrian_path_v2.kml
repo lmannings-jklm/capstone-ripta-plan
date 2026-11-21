@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="kp_to_prw_pedestrian_path" id="kp_to_prw_pedestrian_path">
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="dst" type="string"></SimpleField>
+	<SimpleField name="duration" type="float"></SimpleField>
+	<SimpleField name="distance" type="float"></SimpleField>
+</Schema>
+<Folder><name>kp_to_prw_pedestrian_path</name>
+  <Placemark id="kp_to_prw_pedestrian_path.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kp_to_prw_pedestrian_path">
+		<SimpleData name="src">src</SimpleData>
+		<SimpleData name="dst">dst</SimpleData>
+		<SimpleData name="duration">6.25</SimpleData>
+		<SimpleData name="distance">0.4684</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry>
+  <!-- Segment 1 -->
+  <LineString>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <coordinates>
+      -71.4111557006836,41.8250885009766,75 
+      -71.4112701416016,41.8251800537109,75
+    </coordinates>
+  </LineString>
+  
+  <!-- Segment 2 -->
+  <LineString>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <coordinates>
+      -71.4112548828125,41.8252105712891,75 
+      -71.4113159179688,41.8252182006836,75
+    </coordinates>
+  </LineString>
+  
+  <!-- Segment 3 -->
+  <LineString>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <coordinates>
+      -71.411735534668,41.8255577087402,75 
+      -71.4117584228516,41.8256874084473,75
+    </coordinates>
+  </LineString>
+  
+  <!-- Segment 4 -->
+  <LineString>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <coordinates>
+      -71.4116592407227,41.8257904052734,75 
+      -71.4116592407227,41.8260078430176,75
+    </coordinates>
+  </LineString>
+  
+  <!-- Segment 5 -->
+  <LineString>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <coordinates>
+      -71.41162109375,41.8260192871094,75 
+      -71.4118118286133,41.8261795043945,75
+    </coordinates>
+  </LineString>
+  
+  <!-- Segment 6 -->
+  <LineString>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <coordinates>
+      -71.4123153686523,41.8270072937012,75 
+      -71.4132766723633,41.8283805847168,75 
+      -71.412971496582,41.8286285400391,75
+    </coordinates>
+  </LineString>
+</MultiGeometry>
+
+
+
+  </Placemark>
+</Folder>
+</Document></kml>

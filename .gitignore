@@ -1,0 +1,16 @@
+# Secret environment & configuration files
+.Rprofile
+.Renviron
+
+# R session history and temporary files
+.Rproj.user
+.Rhistory
+.RData
+.httr-oauth
+.DS_Store
+.quarto
+
+# Local archives & working folders
+Google-Notebook/
+data/old/
+scripts/old/

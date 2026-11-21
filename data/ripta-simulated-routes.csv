@@ -1,0 +1,13 @@
+route_id,route_name,daily_ridership,kp_walker_ratio,route_distance_ext_miles,title_vi_status,op_impact_category,daily_transfers,temporal_delay_mins
+R22,Route 22 - Cranston St,4200,0.74,1.8,Equity,High,850,9.09
+R1,Route 1 - Broad St,5100,0.72,2.1,Equity,High,1100,10.5
+R11,Route 11 - Hope St,2800,0.68,1.2,Equity,Medium,420,6.11
+R20,Route 20 - Elmwood Ave,3900,0.65,1.9,Equity,High,780,9.75
+R28,Route 28 - Hartford Ave,2100,0.59,1.5,Equity,Medium,390,7.48
+R30,Route 30 - Arlington / West Warwick,1700,0.54,1.6,Non-Equity,Medium,310,7.98
+R50,Route 50 - Douglas Ave,2400,0.48,0.6,Equity,Low,450,3.24
+R55,Route 55 - Admiral / Providence College,1900,0.42,0.5,Non-Equity,Low,290,2.62
+R56,Route 56 - Chalkstone Ave,2300,0.51,0.7,Equity,Low,360,3.44
+R57,Route 57 - Smith St,2600,0.45,0.4,Equity,Low,400,2.09
+R60,Route 60 - Providence / Newport,3400,0.38,2.4,Non-Equity,High,620,11.95
+R66,Route 66 - URI / Galilee,3100,0.35,2.5,Non-Equity,High,510,12.46

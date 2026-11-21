@@ -1,0 +1,997 @@
+feed_version_id,route_id,direction_label,stop_code,stop_name,stop_sequence
+RIPTA-GTFS,1,North,tfgr,TF Green Airport,1
+RIPTA-GTFS,1,North,shwa,Shaw's (Warwick) - Warwick Ave,2
+RIPTA-GTFS,1,North,shal,Shaw's (Warwick) - Front Door,3
+RIPTA-GTFS,1,North,bdcl,Broad Street Terminus,4
+RIPTA-GTFS,1,North,rihe,RI Hospital (Eddy St Entrance),5
+RIPTA-GTFS,1,North,kepl,Kennedy Plaza (Providence),6
+RIPTA-GTFS,1,North,tuth,Tunnel & Thayer,7
+RIPTA-GTFS,1,North,hool,Hope & Olney,8
+RIPTA-GTFS,1,North,horo,Hope & Rochambeau,9
+RIPTA-GTFS,1,North,patc,Pawtucket-Central Falls Transit Center,10
+RIPTA-GTFS,1,North,bebr,Benefit & Broadway,11
+RIPTA-GTFS,1,North,soas,South Attleboro (Bristol Place),12
+RIPTA-GTFS,1,South,soas,South Attleboro (Bristol Place),1
+RIPTA-GTFS,1,South,bebr,Benefit & Broadway,2
+RIPTA-GTFS,1,South,patc,Pawtucket-Central Falls Transit Center,3
+RIPTA-GTFS,1,South,horo,Hope & Rochambeau,4
+RIPTA-GTFS,1,South,hool,Hope & Olney,5
+RIPTA-GTFS,1,South,tuth,Tunnel & Thayer,6
+RIPTA-GTFS,1,South,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,1,South,rihe,RI Hospital (Eddy St Entrance),8
+RIPTA-GTFS,1,South,bdcl,Broad Street Terminus,9
+RIPTA-GTFS,1,South,shal,Shaw's (Warwick) - Front Door,10
+RIPTA-GTFS,1,South,shwa,Shaw's (Warwick) - Warwick Ave,11
+RIPTA-GTFS,1,South,tfgr,TF Green Airport,12
+RIPTA-GTFS,3,Inbound,oasu,Oakland Beach & Suburban Pkwy,1
+RIPTA-GTFS,3,Inbound,wasa,Meadowbrook (Warwick & Sandy Lane),2
+RIPTA-GTFS,3,Inbound,hofo,Warwick & West Shore,3
+RIPTA-GTFS,3,Inbound,waps,Warwick & Post,4
+RIPTA-GTFS,3,Inbound,nobr,Norwood & Broad,5
+RIPTA-GTFS,3,Inbound,riho,Hospital District (Eddy & Borden),6
+RIPTA-GTFS,3,Inbound,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,3,Inbound,psta,Providence Station,8
+RIPTA-GTFS,3,Outbound,psta,Providence Station,1
+RIPTA-GTFS,3,Outbound,kepl,Kennedy Plaza (Providence),2
+RIPTA-GTFS,3,Outbound,riho,Hospital District (Eddy & Borden),3
+RIPTA-GTFS,3,Outbound,nobr,Norwood & Broad,4
+RIPTA-GTFS,3,Outbound,waps,Warwick & Post,5
+RIPTA-GTFS,3,Outbound,hofo,Warwick & West Shore,6
+RIPTA-GTFS,3,Outbound,wasa,Meadowbrook (Warwick & Sandy Lane),7
+RIPTA-GTFS,3,Outbound,oasu,Oakland Beach & Suburban Pkwy,8
+RIPTA-GTFS,4,Inbound,waba,Warwick Neck & Barton,1
+RIPTA-GTFS,4,Inbound,coni,Conimicut (West Shore & Beach),2
+RIPTA-GTFS,4,Inbound,hofo,Warwick & West Shore,3
+RIPTA-GTFS,4,Inbound,pabr,Pawtuxet Bridge (Narragansett & Post),4
+RIPTA-GTFS,4,Inbound,nobr,Norwood & Broad,5
+RIPTA-GTFS,4,Inbound,riho,Hospital District (Eddy & Borden),6
+RIPTA-GTFS,4,Inbound,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,4,Inbound,psta,Providence Station,8
+RIPTA-GTFS,4,Outbound,psta,Providence Station,1
+RIPTA-GTFS,4,Outbound,kepl,Kennedy Plaza (Providence),2
+RIPTA-GTFS,4,Outbound,riho,Hospital District (Eddy & Borden),3
+RIPTA-GTFS,4,Outbound,nobr,Norwood & Broad,4
+RIPTA-GTFS,4,Outbound,pabr,Pawtuxet Bridge (Narragansett & Post),5
+RIPTA-GTFS,4,Outbound,hofo,Warwick & West Shore,6
+RIPTA-GTFS,4,Outbound,coni,Conimicut (West Shore & Beach),7
+RIPTA-GTFS,4,Outbound,waba,Warwick Neck & Barton,8
+RIPTA-GTFS,6,Inbound,rwzo,Roger Williams Park Zoo,1
+RIPTA-GTFS,6,Inbound,coho,Colony House,2
+RIPTA-GTFS,6,Inbound,prth,Prairie & Thurbers,3
+RIPTA-GTFS,6,Inbound,ccrp,CCRI Providence,4
+RIPTA-GTFS,6,Inbound,popr,Point & Prairie,5
+RIPTA-GTFS,6,Inbound,kepl,Kennedy Plaza (Providence),6
+RIPTA-GTFS,6,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,6,Outbound,popr,Point & Prairie,2
+RIPTA-GTFS,6,Outbound,ccrp,CCRI Providence,3
+RIPTA-GTFS,6,Outbound,prth,Prairie & Thurbers,4
+RIPTA-GTFS,6,Outbound,coho,Colony House,5
+RIPTA-GTFS,6,Outbound,rwzo,Roger Williams Park Zoo,6
+RIPTA-GTFS,7,Inbound,cocr,Cargill Compass Circle,1
+RIPTA-GTFS,7,Inbound,gard,Gate Rd at Kohl's,2
+RIPTA-GTFS,7,Inbound,nora,Norad Inc.,3
+RIPTA-GTFS,7,Inbound,jlqt,Job Lot/Taylor Farms,4
+RIPTA-GTFS,7,Inbound,domi,Keifer Park,5
+RIPTA-GTFS,7,Inbound,elbt,Electric Boat/North,6
+RIPTA-GTFS,7,Inbound,tory,Toray (Quonset),7
+RIPTA-GTFS,7,Inbound,exte,Exchange Terrace (Stop X),8
+RIPTA-GTFS,7,Inbound,cspr,Clinton St. P-n-R Lot (Woonsocket),9
+RIPTA-GTFS,7,Outbound,cspr,Clinton St. P-n-R Lot (Woonsocket),1
+RIPTA-GTFS,7,Outbound,exte,Exchange Terrace (Stop X),2
+RIPTA-GTFS,7,Outbound,elbt,Electric Boat/North,3
+RIPTA-GTFS,7,Outbound,tory,Toray (Quonset),4
+RIPTA-GTFS,7,Outbound,domi,Keifer Park,5
+RIPTA-GTFS,7,Outbound,jlqt,Job Lot/Taylor Farms,6
+RIPTA-GTFS,7,Outbound,nora,Norad Inc.,7
+RIPTA-GTFS,7,Outbound,kogr,Gate Road (Kohl's),8
+RIPTA-GTFS,7,Outbound,gard,Gate Rd at Kohl's,9
+RIPTA-GTFS,7,Outbound,cocr,Cargill Compass Circle,10
+RIPTA-GTFS,9,Inbound,pasc,Sayles Avenue Bus Shelter,1
+RIPTA-GTFS,9,Inbound,harr,Chapel & Main,2
+RIPTA-GTFS,9,Inbound,mapl,Mapleville (Central & Old Victory),3
+RIPTA-GTFS,9,Inbound,chep,RI-44 & Douglas Hook,4
+RIPTA-GTFS,9,Inbound,grrt,Greenville (RI-44 & RI-116),5
+RIPTA-GTFS,9,Inbound,stss,Stop & Shop (Smithfield),6
+RIPTA-GTFS,9,Inbound,copr,Park & Ride (Commerce St - Smithfield),7
+RIPTA-GTFS,9,Inbound,cbjo,Citizens Bank - Johnston,8
+RIPTA-GTFS,9,Inbound,conv,Rhode Island Convention Center,9
+RIPTA-GTFS,9,Inbound,weem,Westminster & Empire,10
+RIPTA-GTFS,9,Inbound,weed,Weybosset & Eddy,11
+RIPTA-GTFS,9,Inbound,tuhe,Turk's Head,12
+RIPTA-GTFS,9,Inbound,exte,Exchange Terrace (Stop X),13
+RIPTA-GTFS,9,Outbound,conv,Rhode Island Convention Center,1
+RIPTA-GTFS,9,Outbound,weem,Westminster & Empire,2
+RIPTA-GTFS,9,Outbound,weed,Weybosset & Eddy,3
+RIPTA-GTFS,9,Outbound,tuhe,Turk's Head,4
+RIPTA-GTFS,9,Outbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,9,Outbound,cbjo,Citizens Bank - Johnston,6
+RIPTA-GTFS,9,Outbound,stss,Stop & Shop (Smithfield),7
+RIPTA-GTFS,9,Outbound,copr,Park & Ride (Commerce St - Smithfield),8
+RIPTA-GTFS,9,Outbound,grrt,Greenville (RI-44 & RI-116),9
+RIPTA-GTFS,9,Outbound,chep,RI-44 & Douglas Hook,10
+RIPTA-GTFS,9,Outbound,mapl,Mapleville (Central & Old Victory),11
+RIPTA-GTFS,9,Outbound,harr,Chapel & Main,12
+RIPTA-GTFS,9,Outbound,pasc,Sayles Avenue Bus Shelter,13
+RIPTA-GTFS,10,Inbound,fost,Foster (Foster Center Baptist Church),1
+RIPTA-GTFS,10,Inbound,chop,Chopmist Hill Fire Station,2
+RIPTA-GTFS,10,Inbound,rtro,Danielson Pike & Rockland,3
+RIPTA-GTFS,10,Inbound,hare,Hartford & Reservoir,4
+RIPTA-GTFS,10,Inbound,amjo,Amazon (Johnston),5
+RIPTA-GTFS,10,Inbound,haat,Hartford & Atwood,6
+RIPTA-GTFS,10,Inbound,conv,Rhode Island Convention Center,7
+RIPTA-GTFS,10,Inbound,weem,Westminster & Empire,8
+RIPTA-GTFS,10,Inbound,weed,Weybosset & Eddy,9
+RIPTA-GTFS,10,Inbound,tuhe,Turk's Head,10
+RIPTA-GTFS,10,Inbound,exte,Exchange Terrace (Stop X),11
+RIPTA-GTFS,10,Outbound,conv,Rhode Island Convention Center,1
+RIPTA-GTFS,10,Outbound,weem,Westminster & Empire,2
+RIPTA-GTFS,10,Outbound,weed,Weybosset & Eddy,3
+RIPTA-GTFS,10,Outbound,tuhe,Turk's Head,4
+RIPTA-GTFS,10,Outbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,10,Outbound,haat,Hartford & Atwood,6
+RIPTA-GTFS,10,Outbound,amjo,Amazon (Johnston),7
+RIPTA-GTFS,10,Outbound,hare,Hartford & Reservoir,8
+RIPTA-GTFS,10,Outbound,rtro,Danielson Pike & Rockland,9
+RIPTA-GTFS,10,Outbound,chop,Chopmist Hill Fire Station,10
+RIPTA-GTFS,10,Outbound,fost,Foster (Foster Center Baptist Church),11
+RIPTA-GTFS,11,North,bdcl,Broad Street Terminus,1
+RIPTA-GTFS,11,North,bdth,Broad & Thurbers,2
+RIPTA-GTFS,11,North,bdli,Trinity Square (Broad & Elmwood),3
+RIPTA-GTFS,11,North,kepl,Kennedy Plaza (Providence),4
+RIPTA-GTFS,11,North,psta,Providence Station,5
+RIPTA-GTFS,11,North,chga,Charlesgate (North Main & Doyle),6
+RIPTA-GTFS,11,North,nmni,9th Street (North Main & 9th),7
+RIPTA-GTFS,11,North,copk,Collyer Park (Main & Conant),8
+RIPTA-GTFS,11,North,patc,Pawtucket-Central Falls Transit Center,9
+RIPTA-GTFS,11,North,maro,Roosevelt & Main,10
+RIPTA-GTFS,11,South,slmi,Slater Mill (Roosevelt & Main),1
+RIPTA-GTFS,11,South,patc,Pawtucket-Central Falls Transit Center,2
+RIPTA-GTFS,11,South,copk,Collyer Park (Main & Conant),3
+RIPTA-GTFS,11,South,nmni,9th Street (North Main & 9th),4
+RIPTA-GTFS,11,South,chga,Charlesgate (North Main & Doyle),5
+RIPTA-GTFS,11,South,psta,Providence Station,6
+RIPTA-GTFS,11,South,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,11,South,bdli,Trinity Square (Broad & Elmwood),8
+RIPTA-GTFS,11,South,bdth,Broad & Thurbers,9
+RIPTA-GTFS,11,South,bdcl,Broad Street Terminus,10
+RIPTA-GTFS,12,Inbound,arce,Arctic Center (Main & Washington),1
+RIPTA-GTFS,12,Inbound,p117,Park & Ride (RI-117 - Warwick),2
+RIPTA-GTFS,12,Inbound,exte,Exchange Terrace (Stop X),3
+RIPTA-GTFS,12,Inbound,conv,Rhode Island Convention Center,4
+RIPTA-GTFS,12,Inbound,weem,Westminster & Empire,5
+RIPTA-GTFS,12,Inbound,weed,Weybosset & Eddy,6
+RIPTA-GTFS,12,Inbound,tuhe,Turk's Head,7
+RIPTA-GTFS,12,Outbound,exte,Exchange Terrace (Stop X),1
+RIPTA-GTFS,12,Outbound,conv,Rhode Island Convention Center,2
+RIPTA-GTFS,12,Outbound,weem,Westminster & Empire,3
+RIPTA-GTFS,12,Outbound,weed,Weybosset & Eddy,4
+RIPTA-GTFS,12,Outbound,tuhe,Turk's Head,5
+RIPTA-GTFS,12,Outbound,p117,Park & Ride (RI-117 - Warwick),6
+RIPTA-GTFS,12,Outbound,arce,Arctic Center (Main & Washington),7
+RIPTA-GTFS,13,Inbound,woma,Woodland Manor,1
+RIPTA-GTFS,13,Inbound,walm,Job Lot (Coventry),2
+RIPTA-GTFS,13,Inbound,wash,South Main & Tiogue,3
+RIPTA-GTFS,13,Inbound,wasb,Washington & Sandy Bottom,4
+RIPTA-GTFS,13,Inbound,arce,Arctic Center (Main & Washington),5
+RIPTA-GTFS,13,Inbound,phen,Phenix Hotel,6
+RIPTA-GTFS,13,Inbound,prto,Providence & Tollgate,7
+RIPTA-GTFS,13,Inbound,prwa,Providence & Wakefield,8
+RIPTA-GTFS,13,Inbound,rima,Rhode Island Mall,9
+RIPTA-GTFS,13,Inbound,ccrw,CCRI Warwick,10
+RIPTA-GTFS,13,Outbound,ccrw,CCRI Warwick,1
+RIPTA-GTFS,13,Outbound,rima,Rhode Island Mall,2
+RIPTA-GTFS,13,Outbound,prwa,Providence & Wakefield,3
+RIPTA-GTFS,13,Outbound,prto,Providence & Tollgate,4
+RIPTA-GTFS,13,Outbound,phen,Phenix Hotel,5
+RIPTA-GTFS,13,Outbound,arce,Arctic Center (Main & Washington),6
+RIPTA-GTFS,13,Outbound,wasb,Washington & Sandy Bottom,7
+RIPTA-GTFS,13,Outbound,wash,South Main & Tiogue,8
+RIPTA-GTFS,13,Outbound,walm,Job Lot (Coventry),9
+RIPTA-GTFS,13,Outbound,woma,Woodland Manor,10
+RIPTA-GTFS,14,Inbound,gace,Newport Transportation Center,1
+RIPTA-GTFS,14,Inbound,nppr,Newport Park & Ride,2
+RIPTA-GTFS,14,Inbound,jame,Jamestown Ferry Landing,3
+RIPTA-GTFS,14,Inbound,rt1a,Park & Ride (RI-1A & RI-138),4
+RIPTA-GTFS,14,Inbound,wick,Wickford (Brown & Phillips),5
+RIPTA-GTFS,14,Inbound,2102,Wickford Train Station (Park & Ride),6
+RIPTA-GTFS,14,Inbound,kogr,Gate Road (Kohl's),7
+RIPTA-GTFS,14,Inbound,pofr,Post & Frenchtown,8
+RIPTA-GTFS,14,Inbound,fima,First & Main,9
+RIPTA-GTFS,14,Inbound,appo,Apponaug (Centerville & Post),10
+RIPTA-GTFS,14,Inbound,ccrw,CCRI Warwick,11
+RIPTA-GTFS,14,Inbound,intl,Airport Interlink,12
+RIPTA-GTFS,14,Inbound,je95,Jefferson & I-95,13
+RIPTA-GTFS,14,Inbound,kepl,Kennedy Plaza (Providence),14
+RIPTA-GTFS,14,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,14,Outbound,je95,Jefferson & I-95,2
+RIPTA-GTFS,14,Outbound,intl,Airport Interlink,3
+RIPTA-GTFS,14,Outbound,ccrw,CCRI Warwick,4
+RIPTA-GTFS,14,Outbound,appo,Apponaug (Centerville & Post),5
+RIPTA-GTFS,14,Outbound,fima,First & Main,6
+RIPTA-GTFS,14,Outbound,pofr,Post & Frenchtown,7
+RIPTA-GTFS,14,Outbound,kogr,Gate Road (Kohl's),8
+RIPTA-GTFS,14,Outbound,2102,Wickford Train Station (Park & Ride),9
+RIPTA-GTFS,14,Outbound,wick,Wickford (Brown & Phillips),10
+RIPTA-GTFS,14,Outbound,rt1a,Park & Ride (RI-1A & RI-138),11
+RIPTA-GTFS,14,Outbound,jame,Jamestown Ferry Landing,12
+RIPTA-GTFS,14,Outbound,nppr,Newport Park & Ride,13
+RIPTA-GTFS,14,Outbound,gace,Newport Transportation Center,14
+RIPTA-GTFS,16,Inbound,kogr,Gate Road (Kohl's),1
+RIPTA-GTFS,16,Inbound,pofr,Post & Frenchtown,2
+RIPTA-GTFS,16,Inbound,fima,First & Main,3
+RIPTA-GTFS,16,Inbound,nete,New England Tech (East Greenwich),4
+RIPTA-GTFS,16,Inbound,r2eg,RI-2 at East Greenwich Ave,5
+RIPTA-GTFS,16,Inbound,coco,Cowesett Corners (RI-2 & RI-3),6
+RIPTA-GTFS,16,Inbound,kect,Kent County Courthouse,7
+RIPTA-GTFS,16,Inbound,mbwa,Market Basket (West Warwick),8
+RIPTA-GTFS,16,Inbound,ccrw,CCRI Warwick,9
+RIPTA-GTFS,16,Outbound,ccrw,CCRI Warwick,1
+RIPTA-GTFS,16,Outbound,mbwa,Market Basket (West Warwick),2
+RIPTA-GTFS,16,Outbound,kect,Kent County Courthouse,3
+RIPTA-GTFS,16,Outbound,coco,Cowesett Corners (RI-2 & RI-3),4
+RIPTA-GTFS,16,Outbound,r2eg,RI-2 at East Greenwich Ave,5
+RIPTA-GTFS,16,Outbound,nete,New England Tech (East Greenwich),6
+RIPTA-GTFS,16,Outbound,fima,First & Main,7
+RIPTA-GTFS,16,Outbound,pofr,Post & Frenchtown,8
+RIPTA-GTFS,16,Outbound,kogr,Gate Road (Kohl's),9
+RIPTA-GTFS,17,Inbound,stph,Stop & Shop (Cranston - Atwood Ave),1
+RIPTA-GTFS,17,Inbound,dych,Dyer & Chestnut Hill,2
+RIPTA-GTFS,17,Inbound,odfe,Plainfield & Pocasset,3
+RIPTA-GTFS,17,Inbound,olsq,Olneyville Square,4
+RIPTA-GTFS,17,Inbound,crws,Cranston & Westminster,5
+RIPTA-GTFS,17,Inbound,kepl,Kennedy Plaza (Providence),6
+RIPTA-GTFS,17,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,17,Outbound,crws,Cranston & Westminster,2
+RIPTA-GTFS,17,Outbound,olsq,Olneyville Square,3
+RIPTA-GTFS,17,Outbound,odfe,Plainfield & Pocasset,4
+RIPTA-GTFS,17,Outbound,dych,Dyer & Chestnut Hill,5
+RIPTA-GTFS,17,Outbound,stph,Stop & Shop (Cranston - Atwood Ave),6
+RIPTA-GTFS,18,Inbound,dych,Dyer & Chestnut Hill,1
+RIPTA-GTFS,18,Inbound,lhel,Laurel Hill & Elwyn,2
+RIPTA-GTFS,18,Inbound,weun,Webster & Union,3
+RIPTA-GTFS,18,Inbound,crch,Cranston & Parade,4
+RIPTA-GTFS,18,Inbound,crws,Cranston & Westminster,5
+RIPTA-GTFS,18,Inbound,kepl,Kennedy Plaza (Providence),6
+RIPTA-GTFS,18,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,18,Outbound,crws,Cranston & Westminster,2
+RIPTA-GTFS,18,Outbound,crch,Cranston & Parade,3
+RIPTA-GTFS,18,Outbound,weun,Webster & Union,4
+RIPTA-GTFS,18,Outbound,lhel,Laurel Hill & Elwyn,5
+RIPTA-GTFS,18,Outbound,dych,Dyer & Chestnut Hill,6
+RIPTA-GTFS,19,Inbound,afcs,Cranston Ind. Pk (Amflex & Comstock),1
+RIPTA-GTFS,19,Inbound,walc,Walmart (Cranston),2
+RIPTA-GTFS,19,Inbound,atpl,Atwood & Plainfield,3
+RIPTA-GTFS,19,Inbound,plmu,Plainfield & Murray,4
+RIPTA-GTFS,19,Inbound,odfe,Plainfield & Pocasset,5
+RIPTA-GTFS,19,Inbound,olsq,Olneyville Square,6
+RIPTA-GTFS,19,Inbound,crws,Cranston & Westminster,7
+RIPTA-GTFS,19,Inbound,kepl,Kennedy Plaza (Providence),8
+RIPTA-GTFS,19,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,19,Outbound,crws,Cranston & Westminster,2
+RIPTA-GTFS,19,Outbound,olsq,Olneyville Square,3
+RIPTA-GTFS,19,Outbound,odfe,Plainfield & Pocasset,4
+RIPTA-GTFS,19,Outbound,plmu,Plainfield & Murray,5
+RIPTA-GTFS,19,Outbound,atpl,Atwood & Plainfield,6
+RIPTA-GTFS,19,Outbound,walc,Walmart (Cranston),7
+RIPTA-GTFS,19,Outbound,afcs,Cranston Ind. Pk (Amflex & Comstock),8
+RIPTA-GTFS,20,Inbound,netp,New England Tech (Post Road),1
+RIPTA-GTFS,20,Inbound,tfgr,TF Green Airport,2
+RIPTA-GTFS,20,Inbound,poli,Post & Lincoln,3
+RIPTA-GTFS,20,Inbound,elpo,Elmwood & Post,4
+RIPTA-GTFS,20,Inbound,prre,Job Lot (Cranston) - Elmwood Ave,5
+RIPTA-GTFS,20,Inbound,prfd,Job Lot (Cranston) - Front Door,6
+RIPTA-GTFS,20,Inbound,elga,Elmwood Garage/RIPTA HQ,7
+RIPTA-GTFS,20,Inbound,elon,Elmwood & Reservoir,8
+RIPTA-GTFS,20,Inbound,elbr,Elmwood & Broad,9
+RIPTA-GTFS,20,Inbound,weed,Weybosset & Eddy,10
+RIPTA-GTFS,20,Inbound,kepl,Kennedy Plaza (Providence),11
+RIPTA-GTFS,20,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,20,Outbound,elbr,Elmwood & Broad,2
+RIPTA-GTFS,20,Outbound,elon,Elmwood & Reservoir,3
+RIPTA-GTFS,20,Outbound,elga,Elmwood Garage/RIPTA HQ,4
+RIPTA-GTFS,20,Outbound,prfd,Job Lot (Cranston) - Front Door,5
+RIPTA-GTFS,20,Outbound,prre,Job Lot (Cranston) - Elmwood Ave,6
+RIPTA-GTFS,20,Outbound,elpo,Elmwood & Post,7
+RIPTA-GTFS,20,Outbound,poli,Post & Lincoln,8
+RIPTA-GTFS,20,Outbound,tfgr,TF Green Airport,9
+RIPTA-GTFS,20,Outbound,netp,New England Tech (Post Road),10
+RIPTA-GTFS,21,Inbound,ccrw,CCRI Warwick,1
+RIPTA-GTFS,21,Inbound,rima,Rhode Island Mall,2
+RIPTA-GTFS,21,Inbound,wmvd,Warwick Mall (Villa Del Rio Apartments),3
+RIPTA-GTFS,21,Inbound,ince,Traffic Tribunal,4
+RIPTA-GTFS,21,Inbound,grph,Garden City (Midway Rd),5
+RIPTA-GTFS,21,Inbound,pare,Park & Reservoir,6
+RIPTA-GTFS,21,Inbound,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,21,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,21,Outbound,pare,Park & Reservoir,2
+RIPTA-GTFS,21,Outbound,grph,Garden City (Midway Rd),3
+RIPTA-GTFS,21,Outbound,ince,Traffic Tribunal,4
+RIPTA-GTFS,21,Outbound,wmvd,Warwick Mall (Villa Del Rio Apartments),5
+RIPTA-GTFS,21,Outbound,rima,Rhode Island Mall,6
+RIPTA-GTFS,21,Outbound,ccrw,CCRI Warwick,7
+RIPTA-GTFS,22,Inbound,ccrw,CCRI Warwick,1
+RIPTA-GTFS,22,Inbound,wmvd,Warwick Mall (Villa Del Rio Apartments),2
+RIPTA-GTFS,22,Inbound,popo,Pontiac & Power,3
+RIPTA-GTFS,22,Inbound,pogc,Pontiac & Garden City Drive,4
+RIPTA-GTFS,22,Inbound,paro,Park & Rolfe,5
+RIPTA-GTFS,22,Inbound,pore,Pontiac & Reservoir,6
+RIPTA-GTFS,22,Inbound,elon,Elmwood & Reservoir,7
+RIPTA-GTFS,22,Inbound,elbr,Elmwood & Broad,8
+RIPTA-GTFS,22,Inbound,weed,Weybosset & Eddy,9
+RIPTA-GTFS,22,Inbound,kepl,Kennedy Plaza (Providence),10
+RIPTA-GTFS,22,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,22,Outbound,elbr,Elmwood & Broad,2
+RIPTA-GTFS,22,Outbound,elon,Elmwood & Reservoir,3
+RIPTA-GTFS,22,Outbound,pore,Pontiac & Reservoir,4
+RIPTA-GTFS,22,Outbound,paro,Park & Rolfe,5
+RIPTA-GTFS,22,Outbound,pogc,Pontiac & Garden City Drive,6
+RIPTA-GTFS,22,Outbound,popo,Pontiac & Power,7
+RIPTA-GTFS,22,Outbound,wmvd,Warwick Mall (Villa Del Rio Apartments),8
+RIPTA-GTFS,22,Outbound,ccrw,CCRI Warwick,9
+RIPTA-GTFS,23,Inbound,ctne,Centre of New England,1
+RIPTA-GTFS,23,Inbound,tiar,Tiogue & Arnold,2
+RIPTA-GTFS,23,Inbound,crom,Crompton (Main & Pulaski),3
+RIPTA-GTFS,23,Inbound,arce,Arctic Center (Main & Washington),4
+RIPTA-GTFS,23,Inbound,prto,Providence & Tollgate,5
+RIPTA-GTFS,23,Inbound,ccrw,CCRI Warwick,6
+RIPTA-GTFS,23,Outbound,ccrw,CCRI Warwick,1
+RIPTA-GTFS,23,Outbound,prto,Providence & Tollgate,2
+RIPTA-GTFS,23,Outbound,arce,Arctic Center (Main & Washington),3
+RIPTA-GTFS,23,Outbound,crom,Crompton (Main & Pulaski),4
+RIPTA-GTFS,23,Outbound,tiar,Tiogue & Arnold,5
+RIPTA-GTFS,23,Outbound,ctne,Centre of New England,6
+RIPTA-GTFS,24,Inbound,gace,Newport Transportation Center,1
+RIPTA-GTFS,24,Inbound,nppr,Newport Park & Ride,2
+RIPTA-GTFS,24,Inbound,fird,Park & Ride (Fish Road - Tiverton),3
+RIPTA-GTFS,24,Inbound,frpe,Pettine Transit Center (Fall River),4
+RIPTA-GTFS,24,Inbound,sopr,Park & Ride (Somerset),5
+RIPTA-GTFS,24,Inbound,edpo,Eddy & Point,6
+RIPTA-GTFS,24,Inbound,exte,Exchange Terrace (Stop X),7
+RIPTA-GTFS,24,Outbound,exte,Exchange Terrace (Stop X),1
+RIPTA-GTFS,24,Outbound,edpo,Eddy & Point,2
+RIPTA-GTFS,24,Outbound,sopr,Park & Ride (Somerset),3
+RIPTA-GTFS,24,Outbound,frpe,Pettine Transit Center (Fall River),4
+RIPTA-GTFS,24,Outbound,fird,Park & Ride (Fish Road - Tiverton),5
+RIPTA-GTFS,24,Outbound,nppr,Newport Park & Ride,6
+RIPTA-GTFS,24,Outbound,gace,Newport Transportation Center,7
+RIPTA-GTFS,27,Inbound,cent,Centerdale,1
+RIPTA-GTFS,27,Inbound,gwgr,George Waterman & Greenville,2
+RIPTA-GTFS,27,Inbound,mach,Manton & Chalkstone,3
+RIPTA-GTFS,27,Inbound,stom,Stop & Shop (Providence - Manton Ave),4
+RIPTA-GTFS,27,Inbound,maat,Manton & Atwells,5
+RIPTA-GTFS,27,Inbound,olsq,Olneyville Square,6
+RIPTA-GTFS,27,Inbound,lasq,La Salle Square,7
+RIPTA-GTFS,27,Inbound,kepl,Kennedy Plaza (Providence),8
+RIPTA-GTFS,27,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,27,Outbound,lasq,La Salle Square,2
+RIPTA-GTFS,27,Outbound,olsq,Olneyville Square,3
+RIPTA-GTFS,27,Outbound,maat,Manton & Atwells,4
+RIPTA-GTFS,27,Outbound,stom,Stop & Shop (Providence - Manton Ave),5
+RIPTA-GTFS,27,Outbound,mach,Manton & Chalkstone,6
+RIPTA-GTFS,27,Outbound,gwgr,George Waterman & Greenville,7
+RIPTA-GTFS,27,Outbound,cent,Centerdale,8
+RIPTA-GTFS,28,Inbound,amjo,Amazon (Johnston),1
+RIPTA-GTFS,28,Inbound,jljo,Job Lot Johnston,2
+RIPTA-GTFS,28,Inbound,mbjo,Market Basket (Johnston),3
+RIPTA-GTFS,28,Inbound,haki,Hartford & Killingly,4
+RIPTA-GTFS,28,Inbound,olsq,Olneyville Square,5
+RIPTA-GTFS,28,Inbound,lasq,La Salle Square,6
+RIPTA-GTFS,28,Inbound,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,28,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,28,Outbound,lasq,La Salle Square,2
+RIPTA-GTFS,28,Outbound,olsq,Olneyville Square,3
+RIPTA-GTFS,28,Outbound,haki,Hartford & Killingly,4
+RIPTA-GTFS,28,Outbound,mbjo,Market Basket (Johnston),5
+RIPTA-GTFS,28,Outbound,jljo,Job Lot Johnston,6
+RIPTA-GTFS,28,Outbound,amjo,Amazon (Johnston),7
+RIPTA-GTFS,29,Inbound,wsch,West Shore & Beach,1
+RIPTA-GTFS,29,Inbound,wasa,Meadowbrook (Warwick & Sandy Lane),2
+RIPTA-GTFS,29,Inbound,appo,Apponaug (Centerville & Post),3
+RIPTA-GTFS,29,Inbound,keco,Kent Hospital,4
+RIPTA-GTFS,29,Inbound,ccrw,CCRI Warwick,5
+RIPTA-GTFS,29,Outbound,ccrw,CCRI Warwick,1
+RIPTA-GTFS,29,Outbound,keco,Kent Hospital,2
+RIPTA-GTFS,29,Outbound,appo,Apponaug (Centerville & Post),3
+RIPTA-GTFS,29,Outbound,wasa,Meadowbrook (Warwick & Sandy Lane),4
+RIPTA-GTFS,29,Outbound,wsch,West Shore & Beach,5
+RIPTA-GTFS,30,Inbound,ccrw,CCRI Warwick,1
+RIPTA-GTFS,30,Inbound,wmvd,Warwick Mall (Villa Del Rio Apartments),2
+RIPTA-GTFS,30,Inbound,megr,Oaklawn & New London,3
+RIPTA-GTFS,30,Inbound,oade,Oaklawn & Dean,4
+RIPTA-GTFS,30,Inbound,crga,Cranston & Gansett,5
+RIPTA-GTFS,30,Inbound,crwe,Cranston & Webster,6
+RIPTA-GTFS,30,Inbound,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,30,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,30,Outbound,crwe,Cranston & Webster,2
+RIPTA-GTFS,30,Outbound,crga,Cranston & Gansett,3
+RIPTA-GTFS,30,Outbound,oade,Oaklawn & Dean,4
+RIPTA-GTFS,30,Outbound,megr,Oaklawn & New London,5
+RIPTA-GTFS,30,Outbound,wmvd,Warwick Mall (Villa Del Rio Apartments),6
+RIPTA-GTFS,30,Outbound,ccrw,CCRI Warwick,7
+RIPTA-GTFS,31,Inbound,brpa,Brewery Parkade,1
+RIPTA-GTFS,31,Inbound,crch,Cranston & Parade,2
+RIPTA-GTFS,31,Inbound,crws,Cranston & Westminster,3
+RIPTA-GTFS,31,Inbound,kepl,Kennedy Plaza (Providence),4
+RIPTA-GTFS,31,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,31,Outbound,crws,Cranston & Westminster,2
+RIPTA-GTFS,31,Outbound,crch,Cranston & Parade,3
+RIPTA-GTFS,31,Outbound,brpa,Brewery Parkade,4
+RIPTA-GTFS,32,Inbound,sksq,Seekonk Square Mall,1
+RIPTA-GTFS,32,Inbound,lsep,Lifespan East Providence,2
+RIPTA-GTFS,32,Inbound,ciba,Citizens Bank (East Providence),3
+RIPTA-GTFS,32,Inbound,sbma,South Broadway & Martin,4
+RIPTA-GTFS,32,Inbound,waso,Warren & South Broadway,5
+RIPTA-GTFS,32,Inbound,wapo,Warren & Potter,6
+RIPTA-GTFS,32,Inbound,aneg,Angell & Elmgrove,7
+RIPTA-GTFS,32,Inbound,tuth,Tunnel & Thayer,8
+RIPTA-GTFS,32,Inbound,kepl,Kennedy Plaza (Providence),9
+RIPTA-GTFS,32,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,32,Outbound,tuth,Tunnel & Thayer,2
+RIPTA-GTFS,32,Outbound,wabu,Waterman & Butler,3
+RIPTA-GTFS,32,Outbound,wapo,Warren & Potter,4
+RIPTA-GTFS,32,Outbound,waso,Warren & South Broadway,5
+RIPTA-GTFS,32,Outbound,sbma,South Broadway & Martin,6
+RIPTA-GTFS,32,Outbound,ciba,Citizens Bank (East Providence),7
+RIPTA-GTFS,32,Outbound,sksq,Seekonk Square Mall,8
+RIPTA-GTFS,33,Inbound,wicv,Shaw's (Willett Ave - Riverside),1
+RIPTA-GTFS,33,Inbound,bpcv,Bullocks Point & Crescent View,2
+RIPTA-GTFS,33,Inbound,vepa,Veterans Parkway & Pawtucket,3
+RIPTA-GTFS,33,Inbound,wapw,Warren & Pawtucket,4
+RIPTA-GTFS,33,Inbound,wamp,Wampanoag Mall,5
+RIPTA-GTFS,33,Inbound,brsi,Taunton & Waterman,6
+RIPTA-GTFS,33,Inbound,aneg,Angell & Elmgrove,7
+RIPTA-GTFS,33,Inbound,tuth,Tunnel & Thayer,8
+RIPTA-GTFS,33,Inbound,kepl,Kennedy Plaza (Providence),9
+RIPTA-GTFS,33,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,33,Outbound,tuth,Tunnel & Thayer,2
+RIPTA-GTFS,33,Outbound,wabu,Waterman & Butler,3
+RIPTA-GTFS,33,Outbound,brsi,Taunton & Waterman,4
+RIPTA-GTFS,33,Outbound,wamp,Wampanoag Mall,5
+RIPTA-GTFS,33,Outbound,wapw,Warren & Pawtucket,6
+RIPTA-GTFS,33,Outbound,vepa,Veterans Parkway & Pawtucket,7
+RIPTA-GTFS,33,Outbound,bpcv,Bullocks Point & Crescent View,8
+RIPTA-GTFS,33,Outbound,wicv,Shaw's (Willett Ave - Riverside),9
+RIPTA-GTFS,34,Inbound,sksq,Seekonk Square Mall,1
+RIPTA-GTFS,34,Inbound,evgr,Evergreen Apartments,2
+RIPTA-GTFS,34,Inbound,tpnr,Park & Ride (Taunton Ave - E Providence),3
+RIPTA-GTFS,34,Inbound,wamp,Wampanoag Mall,4
+RIPTA-GTFS,34,Inbound,wapw,Warren & Pawtucket,5
+RIPTA-GTFS,34,Inbound,wapo,Warren & Potter,6
+RIPTA-GTFS,34,Inbound,aneg,Angell & Elmgrove,7
+RIPTA-GTFS,34,Inbound,tuth,Tunnel & Thayer,8
+RIPTA-GTFS,34,Inbound,kepl,Kennedy Plaza (Providence),9
+RIPTA-GTFS,34,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,34,Outbound,tuth,Tunnel & Thayer,2
+RIPTA-GTFS,34,Outbound,wabu,Waterman & Butler,3
+RIPTA-GTFS,34,Outbound,wapo,Warren & Potter,4
+RIPTA-GTFS,34,Outbound,wapw,Warren & Pawtucket,5
+RIPTA-GTFS,34,Outbound,wamp,Wampanoag Mall,6
+RIPTA-GTFS,34,Outbound,tpnr,Park & Ride (Taunton Ave - E Providence),7
+RIPTA-GTFS,34,Outbound,evgr,Evergreen Apartments,8
+RIPTA-GTFS,34,Outbound,sksq,Seekonk Square Mall,9
+RIPTA-GTFS,35,Inbound,soas,South Attleboro (Bristol Place),1
+RIPTA-GTFS,35,Inbound,arne,Armistice & Newport,2
+RIPTA-GTFS,35,Inbound,nebh,Newport & Beverage Hill,3
+RIPTA-GTFS,35,Inbound,nefe,Newport & Ferris,4
+RIPTA-GTFS,35,Inbound,nbrw,North Broadway & Roger Williams,5
+RIPTA-GTFS,35,Inbound,brsi,Taunton & Waterman,6
+RIPTA-GTFS,35,Inbound,tapo,Taunton & Potter,7
+RIPTA-GTFS,35,Inbound,aneg,Angell & Elmgrove,8
+RIPTA-GTFS,35,Inbound,tuth,Tunnel & Thayer,9
+RIPTA-GTFS,35,Inbound,kepl,Kennedy Plaza (Providence),10
+RIPTA-GTFS,35,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,35,Outbound,tapo,Taunton & Potter,2
+RIPTA-GTFS,35,Outbound,brsi,Taunton & Waterman,3
+RIPTA-GTFS,35,Outbound,nbrw,North Broadway & Roger Williams,4
+RIPTA-GTFS,35,Outbound,nefe,Newport & Ferris,5
+RIPTA-GTFS,35,Outbound,nebh,Newport & Beverage Hill,6
+RIPTA-GTFS,35,Outbound,arne,Armistice & Newport,7
+RIPTA-GTFS,35,Outbound,soas,South Attleboro (Bristol Place),8
+RIPTA-GTFS,40,Inbound,buho,Butler Hospital,1
+RIPTA-GTFS,40,Inbound,elsa,elmgrove & savoy,2
+RIPTA-GTFS,40,Inbound,elan,Elmgrove & Angell,3
+RIPTA-GTFS,40,Inbound,tuth,Tunnel & Thayer,4
+RIPTA-GTFS,40,Inbound,kepl,Kennedy Plaza (Providence),5
+RIPTA-GTFS,40,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,40,Outbound,tuth,Tunnel & Thayer,2
+RIPTA-GTFS,40,Outbound,wasq,Wayland Square,3
+RIPTA-GTFS,40,Outbound,egsa,Elmgrove & Savoy,4
+RIPTA-GTFS,40,Outbound,buho,Butler Hospital,5
+RIPTA-GTFS,50,Inbound,brco,Bryant University,1
+RIPTA-GTFS,50,Inbound,fide,Fidelity Investments,2
+RIPTA-GTFS,50,Inbound,d295,Douglas Pike/RI-7 & I-295,3
+RIPTA-GTFS,50,Inbound,trdp,Twin River & Douglas Pike,4
+RIPTA-GTFS,50,Inbound,msdo,Mineral Spring & Douglas,5
+RIPTA-GTFS,50,Inbound,adlu,Shaw's (North Providence),6
+RIPTA-GTFS,50,Inbound,dovz,Douglas & Veazie,7
+RIPTA-GTFS,50,Inbound,doea,Douglas & Eaton,8
+RIPTA-GTFS,50,Inbound,smga,Smith & Gaspee,9
+RIPTA-GTFS,50,Inbound,kepl,Kennedy Plaza (Providence),10
+RIPTA-GTFS,50,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,50,Outbound,smga,Smith & Gaspee,2
+RIPTA-GTFS,50,Outbound,doea,Douglas & Eaton,3
+RIPTA-GTFS,50,Outbound,dovz,Douglas & Veazie,4
+RIPTA-GTFS,50,Outbound,adlu,Shaw's (North Providence),5
+RIPTA-GTFS,50,Outbound,msdo,Mineral Spring & Douglas,6
+RIPTA-GTFS,50,Outbound,trdp,Twin River & Douglas Pike,7
+RIPTA-GTFS,50,Outbound,d295,Douglas Pike/RI-7 & I-295,8
+RIPTA-GTFS,50,Outbound,fide,Fidelity Investments,9
+RIPTA-GTFS,50,Outbound,brco,Bryant University,10
+RIPTA-GTFS,51,Inbound,ccri,CCRI Lincoln,1
+RIPTA-GTFS,51,Inbound,lipa,Twin River Casino,2
+RIPTA-GTFS,51,Inbound,msch,Mineral Spring & Charles,3
+RIPTA-GTFS,51,Inbound,brch,Charles & Branch,4
+RIPTA-GTFS,51,Inbound,adch,Admiral & Charles,5
+RIPTA-GTFS,51,Inbound,psta,Providence Station,6
+RIPTA-GTFS,51,Inbound,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,51,Inbound,riho,Hospital District (Eddy & Borden),8
+RIPTA-GTFS,51,Outbound,riho,Hospital District (Eddy & Borden),1
+RIPTA-GTFS,51,Outbound,kepl,Kennedy Plaza (Providence),2
+RIPTA-GTFS,51,Outbound,psta,Providence Station,3
+RIPTA-GTFS,51,Outbound,adch,Admiral & Charles,4
+RIPTA-GTFS,51,Outbound,brch,Charles & Branch,5
+RIPTA-GTFS,51,Outbound,msch,Mineral Spring & Charles,6
+RIPTA-GTFS,51,Outbound,lipa,Twin River Casino,7
+RIPTA-GTFS,51,Outbound,ccri,CCRI Lincoln,8
+RIPTA-GTFS,54,Inbound,stpb,Stop & Shop Bellingham,1
+RIPTA-GTFS,54,Inbound,maas,Main Street (Municipal Parking Lot),2
+RIPTA-GTFS,54,Inbound,pasq,Park Square (Park & RI-146A),3
+RIPTA-GTFS,54,Inbound,wmns,Walmart (North Smithfield),4
+RIPTA-GTFS,54,Inbound,lima,Lincoln Mall,5
+RIPTA-GTFS,54,Inbound,noce,North Central Industrial Park,6
+RIPTA-GTFS,54,Inbound,ccri,CCRI Lincoln,7
+RIPTA-GTFS,54,Inbound,lipa,Twin River Casino,8
+RIPTA-GTFS,54,Inbound,psta,Providence Station,9
+RIPTA-GTFS,54,Inbound,kepl,Kennedy Plaza (Providence),10
+RIPTA-GTFS,54,Inbound,riho,Hospital District (Eddy & Borden),11
+RIPTA-GTFS,54,Outbound,riho,Hospital District (Eddy & Borden),1
+RIPTA-GTFS,54,Outbound,kepl,Kennedy Plaza (Providence),2
+RIPTA-GTFS,54,Outbound,psta,Providence Station,3
+RIPTA-GTFS,54,Outbound,lipa,Twin River Casino,4
+RIPTA-GTFS,54,Outbound,ccri,CCRI Lincoln,5
+RIPTA-GTFS,54,Outbound,noce,North Central Industrial Park,6
+RIPTA-GTFS,54,Outbound,lima,Lincoln Mall,7
+RIPTA-GTFS,54,Outbound,wmns,Walmart (North Smithfield),8
+RIPTA-GTFS,54,Outbound,pasq,Park Square (Park & RI-146A),9
+RIPTA-GTFS,54,Outbound,clkm,Clinton St. at Kennedy Manor,10
+RIPTA-GTFS,54,Outbound,stpb,Stop & Shop Bellingham,11
+RIPTA-GTFS,54,Inbound,grey,Greystone of Lincoln,7
+RIPTA-GTFS,54,Inbound,ccri,CCRI Lincoln,8
+RIPTA-GTFS,54,Inbound,lipa,Twin River Casino,9
+RIPTA-GTFS,54,Inbound,psta,Providence Station,10
+RIPTA-GTFS,54,Inbound,kepl,Kennedy Plaza (Providence),11
+RIPTA-GTFS,54,Inbound,riho,Hospital District (Eddy & Borden),12
+RIPTA-GTFS,54,Outbound,grey,Greystone of Lincoln,6
+RIPTA-GTFS,54,Outbound,noce,North Central Industrial Park,7
+RIPTA-GTFS,54,Outbound,lima,Lincoln Mall,8
+RIPTA-GTFS,54,Outbound,wmns,Walmart (North Smithfield),9
+RIPTA-GTFS,54,Outbound,pasq,Park Square (Park & RI-146A),10
+RIPTA-GTFS,54,Outbound,clkm,Clinton St. at Kennedy Manor,11
+RIPTA-GTFS,54,Outbound,stpb,Stop & Shop Bellingham,12
+RIPTA-GTFS,55,Inbound,ric,Rhode Island College,1
+RIPTA-GTFS,55,Inbound,hsfi,High Service & Fatima Drive,2
+RIPTA-GTFS,55,Inbound,adlu,Shaw's (North Providence),3
+RIPTA-GTFS,55,Inbound,huea,Providence College,4
+RIPTA-GTFS,55,Inbound,adcb,Admiral & Chad Brown,5
+RIPTA-GTFS,55,Inbound,gasm,Gaspee & Smith,6
+RIPTA-GTFS,55,Inbound,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,55,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,55,Outbound,gasm,Gaspee & Smith,2
+RIPTA-GTFS,55,Outbound,adcb,Admiral & Chad Brown,3
+RIPTA-GTFS,55,Outbound,huea,Providence College,4
+RIPTA-GTFS,55,Outbound,adlu,Shaw's (North Providence),5
+RIPTA-GTFS,55,Outbound,hsfi,High Service & Fatima Drive,6
+RIPTA-GTFS,55,Outbound,ric,Rhode Island College,7
+RIPTA-GTFS,56,Inbound,stom,Stop & Shop (Providence - Manton Ave),1
+RIPTA-GTFS,56,Inbound,chmt,Chalkstone & Mt Pleasant,2
+RIPTA-GTFS,56,Inbound,chri,Chalkstone & River,3
+RIPTA-GTFS,56,Inbound,vaho,VA Hospital,4
+RIPTA-GTFS,56,Inbound,chsm,Chalkstone & Smith,5
+RIPTA-GTFS,56,Inbound,smfr,Smith & Francis,6
+RIPTA-GTFS,56,Inbound,kepl,Kennedy Plaza (Providence),7
+RIPTA-GTFS,56,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,56,Outbound,smfr,Smith & Francis,2
+RIPTA-GTFS,56,Outbound,chsm,Chalkstone & Smith,3
+RIPTA-GTFS,56,Outbound,vaho,VA Hospital,4
+RIPTA-GTFS,56,Outbound,chri,Chalkstone & River,5
+RIPTA-GTFS,56,Outbound,chmt,Chalkstone & Mt Pleasant,6
+RIPTA-GTFS,56,Outbound,stom,Stop & Shop (Providence - Manton Ave),7
+RIPTA-GTFS,57,Inbound,cent,Centerdale,1
+RIPTA-GTFS,57,Inbound,smtu,Smith & Fruit Hill,2
+RIPTA-GTFS,57,Inbound,mesm,Smith & Academy,3
+RIPTA-GTFS,57,Inbound,chsm,Chalkstone & Smith,4
+RIPTA-GTFS,57,Inbound,smfr,Smith & Francis,5
+RIPTA-GTFS,57,Inbound,kepl,Kennedy Plaza (Providence),6
+RIPTA-GTFS,57,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,57,Outbound,smfr,Smith & Francis,2
+RIPTA-GTFS,57,Outbound,chsm,Chalkstone & Smith,3
+RIPTA-GTFS,57,Outbound,mesm,Smith & Academy,4
+RIPTA-GTFS,57,Outbound,smtu,Smith & Fruit Hill,5
+RIPTA-GTFS,57,Outbound,cent,Centerdale,6
+RIPTA-GTFS,58,Inbound,sfcr,Smithfield Crossing,1
+RIPTA-GTFS,58,Inbound,es44,Esmond & RI-44,2
+RIPTA-GTFS,58,Inbound,esmo,Waterman & Esmond,3
+RIPTA-GTFS,58,Inbound,rogr,Waterman & Greystone,4
+RIPTA-GTFS,58,Inbound,bpms,Bypass & Mineral Spring,5
+RIPTA-GTFS,58,Inbound,ssbo,sunset & bourne,6
+RIPTA-GTFS,58,Inbound,msdo,Mineral Spring & Douglas,7
+RIPTA-GTFS,58,Inbound,adlu,Shaw's (North Providence),8
+RIPTA-GTFS,58,Inbound,brdo,Branch & Douglas,9
+RIPTA-GTFS,58,Inbound,chbr,Branch & Charles,10
+RIPTA-GTFS,58,Inbound,wrco,West River & Corliss,11
+RIPTA-GTFS,58,Inbound,psta,Providence Station,12
+RIPTA-GTFS,58,Inbound,kepl,Kennedy Plaza (Providence),13
+RIPTA-GTFS,58,Inbound,riho,Hospital District (Eddy & Borden),14
+RIPTA-GTFS,58,Outbound,riho,Hospital District (Eddy & Borden),1
+RIPTA-GTFS,58,Outbound,kepl,Kennedy Plaza (Providence),2
+RIPTA-GTFS,58,Outbound,psta,Providence Station,3
+RIPTA-GTFS,58,Outbound,wrco,West River & Corliss,4
+RIPTA-GTFS,58,Outbound,chbr,Branch & Charles,5
+RIPTA-GTFS,58,Outbound,brdo,Branch & Douglas,6
+RIPTA-GTFS,58,Outbound,adlu,Shaw's (North Providence),7
+RIPTA-GTFS,58,Outbound,msdo,Mineral Spring & Douglas,8
+RIPTA-GTFS,58,Outbound,ssbo,sunset & bourne,9
+RIPTA-GTFS,58,Outbound,bpms,Bypass & Mineral Spring,10
+RIPTA-GTFS,58,Outbound,rogr,Waterman & Greystone,11
+RIPTA-GTFS,58,Outbound,esmo,Waterman & Esmond,12
+RIPTA-GTFS,58,Outbound,es44,Esmond & RI-44,13
+RIPTA-GTFS,58,Outbound,sfcr,Smithfield Crossing,14
+RIPTA-GTFS,59,Inbound,slpl,Slatersville Plaza (Brigido's Market),1
+RIPTA-GTFS,59,Inbound,brvl,Branch Village,2
+RIPTA-GTFS,59,Inbound,pasq,Park Square (Park & RI-146A),3
+RIPTA-GTFS,59,Inbound,linr,Lincoln Mall Park & Ride (Rear Lot),4
+RIPTA-GTFS,59,Inbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,59,Inbound,conv,Rhode Island Convention Center,6
+RIPTA-GTFS,59,Inbound,weem,Westminster & Empire,7
+RIPTA-GTFS,59,Inbound,weed,Weybosset & Eddy,8
+RIPTA-GTFS,59,Inbound,tuhe,Turk's Head,9
+RIPTA-GTFS,59,Outbound,conv,Rhode Island Convention Center,1
+RIPTA-GTFS,59,Outbound,weem,Westminster & Empire,2
+RIPTA-GTFS,59,Outbound,weed,Weybosset & Eddy,3
+RIPTA-GTFS,59,Outbound,tuhe,Turk's Head,4
+RIPTA-GTFS,59,Outbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,59,Outbound,linr,Lincoln Mall Park & Ride (Rear Lot),6
+RIPTA-GTFS,59,Outbound,pasq,Park Square (Park & RI-146A),7
+RIPTA-GTFS,59,Outbound,brvl,Branch Village,8
+RIPTA-GTFS,59,Outbound,slpl,Slatersville Plaza (Brigido's Market),9
+RIPTA-GTFS,60,Inbound,gace,Newport Transportation Center,1
+RIPTA-GTFS,60,Inbound,twmi,West Main & East Main,2
+RIPTA-GTFS,60,Inbound,ga17,Naval Undersea Warfare Center (Gate 23),3
+RIPTA-GTFS,60,Inbound,grla,Greene Lane (Middletown),4
+RIPTA-GTFS,60,Inbound,pose,Portsmouth Senior Center (RI-114),5
+RIPTA-GTFS,60,Inbound,emtu,East Main & Turnpike,6
+RIPTA-GTFS,60,Inbound,pmpr,Park & Ride (East Main - Portsmouth),7
+RIPTA-GTFS,60,Inbound,mtho,Roger Williams University (Bristol),8
+RIPTA-GTFS,60,Inbound,host,Hope & State (Bristol),9
+RIPTA-GTFS,60,Inbound,majo,Main & Joyce (Warren),10
+RIPTA-GTFS,60,Inbound,whch,Park & Ride (White Church - Barrington),11
+RIPTA-GTFS,60,Inbound,kepl,Kennedy Plaza (Providence),12
+RIPTA-GTFS,60,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,60,Outbound,whch,Park & Ride (White Church - Barrington),2
+RIPTA-GTFS,60,Outbound,majo,Main & Joyce (Warren),3
+RIPTA-GTFS,60,Outbound,host,Hope & State (Bristol),4
+RIPTA-GTFS,60,Outbound,mtho,Roger Williams University (Bristol),5
+RIPTA-GTFS,60,Outbound,pmpr,Park & Ride (East Main - Portsmouth),6
+RIPTA-GTFS,60,Outbound,pose,Portsmouth Senior Center (RI-114),7
+RIPTA-GTFS,60,Outbound,grla,Greene Lane (Middletown),8
+RIPTA-GTFS,60,Outbound,emtu,East Main & Turnpike,9
+RIPTA-GTFS,60,Outbound,ga17,Naval Undersea Warfare Center (Gate 23),10
+RIPTA-GTFS,60,Outbound,twmi,West Main & East Main,11
+RIPTA-GTFS,60,Outbound,gace,Newport Transportation Center,12
+RIPTA-GTFS,61,Inbound,fird,Park & Ride (Fish Road - Tiverton),1
+RIPTA-GTFS,61,Inbound,pmpr,Park & Ride (East Main - Portsmouth),2
+RIPTA-GTFS,61,Inbound,mtho,Roger Williams University (Bristol),3
+RIPTA-GTFS,61,Inbound,mtfr,Metacom & Franklin,4
+RIPTA-GTFS,61,Inbound,tpic,TPI Composites,5
+RIPTA-GTFS,61,Inbound,mar6,Market St & US-6,6
+RIPTA-GTFS,61,Inbound,wapk,Park & Ride (Franklin St - Warren),7
+RIPTA-GTFS,61,Inbound,majo,Main & Joyce (Warren),8
+RIPTA-GTFS,61,Inbound,whch,Park & Ride (White Church - Barrington),9
+RIPTA-GTFS,61,Inbound,tuth,Tunnel & Thayer,10
+RIPTA-GTFS,61,Inbound,exte,Exchange Terrace (Stop X),11
+RIPTA-GTFS,61,Inbound,conv,Rhode Island Convention Center,12
+RIPTA-GTFS,61,Inbound,weem,Westminster & Empire,13
+RIPTA-GTFS,61,Inbound,weed,Weybosset & Eddy,14
+RIPTA-GTFS,61,Inbound,tuhe,Turk's Head,15
+RIPTA-GTFS,61,Outbound,conv,Rhode Island Convention Center,1
+RIPTA-GTFS,61,Outbound,weem,Westminster & Empire,2
+RIPTA-GTFS,61,Outbound,weed,Weybosset & Eddy,3
+RIPTA-GTFS,61,Outbound,tuhe,Turk's Head,4
+RIPTA-GTFS,61,Outbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,61,Outbound,tuth,Tunnel & Thayer,6
+RIPTA-GTFS,61,Outbound,whch,Park & Ride (White Church - Barrington),7
+RIPTA-GTFS,61,Outbound,majo,Main & Joyce (Warren),8
+RIPTA-GTFS,61,Outbound,wapk,Park & Ride (Franklin St - Warren),9
+RIPTA-GTFS,61,Outbound,mar6,Market St & US-6,10
+RIPTA-GTFS,61,Outbound,tpic,TPI Composites,11
+RIPTA-GTFS,61,Outbound,mtfr,Metacom & Franklin,12
+RIPTA-GTFS,61,Outbound,mtho,Roger Williams University (Bristol),13
+RIPTA-GTFS,61,Outbound,pmpr,Park & Ride (East Main - Portsmouth),14
+RIPTA-GTFS,61,Outbound,fird,Park & Ride (Fish Road - Tiverton),15
+RIPTA-GTFS,63,Inbound,oxbo,Oxbow Farms Apartments,1
+RIPTA-GTFS,63,Inbound,wmss,West Main at Stop & Shop (on-street),2
+RIPTA-GTFS,63,Inbound,stsm,Stop & Shop (West Main - Middletown),3
+RIPTA-GTFS,63,Inbound,amex,Middletown Public Library,4
+RIPTA-GTFS,63,Inbound,miga,Newport Garage,5
+RIPTA-GTFS,63,Inbound,gafo,JT Connell & Maple,6
+RIPTA-GTFS,63,Inbound,nema,Newport Towne Center,7
+RIPTA-GTFS,63,Inbound,brak,Broadway & Admiral Kalbfus,8
+RIPTA-GTFS,63,Inbound,boco,Broadway & Collins (Newport Police Dept),9
+RIPTA-GTFS,63,Inbound,gace,Newport Transportation Center,10
+RIPTA-GTFS,63,Outbound,gace,Newport Transportation Center,1
+RIPTA-GTFS,63,Outbound,ciha,Newport City Hall,2
+RIPTA-GTFS,63,Outbound,brak,Broadway & Admiral Kalbfus,3
+RIPTA-GTFS,63,Outbound,nema,Newport Towne Center,4
+RIPTA-GTFS,63,Outbound,gafo,JT Connell & Maple,5
+RIPTA-GTFS,63,Outbound,miga,Newport Garage,6
+RIPTA-GTFS,63,Outbound,aqsh,Aquidneck Shopping Center (E Main),7
+RIPTA-GTFS,63,Outbound,emva,East Main & Valley,8
+RIPTA-GTFS,63,Outbound,weho,West House,9
+RIPTA-GTFS,63,Outbound,stsm,Stop & Shop (West Main - Middletown),10
+RIPTA-GTFS,63,Outbound,oxbo,Oxbow Farms Apartments,11
+RIPTA-GTFS,64,Inbound,kirr,Kingston Railroad Station,1
+RIPTA-GTFS,64,Inbound,uri,URI Kingston (Memorial Union),2
+RIPTA-GTFS,64,Inbound,rtwe,Park & Ride (RI-1 & RI-138),3
+RIPTA-GTFS,64,Inbound,urib,URI Bay Campus,4
+RIPTA-GTFS,64,Inbound,rt1a,Park & Ride (RI-1A & RI-138),5
+RIPTA-GTFS,64,Inbound,jame,Jamestown Ferry Landing,6
+RIPTA-GTFS,64,Inbound,nema,Newport Towne Center,7
+RIPTA-GTFS,64,Inbound,ccrn,CCRI Newport,8
+RIPTA-GTFS,64,Inbound,ga17,Naval Undersea Warfare Center (Gate 23),9
+RIPTA-GTFS,64,Inbound,gace,Newport Transportation Center,10
+RIPTA-GTFS,64,Outbound,gace,Newport Transportation Center,1
+RIPTA-GTFS,64,Outbound,nema,Newport Towne Center,2
+RIPTA-GTFS,64,Outbound,ga17,Naval Undersea Warfare Center (Gate 23),3
+RIPTA-GTFS,64,Outbound,ccrn,CCRI Newport,4
+RIPTA-GTFS,64,Outbound,jame,Jamestown Ferry Landing,5
+RIPTA-GTFS,64,Outbound,rt1a,Park & Ride (RI-1A & RI-138),6
+RIPTA-GTFS,64,Outbound,urib,URI Bay Campus,7
+RIPTA-GTFS,64,Outbound,rtwe,Park & Ride (RI-1 & RI-138),8
+RIPTA-GTFS,64,Outbound,uri,URI Kingston (Memorial Union),9
+RIPTA-GTFS,64,Outbound,kirr,Kingston Railroad Station,10
+RIPTA-GTFS,65,Inbound,narr,Narragansett (Salt Pond Plaza),1
+RIPTA-GTFS,65,Inbound,wake,Old Tower Hill Rd at Wakefield Mall,2
+RIPTA-GTFS,65,Inbound,rtwe,Park & Ride (RI-1 & RI-138),3
+RIPTA-GTFS,65,Inbound,2102,Wickford Train Station (Park & Ride),4
+RIPTA-GTFS,65,Inbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,65,Inbound,conv,Rhode Island Convention Center,6
+RIPTA-GTFS,65,Inbound,weem,Westminster & Empire,7
+RIPTA-GTFS,65,Inbound,weed,Weybosset & Eddy,8
+RIPTA-GTFS,65,Inbound,tuhe,Turk's Head,9
+RIPTA-GTFS,65,Outbound,conv,Rhode Island Convention Center,1
+RIPTA-GTFS,65,Outbound,weem,Westminster & Empire,2
+RIPTA-GTFS,65,Outbound,weed,Weybosset & Eddy,3
+RIPTA-GTFS,65,Outbound,tuhe,Turk's Head,4
+RIPTA-GTFS,65,Outbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,65,Outbound,2102,Wickford Train Station (Park & Ride),6
+RIPTA-GTFS,65,Outbound,rtwe,Park & Ride (RI-1 & RI-138),7
+RIPTA-GTFS,65,Outbound,wake,Old Tower Hill Rd at Wakefield Mall,8
+RIPTA-GTFS,65,Outbound,narr,Narragansett (Salt Pond Plaza),9
+RIPTA-GTFS,66,Inbound,uri,URI Kingston (Memorial Union),1
+RIPTA-GTFS,66,Inbound,kirr,Kingston Railroad Station,2
+RIPTA-GTFS,66,Inbound,exva,RI-2 & Exeter Rd,3
+RIPTA-GTFS,66,Inbound,2102,Wickford Train Station (Park & Ride),4
+RIPTA-GTFS,66,Inbound,rt24,Park & Ride (RI-2 & RI-4),5
+RIPTA-GTFS,66,Inbound,ccrw,CCRI Warwick,6
+RIPTA-GTFS,66,Inbound,tfgr,TF Green Airport,7
+RIPTA-GTFS,66,Inbound,kepl,Kennedy Plaza (Providence),8
+RIPTA-GTFS,66,Inbound,psta,Providence Station,9
+RIPTA-GTFS,66,Outbound,psta,Providence Station,1
+RIPTA-GTFS,66,Outbound,exte,Exchange Terrace (Stop X),2
+RIPTA-GTFS,66,Outbound,tfgr,TF Green Airport,3
+RIPTA-GTFS,66,Outbound,ccrw,CCRI Warwick,4
+RIPTA-GTFS,66,Outbound,rt24,Park & Ride (RI-2 & RI-4),5
+RIPTA-GTFS,66,Outbound,2102,Wickford Train Station (Park & Ride),6
+RIPTA-GTFS,66,Outbound,exva,RI-2 & Exeter Rd,7
+RIPTA-GTFS,66,Outbound,kirr,Kingston Railroad Station,8
+RIPTA-GTFS,66,Outbound,uri,URI Kingston (Memorial Union),9
+RIPTA-GTFS,67,Inbound,bele,Bellevue & Ledge,1
+RIPTA-GTFS,67,Inbound,maho,Marble House,2
+RIPTA-GTFS,67,Inbound,beru,Bellevue & Ruggles,3
+RIPTA-GTFS,67,Inbound,salv,Salve Regina University,4
+RIPTA-GTFS,67,Inbound,beme,Bellevue & Memorial Blvd,5
+RIPTA-GTFS,67,Inbound,gace,Newport Transportation Center,6
+RIPTA-GTFS,67,Outbound,gace,Newport Transportation Center,1
+RIPTA-GTFS,67,Outbound,beme,Bellevue & Memorial Blvd,2
+RIPTA-GTFS,67,Outbound,salv,Salve Regina University,3
+RIPTA-GTFS,67,Outbound,beru,Bellevue & Ruggles,4
+RIPTA-GTFS,67,Outbound,maho,Marble House,5
+RIPTA-GTFS,67,Outbound,bele,Bellevue & Ledge,6
+RIPTA-GTFS,68,Inbound,dhsm,Aquidneck Corp Park (Dept of Human Svcs),1
+RIPTA-GTFS,68,Inbound,fibe,First Beach,2
+RIPTA-GTFS,68,Inbound,beme,Bellevue & Memorial Blvd,3
+RIPTA-GTFS,68,Inbound,gace,Newport Transportation Center,4
+RIPTA-GTFS,68,Inbound,3rbv,Third Street at Bayside Village,5
+RIPTA-GTFS,68,Inbound,topk,Miantonomi Park (Hillside & Eisenhower),6
+RIPTA-GTFS,68,Inbound,ccrn,CCRI Newport,7
+RIPTA-GTFS,68,Outbound,ccrn,CCRI Newport,1
+RIPTA-GTFS,68,Outbound,topk,Miantonomi Park (Hillside & Eisenhower),2
+RIPTA-GTFS,68,Outbound,3rbv,Third Street at Bayside Village,3
+RIPTA-GTFS,68,Outbound,gace,Newport Transportation Center,4
+RIPTA-GTFS,68,Outbound,beme,Bellevue & Memorial Blvd,5
+RIPTA-GTFS,68,Outbound,fibe,First Beach,6
+RIPTA-GTFS,68,Outbound,dhsm,Aquidneck Corp Park (Dept of Human Svcs),7
+RIPTA-GTFS,69,Inbound,gabe,Galilee (Block Island Ferry),1
+RIPTA-GTFS,69,Inbound,narr,Narragansett (Salt Pond Plaza),2
+RIPTA-GTFS,69,Inbound,wake,Old Tower Hill Rd at Wakefield Mall,3
+RIPTA-GTFS,69,Inbound,petr,Kingstown & High,4
+RIPTA-GTFS,69,Inbound,uri,URI Kingston (Memorial Union),5
+RIPTA-GTFS,69,Outbound,uri,URI Kingston (Memorial Union),1
+RIPTA-GTFS,69,Outbound,petr,Kingstown & High,2
+RIPTA-GTFS,69,Outbound,wake,Old Tower Hill Rd at Wakefield Mall,3
+RIPTA-GTFS,69,Outbound,narr,Narragansett (Salt Pond Plaza),4
+RIPTA-GTFS,69,Outbound,gabe,Galilee (Block Island Ferry),5
+RIPTA-GTFS,71,North,jlnm,Job Lot (Pawtucket),1
+RIPTA-GTFS,71,North,nmda,Pawtucket & Dartmouth,2
+RIPTA-GTFS,71,North,nmra,Pawtucket & Randall,3
+RIPTA-GTFS,71,North,patc,Pawtucket-Central Falls Transit Center,4
+RIPTA-GTFS,71,North,brba,Broad & Barton,5
+RIPTA-GTFS,71,North,hubr,Hunt & Broad,6
+RIPTA-GTFS,71,North,brjo,Broad & John,7
+RIPTA-GTFS,71,North,mibr,Ann & Hope Way & Broad,8
+RIPTA-GTFS,71,North,s122,Stop & Shop (Cumberland),9
+RIPTA-GTFS,71,South,s122,Stop & Shop (Cumberland),1
+RIPTA-GTFS,71,South,mibr,Ann & Hope Way & Broad,2
+RIPTA-GTFS,71,South,brjo,Broad & John,3
+RIPTA-GTFS,71,South,hubr,Hunt & Broad,4
+RIPTA-GTFS,71,South,brba,Broad & Barton,5
+RIPTA-GTFS,71,South,patc,Pawtucket-Central Falls Transit Center,6
+RIPTA-GTFS,71,South,nmra,Pawtucket & Randall,7
+RIPTA-GTFS,71,South,nmda,Pawtucket & Dartmouth,8
+RIPTA-GTFS,71,South,jlnm,Job Lot (Pawtucket),9
+RIPTA-GTFS,72,Inbound,patc,Pawtucket-Central Falls Transit Center,1
+RIPTA-GTFS,72,Inbound,deba,Dexter & Barton,2
+RIPTA-GTFS,72,Inbound,dewh,Dexter & West Hunt,3
+RIPTA-GTFS,72,Inbound,welo,Weeden & Lonsdale,4
+RIPTA-GTFS,72,Inbound,poan,Power & Anderton,5
+RIPTA-GTFS,72,Inbound,sfpo,Smithfield & Power,6
+RIPTA-GTFS,72,Inbound,walp,Walmart (Providence),7
+RIPTA-GTFS,72,Inbound,adch,Admiral & Charles,8
+RIPTA-GTFS,72,Inbound,psta,Providence Station,9
+RIPTA-GTFS,72,Inbound,kepl,Kennedy Plaza (Providence),10
+RIPTA-GTFS,72,Inbound,riho,Hospital District (Eddy & Borden),11
+RIPTA-GTFS,72,Outbound,riho,Hospital District (Eddy & Borden),1
+RIPTA-GTFS,72,Outbound,kepl,Kennedy Plaza (Providence),2
+RIPTA-GTFS,72,Outbound,psta,Providence Station,3
+RIPTA-GTFS,72,Outbound,adch,Admiral & Charles,4
+RIPTA-GTFS,72,Outbound,walp,Walmart (Providence),5
+RIPTA-GTFS,72,Outbound,sfpo,Smithfield & Power,6
+RIPTA-GTFS,72,Outbound,poan,Power & Anderton,7
+RIPTA-GTFS,72,Outbound,welo,Weeden & Lonsdale,8
+RIPTA-GTFS,72,Outbound,dewh,Dexter & West Hunt,9
+RIPTA-GTFS,72,Outbound,deba,Dexter & Barton,10
+RIPTA-GTFS,72,Outbound,patc,Pawtucket-Central Falls Transit Center,11
+RIPTA-GTFS,73,Inbound,ccri,CCRI Lincoln,1
+RIPTA-GTFS,73,Inbound,lipa,Twin River Casino,2
+RIPTA-GTFS,73,Inbound,msch,Mineral Spring & Charles,3
+RIPTA-GTFS,73,Inbound,loms,Lonsdale & Mineral Spring,4
+RIPTA-GTFS,73,Inbound,patc,Pawtucket-Central Falls Transit Center,5
+RIPTA-GTFS,73,Outbound,patc,Pawtucket-Central Falls Transit Center,1
+RIPTA-GTFS,73,Outbound,loms,Lonsdale & Mineral Spring,2
+RIPTA-GTFS,73,Outbound,msch,Mineral Spring & Charles,3
+RIPTA-GTFS,73,Outbound,lipa,Twin River Casino,4
+RIPTA-GTFS,73,Outbound,ccri,CCRI Lincoln,5
+RIPTA-GTFS,75,Inbound,noce,North Central Industrial Park,1
+RIPTA-GTFS,75,Inbound,lima,Lincoln Mall,2
+RIPTA-GTFS,75,Inbound,amic,Amica Insurance (Corporate Office),3
+RIPTA-GTFS,75,Inbound,asht,Ashton (RI-116 & RI-122),4
+RIPTA-GTFS,75,Inbound,menb,Mendon & Broad,5
+RIPTA-GTFS,75,Inbound,lode,Lonsdale & Dexter,6
+RIPTA-GTFS,75,Inbound,deba,Dexter & Barton,7
+RIPTA-GTFS,75,Inbound,patc,Pawtucket-Central Falls Transit Center,8
+RIPTA-GTFS,75,Outbound,patc,Pawtucket-Central Falls Transit Center,1
+RIPTA-GTFS,75,Outbound,deba,Dexter & Barton,2
+RIPTA-GTFS,75,Outbound,lode,Lonsdale & Dexter,3
+RIPTA-GTFS,75,Outbound,menb,Mendon & Broad,4
+RIPTA-GTFS,75,Outbound,asht,Ashton (RI-116 & RI-122),5
+RIPTA-GTFS,75,Outbound,amic,Amica Insurance (Corporate Office),6
+RIPTA-GTFS,75,Outbound,lima,Lincoln Mall,7
+RIPTA-GTFS,75,Outbound,noce,North Central Industrial Park,8
+RIPTA-GTFS,76,Inbound,beth,Benefit & Thurber,1
+RIPTA-GTFS,76,Inbound,nece,Newport & Central,2
+RIPTA-GTFS,76,Inbound,stcs,Stop & Shop (Pawtucket),3
+RIPTA-GTFS,76,Inbound,argb,Armistice & George Bennett,4
+RIPTA-GTFS,76,Inbound,patc,Pawtucket-Central Falls Transit Center,5
+RIPTA-GTFS,76,Outbound,patc,Pawtucket-Central Falls Transit Center,1
+RIPTA-GTFS,76,Outbound,argb,Armistice & George Bennett,2
+RIPTA-GTFS,76,Outbound,stcs,Stop & Shop (Pawtucket),3
+RIPTA-GTFS,76,Outbound,nece,Newport & Central,4
+RIPTA-GTFS,76,Outbound,beth,Benefit & Thurber,5
+RIPTA-GTFS,78,Inbound,patc,Pawtucket-Central Falls Transit Center,1
+RIPTA-GTFS,78,Inbound,maro,Roosevelt & Main,2
+RIPTA-GTFS,78,Inbound,scbe,School & Beverage Hill,3
+RIPTA-GTFS,78,Inbound,nebh,Newport & Beverage Hill,4
+RIPTA-GTFS,78,Inbound,pafe,Pawtucket & Newman,5
+RIPTA-GTFS,78,Inbound,wamp,Wampanoag Mall,6
+RIPTA-GTFS,78,Inbound,brsi,Taunton & Waterman,7
+RIPTA-GTFS,78,Inbound,tapo,Taunton & Potter,8
+RIPTA-GTFS,78,Inbound,aneg,Angell & Elmgrove,9
+RIPTA-GTFS,78,Inbound,tuth,Tunnel & Thayer,10
+RIPTA-GTFS,78,Inbound,kepl,Kennedy Plaza (Providence),11
+RIPTA-GTFS,78,Outbound,kepl,Kennedy Plaza (Providence),1
+RIPTA-GTFS,78,Outbound,tapo,Taunton & Potter,2
+RIPTA-GTFS,78,Outbound,brsi,Taunton & Waterman,3
+RIPTA-GTFS,78,Outbound,wamp,Wampanoag Mall,4
+RIPTA-GTFS,78,Outbound,pafe,Pawtucket & Newman,5
+RIPTA-GTFS,78,Outbound,nebh,Newport & Beverage Hill,6
+RIPTA-GTFS,78,Outbound,bhpr,Beverage Hill & Prospect,7
+RIPTA-GTFS,78,Outbound,slmi,Slater Mill (Roosevelt & Main),8
+RIPTA-GTFS,78,Outbound,patc,Pawtucket-Central Falls Transit Center,9
+RIPTA-GTFS,80,Inbound,arbl,Slater Park (Armistice Blvd),1
+RIPTA-GTFS,80,Inbound,arne,Armistice & Newport,2
+RIPTA-GTFS,80,Inbound,aryo,Armistice & York,3
+RIPTA-GTFS,80,Inbound,cogb,Columbus & George Bennett,4
+RIPTA-GTFS,80,Inbound,meho,Memorial Hospital,5
+RIPTA-GTFS,80,Inbound,patc,Pawtucket-Central Falls Transit Center,6
+RIPTA-GTFS,80,Outbound,patc,Pawtucket-Central Falls Transit Center,1
+RIPTA-GTFS,80,Outbound,meho,Memorial Hospital,2
+RIPTA-GTFS,80,Outbound,cogb,Columbus & George Bennett,3
+RIPTA-GTFS,80,Outbound,aryo,Armistice & York,4
+RIPTA-GTFS,80,Outbound,arne,Armistice & Newport,5
+RIPTA-GTFS,80,Outbound,arbl,Slater Park (Armistice Blvd),6
+RIPTA-GTFS,87,East,medr,Memorial Drive,1
+RIPTA-GTFS,87,East,seri,Second & River,2
+RIPTA-GTFS,87,East,maas,Main Street (Municipal Parking Lot),3
+RIPTA-GTFS,87,East,cadu,Cass & Dulude,4
+RIPTA-GTFS,87,East,wapl,Walnut Hill Plaza,5
+RIPTA-GTFS,87,East,prri,Diamond Hill Plaza,6
+RIPTA-GTFS,87,West,prri,Diamond Hill Plaza,1
+RIPTA-GTFS,87,West,wapl,Walnut Hill Plaza,2
+RIPTA-GTFS,87,West,cadu,Cass & Dulude,3
+RIPTA-GTFS,87,West,maas,Main Street (Municipal Parking Lot),4
+RIPTA-GTFS,87,West,fmse,Fairmount & Second,5
+RIPTA-GTFS,87,West,medr,Memorial Drive,6
+RIPTA-GTFS,88,Inbound,simv,Simmons Village,1
+RIPTA-GTFS,88,Inbound,walc,Walmart (Cranston),2
+RIPTA-GTFS,88,Outbound,walc,Walmart (Cranston),1
+RIPTA-GTFS,88,Outbound,simv,Simmons Village,2
+RIPTA-GTFS,89,Inbound,jenm,Jennings Manor,1
+RIPTA-GTFS,89,Inbound,arma,Arlington Manor,2
+RIPTA-GTFS,89,Inbound,haho,Harris House,3
+RIPTA-GTFS,89,Inbound,devn,Devan Manor,4
+RIPTA-GTFS,89,Inbound,scvi,Scituate Vista Apartments,5
+RIPTA-GTFS,89,Inbound,plco,Plainfield & Comstock,6
+RIPTA-GTFS,89,Inbound,walc,Walmart (Cranston),7
+RIPTA-GTFS,89,Outbound,walc,Walmart (Cranston),1
+RIPTA-GTFS,89,Outbound,plco,Plainfield & Comstock,2
+RIPTA-GTFS,89,Outbound,scvi,Scituate Vista Apartments,3
+RIPTA-GTFS,89,Outbound,devn,Devan Manor,4
+RIPTA-GTFS,89,Outbound,haho,Harris House,5
+RIPTA-GTFS,89,Outbound,arma,Arlington Manor,6
+RIPTA-GTFS,89,Outbound,jenm,Jennings Manor,7
+RIPTA-GTFS,92,East,ric,Rhode Island College,1
+RIPTA-GTFS,92,East,atmp,Atwells & Mt Pleasant,2
+RIPTA-GTFS,92,East,egsq,Eagle Square (Atwells & Valley),3
+RIPTA-GTFS,92,East,atde,Atwells & Dean,4
+RIPTA-GTFS,92,East,kepl,Kennedy Plaza (Providence),5
+RIPTA-GTFS,92,East,unec,Eddy & South (Nursing Education Ctr),6
+RIPTA-GTFS,92,East,fopo,Fox Point (Wickenden & Ives),7
+RIPTA-GTFS,92,East,goap,Governor Apartments,8
+RIPTA-GTFS,92,East,esmp,East Side Riverview Place,9
+RIPTA-GTFS,92,West,esmp,East Side Riverview Place,1
+RIPTA-GTFS,92,West,goap,Governor Apartments,2
+RIPTA-GTFS,92,West,fopo,Fox Point (Wickenden & Ives),3
+RIPTA-GTFS,92,West,unec,Eddy & South (Nursing Education Ctr),4
+RIPTA-GTFS,92,West,kepl,Kennedy Plaza (Providence),5
+RIPTA-GTFS,92,West,atde,Atwells & Dean,6
+RIPTA-GTFS,92,West,egsq,Eagle Square (Atwells & Valley),7
+RIPTA-GTFS,92,West,atmp,Atwells & Mt Pleasant,8
+RIPTA-GTFS,92,West,ric,Rhode Island College,9
+RIPTA-GTFS,95,Inbound,west,Westerly Railroad Station,1
+RIPTA-GTFS,95,Inbound,asha,Park & Ride (RI-3 - Ashaway),2
+RIPTA-GTFS,95,Inbound,wyom,Park & Ride (Wyoming),3
+RIPTA-GTFS,95,Inbound,exit,Park & Ride (Exit 21 - West Greenwich),4
+RIPTA-GTFS,95,Inbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,95,Inbound,conv,Rhode Island Convention Center,6
+RIPTA-GTFS,95,Inbound,weem,Westminster & Empire,7
+RIPTA-GTFS,95,Inbound,weed,Weybosset & Eddy,8
+RIPTA-GTFS,95,Inbound,tuhe,Turk's Head,9
+RIPTA-GTFS,95,Outbound,conv,Rhode Island Convention Center,1
+RIPTA-GTFS,95,Outbound,weem,Westminster & Empire,2
+RIPTA-GTFS,95,Outbound,weed,Weybosset & Eddy,3
+RIPTA-GTFS,95,Outbound,tuhe,Turk's Head,4
+RIPTA-GTFS,95,Outbound,exte,Exchange Terrace (Stop X),5
+RIPTA-GTFS,95,Outbound,exit,Park & Ride (Exit 21 - West Greenwich),6
+RIPTA-GTFS,95,Outbound,wyom,Park & Ride (Wyoming),7
+RIPTA-GTFS,95,Outbound,asha,Park & Ride (RI-3 - Ashaway),8
+RIPTA-GTFS,95,Outbound,west,Westerly Railroad Station,9
