@@ -130,6 +130,7 @@ See the **Conclusions & Results** sections of the capstone report, `capstone_rip
 
 The processed datasets generated and analyzed during this project, along with the complete R processing scripts, are available in the project repository at <https://github.com/lmannings-jklm/capstone-ripta-plan>.
 All third-party spatial and demographic inputs can be retrieved directly from their respective public portals.
+
 ---
 ## 8. Acknowledgements
 
@@ -138,6 +139,7 @@ Extended thanks are due to the HarvardX Data Science program for providing the f
 ### Disclosure of Artificial Intelligence Usage
 
 During the preparation of this work, the author utilized Google Gemini resources (*specifically NotebookLM and Gemini 3.1 Pro*) to assist with preliminary research, language editing, citation formatting, analytical brainstorming, and code review/troubleshooting. All AI-generated outputs, analyses, and code suggestions were critically reviewed, verified, and edited by the author. Every reference cited has been reviewed for appropriateness and independently verified against the primary sources.
+
 ---
 ## 9. Data Attribution & Disclaimer
 
