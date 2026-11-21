@@ -12,7 +12,7 @@ This study executes a two-pronged data science project to analyze the operationa
 
 ## 2. Key Questions
 - **What are the primary drivers of schedule delay within the existing Providence transit network, and how will the physical relocation to Park Row West impact overall operational reliability?**
-- **Does relocating the transit hub away from KP to PRW-FS disproportionately increase walking travel time penalties and steep slope elevation burdens for vulnerable, transit-dependent populations compared to non-vulnerable populations?**
+- **Does relocating the transit hub from KP to PRW-FS create a disparate impact that disproportionately degrades transit access for vulnerable, transit-dependent populations?**
 
 ---
 
@@ -77,28 +77,74 @@ The source data is not presumed to meet [**tidy data** standards](https://cran.r
 
 Project Repository structure is outlined below.
 ``` text
-ª   README.md
-ª   
-+---data
-+---images
-+---notebook
-ª   ª   capstone_movielens.html
-ª   ª   capstone_movielens.pdf
-ª   ª   capstone_movielens.qmd
-ª   ª   capstone_movielens.Rmd
-+---scripts
-        01_generate_datasets.R
-        02_movilens_project.R
+├── capstone-ripta-plan.Rproj
+├── data
+│   ├── caret_feature_importance.csv
+│   ├── caret_holdout_test_metrics.csv
+│   ├── caret_train_cv_metrics.csv
+│   ├── gtfs_merged_1yr
+│   │   ├── calendar.txt
+│   │   ├── routes.txt
+│   │   ├── route_timepoints.txt
+│   │   ├── shapes.txt
+│   │   ├── stops.txt
+│   │   ├── stop_times.txt
+│   │   └── trips.txt
+│   ├── gtfs_raw_1yr
+│   │   └── RIPTA-GTFS.zip
+│   ├── kp_route_summary.csv
+│   ├── mc_pedestrian_results_bidirectional.csv
+│   ├── model_a_multivariable_coefficients_v3.csv
+│   ├── objects
+│   ├── ripta-simulated-routes.csv
+│   ├── ripta_avl_1yr_log.csv
+│   ├── ripta_bidirectional_filtered.csv
+│   ├── ripta_kp_final_dataset.csv
+│   ├── ripta_operational_cost.csv
+│   └── scratch
+├── images
+│   └── KP-aerial.png
+├── notebook
+│   ├── capstone-ripta.html
+│   ├── capstone-ripta.pdf
+│   ├── capstone-ripta.qmd
+│   ├── footnote-references
+│   ├── images
+│   └── tables
+├── README.md
+└── scripts
+    ├── eda
+    ├── old
+    ├── test_03_model_a_operational_delay.R
+    ├── test_04_fit_caret_operational_delay.R
+    ├── test_05_generate_op_costs.R
+    ├── test_06_equity_pedestrian_impact_sim.R
+    └── tools
 ```
 ---
 ## 6. Results and Evaluation
 
-See the **Results** and **Conclusion** sections of the capstone report, `capstone_movielens.pdf`.
-
+See the **Conclusions & Results** sections of the capstone report, `capstone_ripta.pdf`.
 ---
-## 7. Acknowledgements / References
+## 7. Data & Code Availability
 
-
-
+The processed datasets generated and analyzed during this project, along with the complete R processing scripts, are available in the project repository at <https://github.com/lmannings-jklm/capstone-ripta-plan>.
+All third-party spatial and demographic inputs can be retrieved directly from their respective public portals.
 ---
+## 8. Acknowledgements
+
+Extended thanks are due to the HarvardX Data Science program for providing the foundation and motivation to select and complete this project. Additional thanks go to my family and several professional colleagues who encouraged me to focus on a problem with meaningful impacts on my community. I gratefully acknowledge RIPTA Legal Services and agency data administrators for fulfilling this public records request and providing access to historical Computer-Aided Dispatch and Automatic Vehicle Location (CAD/AVL) archives.
+
+### Disclosure of Artificial Intelligence Usage
+
+During the preparation of this work, the author utilized Google Gemini resources (*specifically NotebookLM and Gemini 3.1 Pro*) to assist with preliminary research, language editing, citation formatting, analytical brainstorming, and code review/troubleshooting. All AI-generated outputs, analyses, and code suggestions were critically reviewed, verified, and edited by the author. Every reference cited has been reviewed for appropriateness and independently verified against the primary sources.
+---
+## 9. Data Attribution & Disclaimer
+
+### Data Attribution
+The empirical analyses presented in this report utilize operational transit data provided by the Rhode Island Public Transit Authority (RIPTA) pursuant to a formal public records request under the Rhode Island Access to Public Records Act, supplemented by public General Transit Feed Specification (GTFS) and GTFS-Realtime feeds published by the agency. Demographic, elevation, and street-network inputs are sourced from the U.S. Census Bureau American Community Survey (ACS), the Rhode Island Geographic Information System (RIGIS), and OpenStreetMap.
+
+### Disclaimer of Affiliation and Views
+
+This report, including all underlying analytical models, statistical interpretations, geospatial evaluations, visualizations, findings, and recommendations, is the independent academic work product of the author. This report does not contain or reflect the official views, policies, opinions, endorsements, or work product of RIPTA, the State of Rhode Island, or any of their respective agencies or affiliates. All analyses, models, and conclusions presented herein are solely based on the empirical data and public documentation provided by or obtained from RIPTA, evaluated independently by the author. RIPTA assumes no responsibility or liability for any errors, omissions, interpretations, conclusions, or downstream applications derived from the data used in this study.
 
