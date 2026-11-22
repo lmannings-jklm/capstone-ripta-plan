@@ -51,56 +51,55 @@ editor:
 
 # Executive Summary {.unnumbered}
 
-The Rhode Island Public Transit Authority (RIPTA) is evaluating a Joint
-Development Project to relocate Providence's central transit hub from
-Kennedy Plaza (KP) to a new facility adjacent to Providence Station at
-Park Row West and Francis Street (PRW-FS). While moving this hub would
-modernize aging infrastructure and connect buses directly to commuter
-rail, shifting the system's anchor to the northern edge of Downcity
-Providence fundamentally changes how buses—and riders—move through the
-city.
+The Rhode Island Public Transit Authority (RIPTA) is proposing a
+public-private partnership to move Providence's central bus hub out of
+downtown's Kennedy Plaza to a new site beside Providence Station at Park
+Row West and Francis Street (*hereafter referred to as* *Park Row
+West*). While moving this hub would modernize aging infrastructure and
+connect buses directly to commuter rail, shifting the system's anchor to
+the northern edge of Downcity Providence fundamentally changes how
+buses—and riders—move through the city.
 
 This study evaluates the operational, financial, and rider-access
 impacts of that move using 12 months of actual RIPTA bus-tracking
-records (covering more than 335,000 inbound trips), published bus
-schedules, U.S. Census data, and local elevation maps. Pairing standard
-statistical models with machine learning, the analysis projects how
-extending routes to PRW-FS affects baseline travel times while
-uncovering **non-linear tipping points**—where rush-hour traffic, street
-layouts, and high bus frequency interact to make delays escalate rapidly
-across the network.
+records (*covering more than 335,000 inbound trips*), published bus
+schedules, U.S. Census data, and local elevation maps. Combining
+historical trend analysis with machine learning, this study measures how
+extended routes add to everyday travel times—and uncovers hidden
+**rush-hour tipping points**—where crowded streets, tight turns, and
+back-to-back buses suddenly cause delays to snowball across the network.
 
 ## Key Findings {.unnumbered}
 
 - **Higher Operating Costs and Fleet Strain:** Providence's downtown
-  transit network already runs close to capacity, with rush-hour
-  traffic, legacy street layouts, and closely spaced bus arrivals
-  creating recurring bottlenecks. Moving the hub to PRW-FS forces most
-  inbound lines—specifically those approaching from the East, South, and
-  West—to travel deeper into congested Downcity streets. Even after
-  accounting for shorter trips on select Northern routes, the move adds
-  a net **2,336 hours of bus service per year** (*about **6.4 hours per
-  day***). Maintaining current schedules without cutting service would
-  require **2 to 3 additional peak buses** and impose a **net annual
-  operating cost increase of \$394,279**—spending nearly \$400,000 a
-  year simply to absorb longer routes with no gain in service frequency
-  or coverage.
+  transit network already runs close to capacity, where rush-hour
+  traffic, narrow historic streets, and back-to-back bus arrivals create
+  daily bottlenecks. Moving the hub north to Park Row West forces most
+  incoming buses—especially from the East, South, and West—to push even
+  deeper through downtown gridlock. Even after accounting for shorter
+  trips on select Northern routes, the move adds a net **2,336 hours of
+  bus service per year** (*about **6.4 hours per day***). Maintaining
+  current schedules without cutting service would require **2 to 3
+  additional peak buses** and impose a **net annual operating cost
+  increase of \$394,279**—spending nearly \$400,000 a year simply to
+  absorb longer routes with no gain in service frequency or coverage.
 
-- **A Universal 13.37-Minute Transfer Penalty:** Closing Kennedy Plaza
-  as the central hub creates a **1,820-foot (*0.34-mile*) uphill gap**
-  between the Downcity civic and commercial core and the new station.
-  Modeling both walking and connector shuttle trips shows that crossing
-  this gap adds an average of **13.37 minutes** to every displaced
-  rider's trip.
+- **A Universal 13.4-Minute Transfer Penalty:** Closing Kennedy Plaza
+  opens a third-of-a-mile (*1,820-foot*) uphill gap between the downtown
+  workplaces and the new bus hub. Whether commuters walk the hill or
+  wait for a connector shuttle, bridging that gap adds an average of
+  **nearly 13.5 minutes** each way for riders heading to or from
+  downtown.
 
 - **A Geographic Divide with Heavy Practical Equity Costs:** Rather than
   isolating a single demographic group, the new hub's location creates a
   stark geographic divide: select Northern routes gain shorter trips and
   cost savings, while **Eastern, Southern, and Western corridors**
-  absorb compounding delays. Vulnerable neighborhoods account for **19
-  of the 30 delayed route-directions**. Even though the 13.37-minute
-  transfer penalty affects all displaced riders broadly, it falls
-  hardest in practice on transit-dependent, elderly, and
+  absorb compounding delays. Neighborhoods with high concentrations of
+  low-income, elderly, or transit-dependent residents are served by **19
+  of the 30 delayed bus corridors** entering downtown. Even though the
+  13.4-minute transfer penalty affects all displaced riders broadly, it
+  falls hardest in practice on transit-dependent, elderly, and
   mobility-challenged riders who cannot switch to private vehicles or
   walk the uphill grade—undermining the *Transit Forward RI 2040* Master
   Plan's goal of expanding reliable transit for low-income, minority,
@@ -110,65 +109,61 @@ across the network.
 
 - **Adopt a Split-Hub and Cross-Town Strategy:** Rather than forcing
   every bus to a single northern hub, RIPTA should terminate Northern
-  routes (*such as Routes 50, 55, 56, and 57*) at PRW-FS to capture
-  their genuine time and cost savings. Eastern, Southern, and Western
-  routes should remain anchored at Kennedy Plaza or be paired into
-  continuous cross-town lines (*such as Routes 1 and 92*) so riders keep
-  direct Downcity access without triggering steep operating deficits.
+  routes (*such as Routes 50, 55, 56, and 57*) at Park Row West to
+  capture their genuine time and cost savings. Eastern, Southern, and
+  Western routes should remain anchored at Kennedy Plaza or be paired
+  into continuous cross-town lines (*such as Routes 1 and 92*) so riders
+  keep direct Downcity access without triggering steep operating
+  deficits.
 
-- **Target Rush-Hour Bottlenecks:** Implement peak-hour **Transit Signal
-  Priority (TSP)** and peak-period bus lanes along Memorial Boulevard
+- **Target Rush-Hour Bottlenecks:** Install peak-hour **Transit Signal
+  Priority** (*smart traffic lights that hold green lights for
+  approaching buses*) and peak-period bus lanes along Memorial Boulevard
   and Francis Street, and evaluate direct transit bypasses for
   high-frequency Southern and Eastern lines (*e.g., Routes 1, 20, 22,
   72, and 92*) to eliminate slow downtown looping.
 
 - **Guarantee Frequent, Accessible Shuttle Service:** If a full
-  relocation to PRW-FS moves forward, RIPTA should mandate a dedicated,
-  zero-fare shuttle running every **5 minutes or less** during peak and
-  off-peak hours—paired with sheltered, level-boarding stops—to reduce
-  the 13.37-minute transfer penalty for seniors and mobility-challenged
-  riders.
+  relocation to Park Row West moves forward, RIPTA should mandate a
+  dedicated, zero-fare shuttle running every **5 minutes or less**
+  during peak and off-peak hours—paired with weather-protected,
+  curb-height ('*level-boarding*') stops for wheelchairs and walkers—to
+  reduce the 13.4-minute transfer penalty for seniors and
+  mobility-challenged riders.
 
 - **Test and Measure Before Finalizing:** To eliminate data blind spots
-  and advance future transit equity models, equip the fleet with
-  **Automated Passenger Counters (APC)** to measure exact transfer
-  volumes rather than relying on estimates. Additionally, the agency
-  should run live peak-hour pilot buses along Eastern, Southern, and
-  Western corridors to verify modeled delays on the street before
-  locking in a final hub design.
+  and advance future transit equity models, equip buses with **Automated
+  Passenger Counters** (*doorway sensors that log exact boardings at
+  every stop*) to measure exact transfer volumes rather than relying on
+  estimates. Additionally, the agency should run live peak-hour pilot
+  buses along Eastern, Southern, and Western corridors to verify modeled
+  delays on the street before locking in a final hub design.
 
 # Introduction
 
-The Rhode Island Public Transit Authority (RIPTA), in conjunction with
-its Next Wave Rhode Island Partners (NWRIPs) is moving forward with a
-Joint Development Project to replace its current central transfer point
-with a state-of-the-art transit center. The current hub, Kennedy Plaza
-(KP) has served as the central transfer point of RIPTA’s statewide bus
-service since 1990 and is considered by the Providence Transit Center
-Joint Development Project to suffer from overcrowding and service delays
-due to narrow and unsheltered berthing, intermixing with non-transit
-riders, and congestion from adjacent downcity traffic. After a round of
-prospective site viability assessments based on ten evaluation criteria,
-the Joint Development Project team identified sites adjacent to the
-Providence Train Station as the site for consideration as the future
-transit center (see @fig-aerial).
+The Rhode Island Public Transit Authority (RIPTA) and its private
+development consortium, Next Wave Rhode Island Partners, are moving
+forward with plans to replace Providence's central bus hub with a modern
+indoor terminal. Since 1990, Kennedy Plaza (KP) has anchored Rhode
+Island's statewide bus network. Project planners argue, however, that
+the plaza has outgrown its footprint—citing cramped, exposed bus curbs,
+crowded sidewalks shared with general downtown foot traffic, and
+surrounding street congestion. Following an initial evaluation of
+candidate locations across downtown, project planners narrowed their
+focus to parcels adjacent to Providence Train Station (*see
+@fig-aerial*).
 
 ![Aerial view of existing (Kennedy Plaza) and proposed (Park Row
 West/Francis Street) transit
-centers](images/downtown-providence-raw_v2.png){#fig-aerial
+centers.](images/downtown-providence-raw_v2.png){#fig-aerial
 width="100%"}
 
-As can be verified in @tbl-matrix below, the Park Row West site received
-the highest qualitative score across all 10 feasibility areas. The
-Francis Street site was not part of the original seven locations
-evaluated, but was added as a “new-site” due to overwhelming public
-preference and stakeholder feedback for additional parcels that were
-adjacent to Union Station, which provides access to Amtrak and
-Massachusetts Bay Transportation Authority (MBTA) commuter rail. More
-specifically, the emergence of Park Row West as a preferred site enabled
-the NWRIP to take a deeper look and it was determined that the adjacent
-Francis Street parcel was essential to providing a viable means to
-handle bus movements across the station area.[^1]
+In RIPTA's initial screening of seven candidate sites, Park Row West
+scored the highest across 10 planning criteria (@tbl-matrix). Strong
+public interest in connecting buses directly to Amtrak and MBTA commuter
+trains at Union Station then prompted planners to add an adjacent parcel
+on Francis Street[^1]—giving buses enough room to turn and circulate
+around the rail station.
 
 [^1]: Rhode Island Public Transit Authority (RIPTA), *Providence Transit
     Center Joint Development Project Task 2, Part I – Site Evaluations &
@@ -183,12 +178,10 @@ Center Joint Development Project Task 2, Part I – Site Evaluations &
 Commercial Feasibility, 2025.*
 :::
 
-Of course, there are major counterarguments both to the relocation of
-the transit hub to the Union Station area and away from Kennedy Plaza at
-all.[^2] While opponents concede that placing the hub adjacent to the
-train station creates an inter-modal connection for passengers
-transferring between buses and rail, technical evaluations highlight
-significant operational and rider drawbacks:
+Still, moving the hub away from Kennedy Plaza has sparked fierce
+pushback from riders, city councilors, and state lawmakers.[^2] While
+critics agree that linking the buses directly to train service is
+appealing, they point to four major drawbacks:
 
 [^2]: Randall Rose, “Moving Kennedy Plaza Bus Hub Will Inconvenience
     RIPTA Riders and Interfere with Climate Goals,” ecoRI News, March
@@ -212,26 +205,24 @@ road arteries funneling most bus lines towards Kennedy Plaza. It is
 within a few blocks of City Hall, post office, banks, the public
 library, universities, and other places people commonly travel to.
 
-**Fiscal Priorities:** It is assessed that Kennedy Plaza could be
-renovated at a fraction of the cost of the hundreds of millions of
-dollars it would likely cost to relocate the hub. Furthermore, opponents
-of the plan point out that RIPTA has been severely underfunded, facing a
-“fiscal cliff” that threatens imminent route and service cuts. They
-argue that Kennedy Plaza already exemplifies a prime example of a
-transit-oriented infrastructure and that renovating the site to address
-Rhode Island’s Transit Master Plan[^3] would represent the best use of
-funds.
+**Fiscal Priorities:** Critics note that renovating Kennedy Plaza would
+cost a fraction of the hundreds of millions required to build a
+brand-new terminal. Furthermore, opponents of the plan point out that
+RIPTA has been severely underfunded, facing a “fiscal cliff” that
+threatens imminent route and service cuts. They argue that Kennedy Plaza
+already serves as transit-oriented infrastructure and that renovating
+the site to address Rhode Island’s Transit Master Plan[^3] would
+represent the best use of funds.
 
 [^3]: Rhode Island Public Transit Authority, *Transit Forward RI 2040*
     (Providence, RI),
     <https://www.ripta.com/sites/default/files/2025-10/TFRI-Recs-Briefing-Book-Final-201230.pdf>.
 
-**Transfer Burdens:** It is thoroughly documented in NWRIP’s planning
-report, city council resolution, public survey logs, and state
-legislation that moving the central bus hub away from Kennedy Plaza
-would disrupt established transit routes, increase trip times, and
-hinder overall accessibility by forcing extra transfers for daily
-commuters.
+**Transfer Burdens:** Planning reports, public hearings, a Providence
+City Council resolution, and pending state bills all warn that moving
+the central bus hub away from Kennedy Plaza would disrupt established
+transit routes, increase trip times, and hinder overall accessibility by
+forcing extra transfers for daily commuters.
 
 **Public Process and Real Estate Interests:** Many riders expressed
 frustration during public outreach sessions that Kennedy Plaza was
@@ -276,202 +267,113 @@ options(digits = 8)   # Set maximum number of digits to print to 8
 
 # Problem Definition
 
-The objective of this project is to evaluate the Providence Transit
-Center Joint Development Project proposal through a comprehensive,
-multi-phased analysis. First, we will statistically quantify the
-baseline traffic friction and schedule fragility of the existing Kennedy
-Plaza (KP) transit network. Second, we will use deterministic spatial
-routing to model how the physical extension to Park Row West / Francis
-Street (PRW-FS) will impact system-wide transit reliability and
-downstream operating costs. Finally, we will simulate the pedestrian
-displacement caused by the inter-hub transfer gap to determine if this
-new spatial layout disproportionately burdens transit-dependent and
-mobility challenged neighborhoods.
+This study tests the Park Row West proposal in three steps. First, we
+analyze historical bus records to measure where and why routes already
+run late heading into Kennedy Plaza today. Second, we map the exact
+street detours required to reach Park Row West to calculate added
+driving time, extra buses needed, and annual budget costs. Finally, we
+simulate the uphill commute across the gap between the two hubs to see
+whether the move places an unfair burden on transit-dependent, elderly,
+and mobility-challenged neighborhoods.
 
 ## Key Questions
 
-I.  ***What are the primary drivers of schedule delay within the
-    existing Providence transit network, and how will the physical
-    relocation to Park Row West impact overall operational
-    reliability?***
+I.  *What causes bus delays in downtown Providence today, and how will
+    extending routes to Park Row West affect on-time reliability and
+    operating costs?*
 
-II. ***Does relocating the transit hub from KP to PRW-FS create a
-    disparate impact that disproportionately degrades transit access for
-    vulnerable, transit-dependent populations?***
+II. *Does moving the hub away from Kennedy Plaza create an inequitable
+    burden ('disparate impact') that hits low-income, senior, and
+    mobility-challenged riders hardest?*
 
 ## Data Sources & Ingestion Framework {#sec-data-sources}
 
 ### Ideal Datasets
 
-Questions I and II focus on real-world transit operations that
-fundamentally impact the passenger experience. General Transit Feed
-Specification [^4] (GTFS) is an open standard used to distribute
-relevant information (route paths, individual vehicle journeys, bus
-stops, arrivals/departures, geographies) about transit systems to
-riders. RIPTA publishes its authoritative transit schedule using the
-GTFS standard and enables integration with the Rhode Island Geographic
-Information System (RIGIS) to incorporate geographically-related
-information [^5] . Following the analytic framework established by
-Palmateer et al., who demonstrate how baseline GTFS networks can be
-systematically modified and evaluated to model the interaction effects
-of a relocated transit hub, we will adapt their schedule-modification
-approach to assess RIPTA's proposed route realignments [^6]. We will
-rely on the `tidytransit` R package [^7] to read, validate, and map this
-public transit data into the tidyverse. While static GTFS feeds
-establish the planned spatial geometry, empirical historical tracking is
-required to model actual street-bound traffic friction and schedule
-degradation. To support the operational delay modeling in Question I, we
-rely on a contiguous historical archive of agency Computer-Aided
-Dispatch and Automatic Vehicle Location (CAD/AVL) event records to
-capture high-fidelity schedule deviations. Question II has an additional
-dependency on demographic and equity data in order to distinguish
-between *vulnerable* and *non-vulnerable* populations; to support these
-needs we will rely on project–specific outreach and rider data[^8] and
-federal census data. The R package `tidycensus`[^9] is suitable as a
-tool to query US Census Bureau APIs and return tidyverse-ready data
-frames.
+To test how real passengers will be affected, we started with RIPTA's
+official schedules (*published in the industry-standard General Transit
+Feed Specification* [^4] *(GTFS) format*) and digitally reconstructed
+the route map to terminate at Park Row West.[^5] Because published
+schedules only reflect ideal plans on paper, we paired them with a full
+year of RIPTA's real-world GPS dispatch logs—recording the exact second
+buses actually arrived at stops across the city. Finally, we linked
+those routes to U.S. Census neighborhood data and RIPTA's rider surveys
+to distinguish transit-dependent communities from wealthier
+'non-vulnerable' commuters.[^6]
 
-[^4]: MobilityData, “Overview,” *General Transit Feed Specification
-    (GTFS) Technical Documentation*, accessed September 11, 2026,
-    <https://gtfs.org/documentation/overview/>.
+[^4]: *MobilityData, “Overview,” General Transit Feed Specification
+    (GTFS) Technical Documentation, accessed September 11, 2026,
+    <https://gtfs.org/documentation/overview/>.*
 
-[^5]: RI Division of Statewide Planning, “About RIGIS,” *Rhode Island
-    Geographic Information System*, accessed September 11, 2026,
-    <https://info.rigis.org/pages/about>; Environmental Data Center,
-    University of Rhode Island, “RIPTA Bus Routes,” geospatial dataset,
-    *Rhode Island Geographic Information System*, accessed September 11,
-    2026, <https://www.rigis.org/datasets/edc::ripta-bus-routes/about>.
-
-[^6]: Chelsey Palmateer et al., “The Synergistic Effects of Transit
+[^5]: Chelsey Palmateer et al., “The Synergistic Effects of Transit
     Oriented Development and Transit Hubs on Accessibility in the San
     Francisco Bay Area” (working paper, University of Minnesota, August,
     2, 2016), <https://hdl.handle.net/11299/181535>.
 
-[^7]: Poletti, F., et al., *tidytransit: Read, Validate, Analyze, and
-    Map GTFS Feeds,* R package version 1.8.0 (2026),
-    [https://github.com/r-transit/tidytransit](#0){.uri}.
-
-[^8]: Next Wave Rhode Island Partners, *Providence Transit Center Joint
+[^6]: Next Wave Rhode Island Partners, *Providence Transit Center Joint
     Development Project: Task 2, Part I – Site Evaluations & Commercial
     Feasibility*, report submitted to the Rhode Island Public Transit
-    Authority(March 28, 2025), sec. 2.4, pp. 24–34; and Appendix 1C, pp.
-    1C-1–1C-20.
-
-[^9]: Walker K. and Herman M., *tidycensus: Load US Census Boundary and
-    Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames*, R package
-    version 1.8.0 (2026), <https://walker-data.com/tidycensus/>.
+    Authority (March 28, 2025), sec. 2.4, pp. 24–34; and Appendix 1C,
+    pp. 1C-1–1C-20.
 
 ### Primary Data Summary {#sec-pri-data-sum}
 
-#### General Transit Feed Specification(GTFS)
-
-The GTFS requires several text files to sufficiently describe a transit
-network. Most of the text files will need to be modified to reflect the
-relocation of transit hubs. A brief description of each is as follows:
-
-- `stops.txt`: Lists all transit stops in the network, providing a
-  unique stop ID along with latitude and longitude coordinates based on
-  the [WGS 84](#def-wgs84) datum.
-
-- `routes.txt`: Defines all transit lines, specifying a unique route ID,
-  short name and basic route metadata.
-
-- `trips.txt`: Logs every individual trip across the network, linking
-  trip IDs to their corresponding route IDs.
-
-- `route_timepoints.txt`: A custom file generated by RIPTA to designate
-  which stops act as official published timetable timepoints for a given
-  route.
-
-- `stop_times.txt`: Contains detailed scheduling information, recording
-  the exact scheduled arrival and departure times for each trip at every
-  associated stop ID.
-
-- `shapes.txt`: Describe the path that a vehicle travels along a route.
-  Shapes are associated with Trips, and consist of a sequence of points
-  through which the vehicle passes in order.
-
-- `calendar.txt` and `frequencies.txt`: Define service calendars, trip
-  [headways](#def-trip-hdwy) and service duration.
-
 #### RIPTA CAD/AVL Historical Archive
 
-To overcome the limitations of algorithmically interpolated static
-schedules and the API rate constraints of streaming GTFS-Realtime feeds,
-a 12-month contiguous historical archive of CAD/AVL transit event
-records was acquired via a formal Rhode Island Access to Public Records
-Act (APRA)[^10] request. This dataset provides the high-fidelity event
-precision required for econometric modeling, logging scheduled vs.
-actual vehicle movements, schedule deviation in seconds, and
-high-precision GPS coordinates for decision timepoint isolation across
-the downcity network.
+Published timetables estimate intermediate stop times mathematically,
+while public live-tracking feeds (*GTFS-Realtime*) restrict how much
+historical data can be downloaded. To build an exact four-season record,
+we obtained a full 12-month archive of internal Computer-Aided Dispatch
+and Automatic Vehicle Location (*CAD/AVL*) logs via a Rhode Island
+Access to Public Records Act (APRA)[^7] request. These records log
+*scheduled vs. actual* bus arrivals to the second alongside precise GPS
+coordinates—allowing us to measure corridor delays just before buses hit
+downtown hub congestion.
 
-[^10]: Access to Public Records Act, R.I. Gen. Laws § 38-2-1 et seq.
+[^7]: Access to Public Records Act, R.I. Gen. Laws § 38-2-1 et seq.
 
 #### RIPTA Kennedy Plaza Transfer Data & Passenger Counts
 
-The NWRIPs conducted a public outreach survey to a total of 4,438
-individuals in support of the project to capture public engagement
-feedback. The surveys documented origin zip codes and trip purposes.
-While it would be advantageous to use this data to estimate the
-proportion of riders that terminate their trip in Downcity Providence
-from a particular bus route, this data was not captured in the survey
-and zip code is not specific enough to infer a specific route.
-Additionally, the survey sample was not assessed to be representative of
-all daily RIPTA riders, as it was only distributed online and at public
-hearings, and included about 15% of non-riders or infrequent riders.
-Determining the percentage of inbound passengers whose final destination
-is within 1/4 mile walking distance of Kennedy Plaza is critical to
-Question II, so we will need to look for other means of estimating this
-data.
+Next Wave Rhode Island Partners surveyed 4,438 people during public
+outreach, recording home ZIP codes and trip purposes. However, the
+survey did not record which specific bus routes respondents rode, and
+ZIP codes are too broad to tie responses to individual lines. Moreover,
+because the survey was distributed only online and at public
+meetings—and included roughly 15% non-riders and infrequent riders—it
+does not represent daily bus commuters as a whole. Because answering
+Question II requires knowing how many incoming passengers end their trip
+within a quarter-mile walk of Kennedy Plaza, we combine this survey
+baseline with route-level ridership in @sec-xfr-vol.
 
 #### U.S. Census Bureau Databases
 
-U.S Census Bureau block-group demographic data can be pulled via the
+U.S. Census Bureau block-group demographic data was extracted via the
 American Community Survey (ACS) 5-Year estimates. This data—specifically
 tracking median household income, race and ethnicity, zero-vehicle
-households, civilian ambulatory disability, and senior populations— is
-utilized to parameterize the equity evaluation and classify
-neighborhoods into the study's Transit-Dependent and Mobility-Challenged
-vulnerability tiers.
+households, residents with walking disabilities, and senior
+populations—is used to define the study's Transit-Dependent and
+Mobility-Challenged vulnerability tiers.
 
 #### RIGIS Digital Elevation Models (DEM) & Spatial Layers
 
 Elevation datasets from the Rhode Island Geographic Information System
-(RIGIS) paired with street / parcel boundaries to construct walking
-buffers and compute slope gradients and effort weighted walking speeds.
+(RIGIS) were paired with street and parcel boundaries to map
+quarter-mile walking zones, street steepness, and effort-weighted
+walking speeds.
 
-### Core R Packages
+#### Data & Analytical Environment
 
-The following core R packages will be required for this project:
+Full schema specifications for the RIPTA GTFS feed and an inventory of
+the core R packages used in this analysis are documented in the
+[**Technical Appendix**](#sec-tech-app).
 
-`tidyverse` Popular collection of R packages designed specifically for
-data science
-
-`sf` Modern standard for handling, manipulating, and visualizing spatial
-vector data in R
-
-`tidytransit` Read, validate, analyze, and map public transit data
-stored in the GTFS format.
-
-`terra` Ingests the Digital Elevation Model (DEM) grid data for the
-Providence area
-
-`tidycensus` Pulls data from U.S. Census Bureau APIs directly into R
-
-`osrm` Computes optimal paths, travel distances, travel times, and
-spatial accessibility polygons
-
-`caret` A comprehensive framework for machine learning and statistical
-modeling in R
-
-# Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA): Mapping Baseline Operations & Equity
 
 To evaluate the spatial, operational, and social equity impacts of
 relocating Providence’s central transit hub from Kennedy Plaza to Park
 Row West, we constructed a multi-stream exploratory data analysis (EDA)
-pipeline (@fig-eda-pipeline). This analytical architecture transforms
-disparate data inputs—including General Transit Feed Specification
+pipeline (@fig-eda-pipeline). This analytical architecture combines
+distinct data sources—including General Transit Feed Specification
 (GTFS) schedule feeds, historical Computer-Aided Dispatch and Automatic
 Vehicle Location (CAD/AVL) event logs, U.S. Census Bureau American
 Community Survey (ACS) 5-Year estimates, Rhode Island Geographic
@@ -481,23 +383,22 @@ survey responses—into five core processing modules:
 1.  **GTFS Operations Engine:** Quantifies daytime peak arrival
     frequencies ($N_r$), headways, and route volume baselines ($R_r$)
     across 30 directional route-branch arrival streams.
-2.  **Network Topography & Walkshed Engine:** Constructs
-    $\frac{1}{4}$-mile pedestrian network buffers and models
-    grade-adjusted walking speed reductions using Tobler’s Hiking
-    Function.
-3.  **Transit Equity Engine:** Characterizes Census block group
+2.  **Network Topography & Walkshed Engine:** Constructs quarter-mile
+    pedestrian network buffers and models grade-adjusted walking speed
+    reductions using Tobler’s Hiking Function.
+3.  **Transit Equity Engine:** Characterizes Census block group $(bg)$
     vulnerability across 191 study tracts and applies route-volume
-    weighting ($W_i = \text{Pop}_i \times R_i$) to establish
-    passenger-weighted demographic exposure.
+    weighting $(W_{bg})$ to establish passenger-weighted demographic
+    exposure.
 4.  **Passenger Disaggregation Engine:** Applies the system-wide
-    outreach survey baseline ($\tau_{\text{survey}} = 0.359$) to
-    separate daily route ridership into final-destination walkers
-    ($W_{\text{vol}, r}$) and connecting transfer riders
-    ($T_{\text{vol}, r}$).
-5.  **Delay & Timepoint Isolation Engine:** Processes raw CAD/AVL
-    transit records to extract high-fidelity schedule deviations and
-    isolate upstream decision timepoints prior to downcity terminal
-    queuing.
+    outreach survey baseline $(\tau_{\text{survey}} = 0.359)$ to
+    separate daily route ridership into final-destination riders
+    $(D_{\text{vol}, r})$ and connecting transfer riders
+    $(T_{\text{vol}, r})$.
+5.  **Delay & Timepoint Isolation Engine:** Processes raw CAD/AVL GPS
+    records to measure exact schedule delays at each route's final
+    checkpoint ('*decision timepoint*') before buses enter downtown
+    terminal traffic.
 
 Together, these five modules establish the empirical baselines governing
 Downcity Providence's transit network and provide the foundational input
@@ -509,18 +410,15 @@ Architecture.](images/data-pipeline.png){#fig-eda-pipeline}
 
 ## Transit Operations Baseline (RIPTA GTFS Network Profile)
 
-The hypothesis supporting *Key Question I* is dependent on the ability
-to calculate the temporal driving delay and downstream marginal
-operating costs resulting from the route extension distances created by
-the transit hub relocation. We can perform linear regression to model
-the relationship between the spatial extension affecting each route and
-the additional required operating costs and resource acquisition. We
-therefore want to construct a data pipeline that evaluates the
-high-frequency transit service funneling into Downcity Providence
-through Kennedy Plaza during peak daytime operating hours. By isolating
-trips that move inbound toward or through the central transit hub, we
-can analyze corridor-level arrival frequency and group routes by their
-approach direction (see @fig-kp-overlay).
+Answering *Key Question I* requires measuring how route extension
+distances add driving time—and how those lost minutes translate into
+extra operating costs and fleet vehicles. To establish a clean baseline
+before modeling the move, we built a data pipeline evaluating all
+high-frequency bus routes funneling into Downcity Providence through
+Kennedy Plaza during peak daytime operating hours. Isolating inbound
+trips allows us to measure arrival frequencies by street corridor and
+group routes by their cardinal approach direction—North, South, East, or
+West (@fig-kp-overlay).
 
 ![Kennedy Plaza High Frequency Bus Routes and Transit Corridor. Note.
 *Adapted from Rhode Island Public Transit Authority (RIPTA)*, Providence
@@ -530,20 +428,20 @@ Transit Map & Pocket Guide (Dec.
 ### Network Scope & High-Frequency Coverage {#sec-transit-network}
 
 To evaluate the operational and equity impacts where the transit demand
-is most concentrated, we will focus this study on the primary bus routes
+is most concentrated, we focus this study on the primary bus routes
 serving Kennedy Plaza with peak frequencies of ***at least two trips per
 hour (headways*** $\le$ ***30 minutes)***. This filters out
 low-frequency rural coverage routes and long-distance express commuter
 runs, isolating the core urban transit network to be representative of
 daily boardings, driver service hours, and bus-to-bus transfers.
 
-We ingest the GTFS files `stops.txt` and `stop_times.txt` to identify
-routes that serve Kennedy Plaza and filter these routes for inbound
-direction and trips that operate between typical business hours. Next,
-we use `trips.txt` to join route metadata to the filtered trip summary
-dataset and calculate the trip frequency / headway for each route and
-filtering to eliminate headways greater than 30 minutes. @tbl-routes
-outlines the routes with the most frequent stops at Kennedy Plaza.
+We ingested RIPTA's `stops.txt` and `stop_times.txt` static files to
+isolate inbound trips serving Kennedy Plaza during daytime business
+hours (*08:00 AM–06:00 PM*). Linking those trips to `trips.txt` route
+metadata, we calculated each line's hourly arrival frequency and average
+wait time between buses ('*headway*'), filtering out routes with
+headways longer than 30 minutes. @tbl-routes summarizes the 10
+highest-frequency corridors entering Kennedy Plaza.
 
 ```{r}
 #| label: tbl-routes
@@ -587,7 +485,7 @@ if (is_pdf) {
 ```
 
 @fig-routes summarizes inbound routes to Kennedy Plaza with peak
-headways 30 minutes or less (at least 2 buses per hour). These routes
+headways 30 minutes or less (*at least 2 buses per hour*). These routes
 cover all four cardinal approach directions, providing a comprehensive
 baseline for transit analysis.
 
@@ -655,23 +553,22 @@ route_kp_frequency |>
   )
 ```
 
-Filtering for inbound routes with peak daytime headways $\le$ 30 minutes
-captures 36% of total daily bus arrivals entering Kennedy Plaza across
-64% of all RIPTA fixed-route lines. This high-frequency core drives a
-substantial share of vehicle revenue hours and passenger boardings in
-the Providence urban core, isolating the network segments where routing
-extensions and delays compound most significantly into agency operating
-costs.
+Isolating daytime inbound trips (*08:00 AM–06:00 PM*) on these
+high-frequency corridors captures 64% of all RIPTA fixed-route lines and
+36% of all 24-hour bus arrivals at Kennedy Plaza. Because this
+high-frequency urban core accounts for a lion's share of active
+passenger service hours ('*Vehicle Revenue Hours*') and daily boardings,
+it pinpoints where route extensions will drive up operating costs
+fastest.
 
 ## Spatial Access and Topography
 
-All of the key questions require modifications to the transit framework
-baseline in order to determine impacts to operating costs, pedestrian
-accessibility, and bus-to-bus transfers. This section will discuss
-merging RIGIS spatial layers with the route scope and adding
-hypothetical stops for the PRW-FS hub.
+Evaluating operating costs, walking access, and transfers requires
+digitally modifying RIPTA's current street network to test the proposed
+hub. In this section, we link state geographic map layers (*RIGIS*) with
+RIPTA's route map and add simulated bus berths at Park Row West.
 
-### GTFS Network Modification & PRW-FS Hub Geo-Coding
+### GTFS Network Modification & Park Row West Hub Geo-Coding
 
 #### Adding Hypothetical Stops
 
@@ -681,45 +578,45 @@ to a point directly on the Park Row West roadway between Stillman Street
 and Exchange Terrace, placing the hypothetical transit hub bus berths
 alongside the Providence Station (41°49'46.40"N 71°24'49.41"W). To
 simulate this in the GTFS pipeline, we generated new stop entries in
-`stops.txt` to represent the PRW-FS bus berths (e.g.
+`stops.txt` to represent the Park Row West bus berths (e.g.
 `stop_id = "PRW_FS_01"`, `stop_name = "Park Row West Transit Center"`,
 `stop_lat = 41.8296`, `stop_lon = -71.4136`).
 
 #### Route Realignment Mapping
 
-We will use the `sf` (Simple Features) package to map the physical
-street network path required for inbound routes to navigate between
-their existing Kennedy Plaza alignment and the new PRW-FS terminal. By
-combining these geometries with the `osrm` routing engine, we can
-simulate exact driving distances and travel paths for both baseline and
-relocated hub scenarios.
+We used the `sf` (*Simple Features*) package to map the physical street
+network path required for inbound routes to navigate between their
+existing Kennedy Plaza alignment and the new Park Row West terminal. By
+combining these geometries with the `osrm` routing engine, we simulated
+exact driving distances and travel paths for both baseline and relocated
+hub scenarios.
 
 ### Comparative 1/4-Mile Walkshed Buffer Analysis
 
 #### Projection Alignment
 
-Because standard GPS coordinates (latitude/longitude) distort distance
-measurements depending on their distance from the equator, we re-project
-our spatial data into the local RIGIS coordinate reference system (Rhode
-Island State Plane) using the `st_transform()` function in the `sf`
-package. This ensures that all spatial distances and walking buffers are
-calculated accurately in linear feet.
+Because standard GPS coordinates (*latitude/longitude*) distort distance
+measurements depending on their distance from the equator, we
+re-projected our spatial data into the local RIGIS coordinate reference
+system (*Rhode Island State Plane*) using the `st_transform()` function
+in the `sf` package. This ensures that all spatial distances and walking
+buffers are calculated accurately in linear feet.
 
 #### Walking Buffer Generation
 
 To evaluate spatial accessibility across both terminal locations,
 1/4-mile pedestrian [walkshed](#0) buffers were established around KP
-and PRW-FS. Utilizing the `osrm` package, street-network
-[isochrones](#0) were constructed assuming a baseline walking speed of
-3.0 miles per hour (a nominal 5-minute walk). As shown in @fig-walkshed,
-this mapping reveals minimal overlap between the two walksheds,
-separating the Downcity commercial core (Providence City Hall and the
-Financial District) from the northern institutional and rail cluster
-(Providence Station, the RI State House, and Providence Place Mall). It
-also quantifies the approximately \~**1,820-foot (0.34-mile) relocation
-extension**, representing an additional commute gap that transit riders
-must navigate when traveling between Kennedy Plaza and the proposed
-northern hub.
+and Park Row West. Utilizing the `osrm` package, we mapped quarter-mile
+**street-network [isochrones](#0)**—polygons tracing the exact area
+reachable within a 5-minute walk along real sidewalks at 3.0 mph. As
+shown in @fig-walkshed, this mapping reveals minimal overlap between the
+two walksheds, separating the Downcity commercial core (*Providence City
+Hall and the Financial District*) from the northern institutional and
+rail cluster (*Providence Station, the RI State House, and Providence
+Place Mall*). It also quantifies the \~**1,820-foot (0.34-mile)
+relocation extension**, representing an additional commute gap that
+transit riders must navigate when traveling between Kennedy Plaza and
+the proposed northern hub.
 
 ```{r}
 #| label: fig-walkshed
@@ -782,7 +679,7 @@ draw_key_diagonal_overlap <- function(data, params, size) {
 # Step 4: Generate Comparative Isochrone & Walkshed Map
 fig_walkshed_map <- ggplot() +
   
-  # 1. Individual 1/4-Mile Walkshed Buffers (KP vs. PRW-FS)
+  # 1. Individual 1/4-Mile Walkshed Buffers (KP vs. Park Row West)
   geom_sf(
     data = walkshed_buffers,
     aes(fill = hub_name),
@@ -976,27 +873,26 @@ fig_walkshed_map
 
 #### Destination Overlap
 
-We can overlay both KP and PRW-FS buffers with additional RIGIS and US
-Census layers such as employment, housing, and equity to demonstrate the
-spatial shifts to resources as the walking access for affected riders is
-modified. Refer to subsection [**Demographic
-Characterization**](#sec-demographics) for more details.
+We overlay these walking zones onto U.S. Census neighborhood maps to
+measure how shifting the hub changes rider access to jobs and services.
+Refer to @sec-demographics for more details.
 
 ### Terrain Slope Modeling & Pedestrian Impacts
 
 A core goal of Rhode Island's *Transit Forward RI 2040* Master Plan is
 to provide transit services that "help people live independently as they
 age." Evaluating the physical terrain between the two hubs directly
-supports determining the effectivity of this state mandate. While the
-street-network analysis establishes the 0.34-mile (1,820-foot)
-horizontal distance between Downcity Providence and PRW-FS, answering
-*Key Question II* requires linking elevation profiles to demographic
-equity indicators. In the modeling phase, RIGIS Digital Elevation Model
-(DEM) rasters are paired with a terrain-based walking speed formula to
-measure the corridor's elevation grade and compute effort-weighted
-travel times for standard and mobility-challenged transit riders. These
-slope-adjusted penalties establish whether vulnerable populations bear a
-disproportionate physical burden under the relocated hub scenario.
+supports determining the effectiveness of this state mandate. While the
+street-network analysis establishes the 0.34-mile (*1,820-foot*)
+horizontal distance between Downcity Providence and Park Row West,
+answering *Key Question II* requires linking elevation profiles to
+demographic equity indicators. In the modeling phase, RIGIS Digital
+Elevation Model (DEM) rasters are paired with a terrain-based walking
+speed formula to measure the corridor's elevation grade and compute
+effort-weighted travel times for standard and mobility-challenged
+transit riders. These slope-adjusted penalties establish whether
+vulnerable populations bear a disproportionate physical burden under the
+relocated hub scenario.
 
 #### RIGIS DEM Integration
 
@@ -1006,27 +902,27 @@ Island State Plane coordinates (EPSG:3438), this continuous surface
 provides ground elevation measurements in feet across downtown
 Providence. Aligning these raster values with the pedestrian street
 network enables exact calculation of terrain grade between Kennedy Plaza
-and the proposed PRW-FS hub.
+and the proposed Park Row West hub.
 
 #### Methodology & Industry Sources for Walking Speeds:
 
-- **Transit Capacity and Quality of Service Manual (TCQSM)**[^11]:
-  - **Standard Pedestrian Baseline: 3.0 - 3.1 mph** (264-275 ft/min or
-    5.0 km/h)
-  - **Mobility-Challenged / Senior Baseline: 2.0 mph** (176 ft/min or
-    3.2 km/h)
+- **Transit Capacity and Quality of Service Manual (TCQSM)**[^8]:
+  - **Standard Pedestrian Baseline: 3.0 - 3.1 mph** (*264-275 ft/min or
+    5.0 km/h*)
+  - **Mobility-Challenged / Senior Baseline: 2.0 mph** (*176 ft/min or
+    3.2 km/h*)
 - **Federal Highway Administration (FHWA) Pedestrian Facilities
-  Guidance**[^12]:
+  Guidance**[^9]:
   - Specifies accessible design walking speeds between **2.0 and 2.8
     ft/s (1.36-1.91 mph)** for pedestrian routes serving high
     proportions of seniors or persons with ambulatory disabilities.
 
-[^11]: National Academies of Sciences, Engineering, and Medicine,
+[^8]: National Academies of Sciences, Engineering, and Medicine,
     *Transit Capacity and Quality of Service Manual*, 3rd ed., Transit
     Cooperative Research Program (TCRP) Report 165 (Washington, DC: The
     National Academies Press, 2013), <https://doi.org/10.17226/24766>.
 
-[^12]: Federal Highway Administration, *A Guide for Maintaining
+[^9]: Federal Highway Administration, *A Guide for Maintaining
     Pedestrian Facilities for Enhanced Safety*, Report No.
     FHWA-SA-13-037 (Washington, DC: U.S. Department of Transportation,
     2013),
@@ -1035,25 +931,26 @@ and the proposed PRW-FS hub.
 #### Slope Gradient Calculation
 
 Extracting raster elevation values along pedestrian walkways connecting
-PRW-FS to Downcity Providence yields the corridor's average slope
+Park Row West to Downcity Providence yields the corridor's average slope
 gradient $(S)$, defined as the vertical elevation change over horizontal
-distance (both measured in feet):
+distance (*both measured in feet*):
 
 $$ S=\frac{\Delta \text{elevation}}{\text{horizontal distance}}$$
 
-This dimensionless rise-over-run ratio provides the direct terrain input
-required to estimate slope-adjusted pedestrian walking speeds.
+This rise-over-run slope ratio measures steepness along each sidewalk
+segment (*e.g.,* $S=0.02$ *represents a 2% uphill grade*) and feeds
+directly into our walking-speed model.
 
 #### Effort-Weighted Walking Penalties
 
 To translate the corridor's slope gradient $(S)$ into realistic
-pedestrian travel times , this analysis models *effort-weighted* walking
-speeds using Tobler's Hiking Function.[^13] Accounting for terrain
+pedestrian travel times, this analysis models *effort-weighted* walking
+speeds using Tobler's Hiking Function.[^10] Accounting for terrain
 resistance quantifies how the grade ascending toward the Capitol
 building slows pedestrian movement and places a disproportionate burden
 on older adults and mobility-impaired riders.
 
-[^13]: Waldo Tobler, *Three Presentations on Geographical Analysis and
+[^10]: Waldo Tobler, *Three Presentations on Geographical Analysis and
     Modeling: Non-Isotropic Modeling, Speculations on the Geometry of
     Geography, Global Spatial Analysis*, Technical Report 93-1, (Santa
     Barbara: National Center for Geographic Information and Analysis,
@@ -1068,23 +965,24 @@ $$V(S)=6\cdot e^{-3.5 \cdot |S+0.05|}$$
 - **Mobility-Challenged Scaling Factor** $(\alpha)$**:** To model slower
   baseline movement for mobility-challenged commuters
   $(V_{mobility}(S)=\alpha \cdot V(S))$, Tobler's curve is scaled by the
-  ratio of flat-ground mobility impaired walking speed (*1.89 mph*) to
+  ratio of flat-ground mobility-impaired walking speed (*1.89 mph*) to
   Tobler's flat-terrain baseline
   $(V(0) \approx 5.04\text{ km/h or } 3.13 \text{ mph})$:
 
 $$\alpha=\frac{V_{mobility}(0)}{V_{standard}(0)}=\frac{1.89\text{mph}}{3.13\text{mph}}\approx 0.605$$
 
-Multiplying the Tobler velocity $V(S)$ (*in feet per minute*) by
-$\alpha$ establishes the pace used to compute slope-adjusted times for
-mobility-challenged rider walking across the corridor.
+Converting Tobler's velocity $V(S)$ from km/hr into feet per minute
+$(1\text{ km/h} = 54.68 \text{ ft/min})$ and multiplying by
+$\alpha=0.605$ establishes the slope-adjusted pace for
+mobility-challenged riders along each segment of the climb.
 
 #### Elevation Penalties and Walking Times
 
 As illustrated in @fig-terrain-tobler (*Panel A*), the 1,820-foot
-pedestrian path connecting KP to PRW-FS initially proceeds across flat
-terrain before climbing Francis Street toward Capitol Hill. The route
-reaches 32.5 feet above Mean Sea Level (*MSL*) at the proposed hub,
-creating a net elevation gain of 22.5 ft. While the average incline
+pedestrian path connecting KP to Park Row West initially proceeds across
+flat terrain before climbing Francis Street toward Capitol Hill. The
+route reaches 32.5 feet above Mean Sea Level (*MSL*) at the proposed
+hub, creating a net elevation gain of 22.5 ft. While the average incline
 gradient is 1.2%, localized slopes along the Francis Street corridor
 peak at 2.2%, presenting a physical barrier for mobility-challenged
 transit users.
@@ -1096,11 +994,10 @@ Compared to a standard adult walking a flat baseline path (*6.54
 minutes*), the relocation imposes a 4.76 minute (*72.8% increase*)
 travel time penalty.
 
-When added to baseline transfer times, an 11.3-minute physical walk
-consumes a vast majority of the 15-minute standard headway budget for
-connecting RIPTA bus lines. For mobility-challenged riders, this
-topographic extension represents a substantial degradation in transit
-accessibility.
+When connecting RIPTA buses run every 15 minutes, an **11.3-minute
+uphill walk** consumes three-quarters of a rider's entire transfer
+window—turning a routine downtown connection into a major physical
+barrier for mobility-challenged passengers.
 
 ```{r}
 #| label: fig-terrain-tobler
@@ -1213,8 +1110,8 @@ Relocating a central transit hub fundamentally shifts pedestrian
 walksheds and transfer times. These physical changes can impose
 disproportionate burdens on transit-dependent populations, specifically
 low-income households, racial and ethnic minorities, zero-vehicle
-families, elderly residents, and individuals with ambulatory
-disabilities.
+families, elderly residents, and individuals with ambulatory (*walking
+or stair-climbing*) disabilities.
 
 To evaluate the spatial equity of the proposed relocation, we
 established an empirical baseline of the affected population using the
@@ -1224,7 +1121,7 @@ spatial unit that provides detailed socioeconomic variables.
 
 ### U.S. Census American Community Survey (ACS) Variables
 
-Using Census Reporter[^14] as a reference index, we searched for and
+Using Census Reporter[^11] as a reference index, we searched for and
 identified ACS base tables required to model our target demographics. As
 outlined in @tbl-ACS-codes, these selected variables isolate the core
 socioeconomic and physical mobility factors necessary to construct our
@@ -1233,7 +1130,7 @@ disability and senior variables, we can directly evaluate the *Transit
 Forward RI 2040* Master Plan's objective to track and protect transit
 access for residents aged 65 and older.
 
-[^14]: "Providence County, RI," Census Reporter, accessed September 21,
+[^11]: "Providence County, RI," Census Reporter, accessed September 21,
     2026,
     <https://censusreporter.org/profiles/05000US44007-providence-county-ri/>.
 
@@ -1241,7 +1138,7 @@ access for residents aged 65 and older.
 #| label: tbl-ACS-codes
 #| message: false
 #| warning: false
-#| tbl-cap: "U.S. Census Bureau American Community Survey (ACS) 5-Year Estimate base tables utilized to parameterize block-group transit equity and vulnerability tiers."
+#| tbl-cap: "U.S. Census Bureau American Community Survey (ACS) 5-Year Estimate base tables used to define neighborhood transit equity."
 
 manual_pdf_override <- NULL 
 
@@ -1369,11 +1266,11 @@ vulnerability_summary |>
 
 To apply this framework, we downloaded the 5-year ACS data using the
 `tidycensus` R package. We then linked these demographics to the
-official Providence city boundary from the RIGIS Open Data portal.[^15]
+official Providence city boundary from the RIGIS Open Data portal.[^12]
 Finally, we converted the map coordinates into Rhode Island State Plane
 Feet to ensure accurate distance measurements.
 
-[^15]: Rhode Island Geographic Information System (RIGIS).
+[^12]: Rhode Island Geographic Information System (RIGIS).
     "Municipalities (1997)". Geospatial dataset. Environmental Data
     Center, University of Rhode Island and Rhode Island Division of
     Statewide Planning. Accessed September 21, 2026.
@@ -1478,6 +1375,12 @@ if (is_pdf) {
 }
 ```
 
+Notably, the Mobility-Challenged tier exhibits a higher mean
+neighborhood income (*\$95,058*) because several higher-income
+residential areas in Providence have above-average shares of residents
+aged 65+—highlighting that physical transit vulnerability spans income
+brackets as residents age in place.
+
 ## Estimating the Transit Rider Population Profile {#sec-rider-profile}
 
 While mapping these block groups shows us exactly where vulnerable
@@ -1486,10 +1389,10 @@ population* rather than the *active transit rider population* moving
 through the central hub. Because general Census data includes
 non-riders—and because transit riders systematically exhibit higher
 rates of transit dependency and distinct mobility needs compared to
-general neighborhood averages[^16]—relying solely on geographic
+general neighborhood averages[^13]—relying solely on geographic
 demographics risks underestimating the true equity impact.
 
-[^16]: *National Academies of Sciences, Engineering, and Medicine*,
+[^13]: *National Academies of Sciences, Engineering, and Medicine*,
     Transit Capacity and Quality of Service Manual, 3rd ed., Transit
     Cooperative Research Program (TCRP) Report 165 (Washington, DC: The
     National Academies Press, 2013), pg. 4-3; pg. 3-18,
@@ -1572,7 +1475,7 @@ Census data for each individual block group $(bg)$ to reflect active
 daily transit volumes.
 
 To calculate the weighted transit rider share for each of our three
-study cohorts $(g)$ , we apply the following formula:
+study cohorts $(g)$, we apply the following formula:
 
 $$\begin{align*}
 \text{Rider\_Share}_g&=\frac{\text{Weighted Group Rider Volume}}{\text{Total Weighted System Rider Volume}}\\[1.5em]
@@ -1588,16 +1491,22 @@ $$\begin{align*}
 &=\boxed{\frac{\Sigma_{bg}(\text{Demographic\_Rate}_{bg} \times \text{Pop}_{bg} \times \Sigma_{r\in bg}R_r)}{\Sigma_{bg}(\text{Pop}_{bg} \times \Sigma_{r\in bg}R_r)}}
 \end{align*}$$
 
+In plain terms, these equations give densely populated neighborhoods
+served by frequent, crowded buses proportionately greater weight than
+less densely populated neighborhoods served by infrequent
+lines—producing a demographic profile of **actual bus seats filled**
+rather than raw land area.
+
 ### Weighted Demographic Results
 
 This route-weighting methodology directly aligns with the operational
 baseline established in the state's *Transit Forward RI 2040* Master
-Plan[^17]. The agency formally acknowledges that active ridership is not
+Plan[^14]. The agency formally acknowledges that active ridership is not
 representative of the general resident population; rather, active
 commuters are heavily skewed toward essential workers, lower-income
 individuals, and people of color.
 
-[^17]: Rhode Island Public Transit Authority, *Transit Forward RI 2040*
+[^14]: Rhode Island Public Transit Authority, *Transit Forward RI 2040*
     (Providence, RI), Preface, ii,
     <https://www.ripta.com/sites/default/files/2025-10/TFRI-Recs-Briefing-Book-Final-201230.pdf>.
 
@@ -1708,47 +1617,47 @@ if (is_pdf) {
 > active transit passenger exposure rather than unweighted residential
 > census averages.
 
-## Estimating Daily Transfer Volume and Transfer Destination Splits
+## Estimating Daily Transfer Volume and Transfer Destination Splits {#sec-xfr-vol}
 
 As discussed in @sec-pri-data-sum, determining the proportion of inbound
 bus passengers whose final destination is Downcity Providence versus
 those connecting to another transit line is essential for evaluating hub
 relocation impacts.
 
-While RIPTA is required by law[^18] to collect and report transit
-service metrics (such as [unlinked passenger trips](#def-upt) ), and the
-Federal Transit Administration promulgates strict guidelines for
-utilizing [Automatic Passenger Counter](#def-apc) (APC) data,[^19] RIPTA
-uses this APC data internally and does not publish raw, route-level
-event logs as open-source datasets.
+While RIPTA is required by law[^15] to collect and report transit
+service metrics (*such as [unlinked passenger trips](#def-upt)*), and
+the Federal Transit Administration enforces strict reporting standards
+for utilizing [Automatic Passenger Counter](#def-apc) (*APC*) data,[^16]
+RIPTA uses this APC data internally and does not publish raw,
+route-level event logs as open-source datasets.
 
-[^18]: **49 U.S.C. § 5335(a)–(b)** (National Transit Database),
+[^15]: **49 U.S.C. § 5335(a)–(b)** (National Transit Database),
     originating from Section 15 of the Federal Transit Act (Pub. L.
     93–503), as amended. Codified and published in the *United States
     Code*, Title 49, Subtitle III, Chapter 53, Section 5335.
 
-[^19]: Federal Transit Administration (FTA), *National Transit Database
+[^16]: Federal Transit Administration (FTA), *National Transit Database
     Sampling and Estimation Manual* (Washington, DC: U.S. Department of
     Transportation, Federal Transit Administration), accessed via
     <https://www.transit.dot.gov/ntd/manuals.>
 
 Because we cannot access the raw APC event logs required to compute
 exact, route-specific final-destination ratios ($D_r$), this study
-estimates daily route transfer volumes ($T_r$) and final-destination
-volumes ($D_{\text{vol}, r}$) by synthesizing system-wide survey metrics
-with the route daily ridership totals ($R_r$) calculated in
-@sec-rider-profile.
+estimates daily route transfer volumes ($T_{vol,r}$) and
+final-destination volumes ($D_{\text{vol}, r}$) by synthesizing
+system-wide survey metrics with the route daily ridership totals ($R_r$)
+calculated in @sec-rider-profile.
 
 ### Transfer and Destination Split
 
 To establish a baseline split, we utilized the Providence Transit Center
-Public Outreach Survey[^20] ($N=4,438$ *respondents*), where
+Public Outreach Survey[^17] ($N=4,438$ *respondents*), where
 participants indicated whether they conducted direct Downcity activities
 or needed to "transfer to go elsewhere" as their main reason for riding.
 By leveraging this survey data, we divided the route passenger volumes
 into two distinct operational groups to model spatial impacts:
 
-[^20]: Next Wave Rhode Island Partners, *Providence Transit Center Joint
+[^17]: Next Wave Rhode Island Partners, *Providence Transit Center Joint
     Development Project: Task 2, Part I – Site Evaluations & Commercial
     Feasibility*, report submitted to the Rhode Island Public Transit
     Authority (March 28, 2025), sec. 2.4, pp. 24–34, and Appendix 1C,
@@ -1766,25 +1675,23 @@ into two distinct operational groups to model spatial impacts:
 
 To evaluate the robustness of our 35.9% baseline gleaned from the
 survey, we compared this ratio with a foundational transfer ratio
-established in a Cincinnati transit hub relocation study (Cincinnati,
-OH).[^21] Using a two-step synthesis of onboard survey sample data and
+established in a Cincinnati transit hub relocation study (*Cincinnati,
+OH*).[^18] Using a two-step synthesis of onboard survey sample data and
 APC boarding logs, that study established a split of **49.0%
 Final-Destination Walkers** and **51.0% Transfer Riders**.
 
-[^21]: Southwest Ohio Regional Transit Authority (SORTA / Metro) and
+[^18]: Southwest Ohio Regional Transit Authority (SORTA / Metro) and
     Alfred Benesch & Company, *Government Square Transit Center
     Relocation Study* (Cincinnati, OH: SORTA/Metro, January 2025),
     <https://www.go-metro.com/wp-content/uploads/2026/02/Government-Square-Relocation-Report-02052025.pdf.>
 
-While the 35.9% transfer rate from the RIPTA Outreach Survey is adopted
-as the deterministic baseline ($\tau_{\text{survey}} = 0.359$) for
-Exploratory Data Analysis (EDA), the higher 51.0% transfer rate observed
-in the Cincinnati benchmark highlights potential variability in hub
-transfer behavior. Consequently, in the formal modeling phase, the route
-transfer rate will be treated as a random variable
-($\tilde{\tau} \in [0.359, 0.510]$) to evaluate transfer network
-resilience and schedule synchronization under varying transfer demand
-scenarios.
+While we use RIPTA's 35.9% survey figure as a fixed point estimate
+$(\tau_{\text{survey}} = 0.359)$ for our baseline tables below,
+Cincinnati's 51.0% sensor-verified rate shows that actual hub transfers
+could be substantially higher. Rather than relying on a single fixed
+guess, our @sec-experiment-design simulations treat the transfer rate as
+a bounded range $(\tilde{\tau} \in [0.359, 0.510])$—testing network
+impacts across every scenario from 35.9% to 51.0%.
 
 ### Analytical Formulation for Route Transfer Volumes
 
@@ -1792,7 +1699,7 @@ Given the survey baseline and benchmark boundaries, we can now formulate
 the daily transfer volume ($T_{\text{vol}, r}$) and daily
 final-destination volume ($D_{\text{vol}, r}$) for each route $r$:
 
-$$T_\text{vol,r} = R_r \times \tilde{\tau}$$
+$$T_{\text{vol},r} = R_r \times \tilde{\tau}$$
 
 $$D_{\text{vol}, r} = R_r \times (1.0 - \tilde{\tau})$$
 
@@ -1809,14 +1716,14 @@ across the RIPTA study corridors serving Downcity Providence.
 By establishing these route-by-route volume baselines, we now possess
 the operational inputs required to model downstream pedestrian travel
 time penalties for final-destination riders reaching the commercial
-core, as well as schedule synchronization disruptions under the PRW-FS
-hub relocation scenario.
+core, as well as schedule synchronization disruptions under the Park Row
+West hub relocation scenario.
 
 @fig-route-stkd-vols visualizes this baseline, ranking the top 10 RIPTA
 routes serving Downcity Providence by total daily ridership and
 disaggregating each corridor's passenger volume into final-destination
 riders and transfer riders based on the public outreach survey baseline
-$\tau_{survey}$ .
+$\tau_{survey}$.
 
 ::: landscape
 ```{r}
@@ -2011,12 +1918,12 @@ RIPTA's transit network centered at Kennedy Plaza:
     terminal. In our EDA scenario, we focused on 27 high-frequency
     routes accommodating over 1,300 daily bus arrivals.
 
-2.  **Topographic Impedance:** Elevation modeling using RIGIS digital
-    elevation models (DEM) and Tobler's Hiking Function demonstrated
-    that shifting the hub northward to Park Row West introduces
-    significant uphill grade penalties **(+1.5% to +2.2% slope)** that
-    disproportionately impact walking travel times for mobility-impaired
-    riders.
+2.  **Topographic Impedance (The Uphill Barrier):** Elevation modeling
+    using RIGIS digital elevation models (DEM) and Tobler's Hiking
+    Function demonstrated that shifting the hub northward to Park Row
+    West introduces significant uphill grade penalties **(+1.2% average
+    grade, peaking at +2.2% on Francis Street)** that disproportionately
+    impact walking travel times for mobility-impaired riders.
 
 3.  **Socioeconomic Vulnerability:** Census ACS demographic overlays
     revealed that transit corridors approaching downtown from the South
@@ -2036,9 +1943,9 @@ demographics, evaluating real-world schedule delays requires actual bus
 tracking data. As established in @sec-data-sources, static GTFS
 schedules are insufficient for robust, real-world performance analysis.
 Furthermore, while RIPTA streams public-facing GTFS-Realtime feeds
-online, streaming capture is bounded by API rate constraints, making it
-unfeasible to assemble a multi-season, weather-inclusive historical
-baseline within the study timeframe.
+online, public live-tracking feeds cap download speeds ('*API rate
+limits*'), making it impractical to reconstruct a full four-season
+historical baseline from public streams alone.
 
 To power our operational model, a formal public records request under
 the Rhode Island Access to Public Records Act (APRA) was submitted to
@@ -2059,16 +1966,15 @@ transfer windows, and overall system delay.
 
 Localized traffic congestion and transit hub bottlenecks are primary
 drivers of marginal operating costs and service degradation. To evaluate
-the impact of relocating the central hub to Park Row West (PRW-FS), we
-constructed a two-phased operational model.
-
-First, we utilize a multiple linear regression model to quantify the
-baseline operational fragility of the existing network, where $Y_{i,t}$
-represents the empirical historical driving delay for each trip $t$ on
-route $i$ as it approaches Kennedy Plaza. Second, we deterministically
-calculate the static spatial penalty of the PRW-FS extension, projecting
-how integrating this new geographic distance onto the existing fragile
-network will compound total system delay.
+the impact of relocating the central hub to Park Row West, we
+constructed a two-phased operational model. In **Phase 1**, we use
+multiple linear regression across the historical GPS records to measure
+how fragile the existing network already is, where $Y_{i,t}$ represents
+the actual driving delay (*in minutes*) for each trip $t$ on route $i$
+approaching Kennedy Plaza. In **Phase 2**, we calculate the
+distance-and-time penalty (***deterministic spatial extension***) of
+rerouting buses to Park Row West, showing how extra mileage compounds
+existing bottlenecks.
 
 ### Phase 1: Empirical Delay Model
 
@@ -2084,9 +1990,12 @@ $$\begin{array}{l}
 \beta_0\text{ represents baseline delay under normal operating conditions}\\[1.5em]
 X_{2(i,t)}\text{ is a time of day (peak/off-peak) factor}\\[1.5em]
 X_{3(i,t)}\text{ is the observed hourly frequency for route } i \text{ on trip } t\\[1.5em]
-X_{4(i)}\text{ is the approach direction factor}\\[1.5em]
-\epsilon_{i,t}\text{ represent variations unexplained by the model}\\[1.5em]
+X_{4(i)}\text{ is a categorical indicator for approach direction, with North as the reference baseline}\\[1.5em]
+\epsilon_{i,t}\text{ represents variations unexplained by the model}\\[1.5em]
 \end{array}$$
+
+> ***Note:*** Variables $X_1$ and $X_5$ are reserved for the Phase 2
+> spatial extension model in @sec-ph2-ext-mod.
 
 To build this model, we combine the planned route schedules with the
 actual real-world tracking archive. While the CAD/AVL dataset provides
@@ -2094,30 +2003,28 @@ the actual historical delay (the target variable, $Y_{i,t}$), the static
 GTFS datasets supply the independent structural features that influence
 performance:
 
-1.  **Time-of-Day (**$X_2$ , derived from `stop_times.txt`**):**
+1.  **Time-of-Day (**$X_2$, *derived from* `stop_times.txt`**):**
     Peak-hour trips experience higher traffic signal delays, street
     congestion, and longer boarding dwell times.
 
-2.  **Trip-Frequency (**$X_3$ , derived from
-    `trips.txt`,`stop_times.txt`**):** Routes operating at
-    short-headways (*e.g. corridors with buses every 5-10 minutes*)
-    experience queuing and berth congestion when multiple buses call at
-    the hub simultaneously.
+2.  **Trip-Frequency (**$X_3$, *derived from* `trips.txt`,
+    `stop_times.txt`**):** Routes operating at short-headways (*e.g.
+    corridors with buses every 5-10 minutes*) experience queuing and
+    berth congestion when multiple buses call at the hub simultaneously.
 
-3.  **Approach Vectors(**$X_4$ , derived from
-    `trips.txt`,`routes.txt`,`stops.txt`**):** Inbound approach
-    direction (North, South, East, West) dictates the specific street
-    geometry and localized turning movements required to navigate the
-    Downcity core.
+3.  **Approach Vectors (**$X_4$, *derived from* `trips.txt`,
+    `routes.txt`, `stops.txt`**):** Inbound approach direction (North,
+    South, East, West) dictates the specific street geometry and
+    localized turning movements required to navigate the Downcity core.
 
-### Phase 2: Deterministic Extension Modeling
+### Phase 2: Deterministic Extension Modeling {#sec-ph2-ext-mod}
 
 After measuring the fragility of the current schedule, we calculate the
-**direct travel time penalty** of the PRW-FS relocation separately. This
-approach allows us to isolate the true impact of the new hub without
-injecting historical traffic bias into the simulation. The projected
-temporal extension penalty $(\hat{Y}_{ext(i,t)})$ in minutes for a
-specific trip $t$ on route $i$ is given by:
+**direct travel time penalty** of the Park Row West relocation
+separately. This approach allows us to isolate the true impact of the
+new hub without injecting historical traffic bias into the simulation.
+The projected temporal extension penalty $(\hat{Y}_{ext(i,t)})$ in
+minutes for a specific trip $t$ on route $i$ is given by:
 
 $$
 \hat{Y}_{ext(i,t)}=X_{1(i)} \times X_{5(i,t)}
@@ -2136,15 +2043,15 @@ with the empirical travel pace of the network:
 
 1.  **Physical Extension Distance (**$X_1$ , derived via `osrm()`
     routing**):** The static street-level routing delta required to
-    reach PRW-FS from the existing urban perimeter.
+    reach Park Row West from the existing urban perimeter.
 
-2.  **Dynamic Travel Time Rate(**$X_5$ , derived from
-    `stop_times.txt`**):** Calculated as the time difference between
-    successive timepoints, this metric characterizes the commercial
-    speeds across different roadway corridors. By applying this
-    scheduled travel rate to the extension distance, the model
-    highlights existing congestion bottlenecks without double-counting
-    historical downtown hub gridlock.
+2.  **Route Travel Pace (**$X_5$, derived from `stop_times.txt`**):**
+    Calculated from the scheduled minutes between official timetable
+    stops, this metric measures each corridor's **planned schedule
+    pace** (*in minutes per mile*). Using this fixed timetable
+    rate—rather than live GPS speeds—isolates the pure distance penalty
+    of the extension without double-counting the historical downtown
+    traffic.
 
 ### Hypothesis Testing
 
@@ -2166,6 +2073,10 @@ when:
   friction is non-uniform, with specific operational factors and
   approach corridors driving statistically significant schedule delays.
 
+In practical terms, rejecting $H_0$ confirms that downtown delays are
+not random bad luck—specific entry corridors and rush-hour schedules
+systematically bog buses down.
+
 ### Model Performance Metrics
 
 To compare the predictive performance and error margins of our various
@@ -2176,9 +2087,9 @@ models, we utilize the following standard regression metrics:
   explained by the model's independent variables.
 
 - **Mean Absolute Error (MAE):** The average absolute gap between the
-  model's predictions and the actual historical trip delays. It is an
-  intuitive loss function measured in the same temporal units
-  (*minutes*) as the outcome:
+  model's predictions and the actual historical trip delays. Measured in
+  minutes, MAE tells schedulers how far off the model's prediction is on
+  a **typical** trip:
 
 $$\text{MAE}=\frac{1}{N} \sum_{i} |\hat{y}_{i}-y_{i}|$$
 
@@ -2212,8 +2123,8 @@ terminate at or pass through Kennedy Plaza.
 The CAD/AVL database contains thousands of raw event records tracking
 the scheduled and actual movements of every bus. From these raw records,
 we extracted: (1) unique operational trip identifiers
-(`op_trip_id = paste(TripIdExternal, run_date, sep = "_"`); (2) schedule
-deviation in seconds
+(`op_trip_id = paste(TripIdExternal, run_date, sep = "_")`); (2)
+schedule deviation in seconds
 (`arrival_delay_s = difftime(IncidentDateTime, ScheduleTime)`); (3)
 high-precision stop GPS coordinates (`BusStopLatitude`,
 `BusStopLongitude`); and (4) timepoint classifications
@@ -2226,20 +2137,22 @@ each trip's **decision timepoint** $(P_i)$—the final scheduled timepoint
 served prior to encountering Kennedy Plaza berths
 (`TimepointShortName == "kepl"` or stops `16400`, `16435`, `16475`,
 `16485`). By freezing schedule deviation at $P_i$, the model captures
-incoming corridor delay before vehicles enter Downcity terminal queuing.
-This isolated schedule deviation serves as the empirical dependent
-variable $Y_{i,t}$ for the Phase 1 statistical impact model.
+incoming corridor delay before vehicles enter Downcity terminal
+queuing—ensuring we don't unfairly blame Park Row West for bus backups
+that currently happen inside Kennedy Plaza itself! This isolated
+schedule deviation serves as the empirical dependent variable $Y_{i,t}$
+for the Phase 1 statistical impact model.
 
 For the Phase 2 deterministic extension simulation, the `osrm` package's
 `osrmRoute()` function is utilized to calculate two distinct spatial
 trajectories from the decision timepoint $P_i$: the existing baseline
-distance to Kennedy Plaza, and the proposed distance to the PRW-FS
-terminal centroid (`coord_prw_fs = c(-71.4136, 41.8296)`). The
+distance to Kennedy Plaza, and the proposed distance to the Park Row
+West terminal centroid (`coord_prw_fs = c(-71.4136, 41.8296)`). The
 **extension distance** $X_{1(i)}$ for each route is mathematically
 derived by subtracting the baseline network distance from the relocated
 terminal distance:
 
-$$X_{1(i)}=d(P_i,\text{PRW-FS})-d(P_i,\text{KP})$$
+$$X_{1(i)}=d(P_i,\text{Park Row West})-d(P_i,\text{KP})$$
 
 These physical routing distances were merged with the empirical delay
 variable, trip-level peak indicators, dynamic corridor frequencies, and
@@ -2250,14 +2163,12 @@ travel time rates to assemble the dual-framework analytical matrix
 
 The final analysis matrix represents **30 distinct route-approach
 corridors** derived from **353,095 unique inbound bus trips** spanning a
-full operational year (October 1 2025 – September 30 2026):
+full operational year (*October 1, 2025 – September 30, 2026*):
 
 - **Data Ingestion &** $1:1$ **Trip Reduction:** RIPTA's 1-year CAD/AVL
-  log was processed through a priority-deduplication pipeline. By
-  grouping records by `op_trip_id` and isolating the terminal decision
-  timepoint $P_i$ , the pipeline eliminated intermediate stop
-  redundancies, reducing the dataset down to **353,095 clean inbound
-  trip runs**, establishing a true $1:1$ trip-level unit of analysis.
+  log was processed through a deduplication filter, ensuring each of the
+  **353,095 inbound bus runs** is counted exactly once at its downtown
+  gateway stop $(P_i)$.
 
 - **Baseline Empirical Delay** $(Y)$**:** Measured at the upstream
   decision stop $P_i$ prior to applying any spatial relocation
@@ -2266,11 +2177,12 @@ full operational year (October 1 2025 – September 30 2026):
   **+2.86 minutes** (*median: +1.97 minutes; interquartile range: -0.07
   to +4.63 minutes*). This observed distribution captures real-world
   operating conditions, including weather events and major traffic
-  disruptions (*maximum recorded delay: \~860 minutes*). When grouped by
-  approach vector, existing schedule friction is most severe along the
-  South (**+3.60 minutes**) and North (**+2.95 minutes**) corridors,
-  exceeding the lower baseline delays observed on the West (**+2.80
-  minutes**) and East (**+2.47 minutes**) routes.
+  disruptions (*maximum recorded delay: \~860 minutes, reflecting major
+  snowstorms or severe gridlock events*). When grouped by approach
+  vector, existing schedule friction is most severe along the South
+  (**+3.60 minutes**) and North (**+2.95 minutes**) corridors, exceeding
+  the lower baseline delays observed on the West (**+2.80 minutes**) and
+  East (**+2.47 minutes**) routes.
 
 - **Peak Hour Traffic Factor** $(X_2)$**:** A binary temporal control
   indicating trips operating within peak windows (*07:00-09:00 or
@@ -2438,19 +2350,19 @@ By merging these deterministic physical penalties with our historical
 empirical delay models, we can systematically evaluate compounding
 downstream vulnerabilities in the following areas:
 
-- **Outlier Vulnerability:** We will evaluate the operational fragility
-  of approach corridors by combining these spatial penalties with
-  empirical historical variance, investigating whether total travel
-  times compound exponentially during peak congestion windows or severe
-  weather conditions.
+- **Outlier Vulnerability:** We evaluate the operational fragility of
+  approach corridors by combining these spatial penalties with empirical
+  historical variance, investigating whether total travel times compound
+  exponentially during peak congestion windows or severe weather
+  conditions.
 
-- **Demographic Impact:** We will intersect these combined delay models
-  with regional block group data to determine if the heaviest structural
+- **Demographic Impact:** We intersect these combined delay models with
+  regional block group data to determine if the heaviest structural
   route penalties disproportionately burden transit-dependent,
   low-income, and minority communities traversing these specific
   corridors.
 
-- **Systemic Cascading:** We will utilize the maximum empirical delays
+- **Systemic Cascading:** We utilize the maximum empirical delays
   observed in the network as a failure threshold, modeling how inbound
   scheduling degradation—compounded by physical hub extension—increases
   the probability of missed passenger transfers across the broader
@@ -2466,9 +2378,9 @@ round-trip cycle times, RIPTA must absorb additional vehicle service
 hours and deploy extra vehicles to maintain existing schedule headways.
 
 To quantify the financial and operational consequences of relocating
-central transit operations from KP to PRW-FS, three standard Federal
-Transit Administration (FTA) metrics are derived across all 30 evaluated
-routes:
+central transit operations from KP to Park Row West, three standard
+Federal Transit Administration (FTA) metrics are derived across all 30
+evaluated routes:
 
 1.  **Annual Additional [Vehicle Revenue Hours](#def-vrh)**
     $(\Delta \text{VRH})$**:** Assuming the spatial delay is incurred
@@ -2482,12 +2394,12 @@ $$\Delta \text{VRH}=\sum_{i=1}^{30} \left( \frac{2 \times \hat{Y}_{ext(i)} \time
 
 2.  **Annual Marginal Operating Cost** $(\Delta \text{OpsCost})$**:**
     Additional annual vehicle service hours are multiplied by RIPTA's
-    system-wide unit operating cost per revenue hour (
-    $C_{\text{hr}} =\$168.77 /\text{hour}$*, benchmarked from National
+    system-wide unit operating cost per revenue hour
+    ($C_{\text{hr}} =\$168.77 /\text{hour}$*, benchmarked from National
     Transit Database (NTD) reporting standards for Fixed-Route Bus
-    operations in mid-sized urbanized areas*)[^22]:
+    operations in mid-sized urbanized areas*)[^19]:
 
-[^22]: Federal Transit Administration. (2025). *2025 National Transit
+[^19]: Federal Transit Administration. (2025). *2025 National Transit
     Summaries and Trends*. U.S. Department of Transportation.
 
 $$\Delta \text{OpsCost} = \Delta \text{VRH} \times C_\text{hr}$$
@@ -2495,9 +2407,10 @@ $$\Delta \text{OpsCost} = \Delta \text{VRH} \times C_\text{hr}$$
 3.  **Vehicles Operating in Maximum Service [(VOMS)](#def-voms):**
     Measures the additional physical buses required during peak
     operation hours to absorb cycle time expansion without degrading
-    service frequency ($h_i$, peak scheduled headway in minutes).
-    Because fractional vehicles cannot be deployed, a ceiling function
-    is applied at the fleet level to round up to the nearest whole bus :
+    service frequency ($h_i$*, peak scheduled headway in minutes*).
+    Because fractional vehicles cannot be deployed, a mathematical
+    ceiling function $(\left\lceil \dots \right\rceil)$ rounds the fleet
+    requirement up to the nearest whole bus:
 
 $$\Delta \text{VOMS} = \left\lceil \sum_{i=1}^{30}  \frac{2 \times \hat{Y}_{ext(i)}}{h_i} \right\rceil$$
 
@@ -2505,24 +2418,24 @@ $$\Delta \text{VOMS} = \left\lceil \sum_{i=1}^{30}  \frac{2 \times \hat{Y}_{ext(
 
 ### Experimental Scenario & Public Equity Framework
 
-We will now shift focus from the Operational Delay model, which
-quantifies the temporal and financial burdens placed upon RIPTA's
-physical fleet, to a model that comprehensively evaluates the pedestrian
-impacts and demographic equity of the hub relocation. This requires the
-analytical framework to shift from *vehicle-centric* efficiency to
-*pedestrian* spatial equity.
+We now shift focus from the Operational Delay model, which quantifies
+the temporal and financial burdens placed upon RIPTA's physical fleet,
+to a model that comprehensively evaluates the pedestrian impacts and
+demographic equity of the hub relocation. This requires the analytical
+framework to shift from *vehicle-centric* efficiency to *pedestrian*
+spatial equity.
 
 The following experiment evaluates the "pedestrian displacement
 penalty"—the physical and temporal barrier introduced when a centralized
 transit hub is decommissioned and pushed to the periphery of a downtown
 grid. In this simulated bi-directional scenario, Kennedy Plaza is
-rendered defunct, and Park Row West / Providence Station (*PRW-FS*)
-serves as the sole origin point for regional transit. We hypothesize
-that by shifting the hub away from the dense downtown commercial and
-civic core (*Downcity*), passengers attempting to enter or leave the
-city will face a severe "first-mile/last-mile" degradation in service.
-Crucially, we investigate whether this access penalty disproportionately
-harms Transit-Dependent and Mobility-Challenged populations who lack
+rendered defunct, and Park Row West / Providence Station serves as the
+sole origin point for regional transit. We hypothesize that by shifting
+the hub away from the dense downtown commercial and civic core
+(*Downcity*), passengers attempting to enter or leave the city will face
+a severe "first-mile/last-mile" degradation in service. Crucially, we
+investigate whether this access penalty disproportionately harms
+Transit-Dependent and Mobility-Challenged populations who lack
 alternative transportation modes.
 
 To isolate this pedestrian impact, the 1-year historical CAD/AVL log is
@@ -2530,33 +2443,34 @@ repurposed to simulate pedestrian logistics. We evaluate both ingress
 (*inbound*) and egress (*outbound*) trips that historically service
 Kennedy Plaza, projecting the downstream time penalties incurred by
 forcing these established passenger volumes to independently navigate
-the spatial gap between the new PRW-FS hub and the traditional Downcity
-core.
+the spatial gap between the new Park Row West hub and the traditional
+Downcity core.
 
 ### Experimental Conditions & Stochastic Assumptions
 
-Following formal data inquiries, RIPTA confirmed that the agency does
-not maintain terminal-level Automated Passenger Counts (APC) or
-historical origin-destination transfer tracking. Because exact
-pedestrian transfer volumes cannot be empirically observed, this
-pedestrian logistical disruption model relies on a stochastic Monte
-Carlo simulation governed by the following spatial, demographic, and
-behavioral constraints:
+Following formal data inquiries, RIPTA confirmed it does not maintain
+terminal-level sensor counts (APC) or origin-destination transfer logs.
+Because exact pedestrian counts cannot be observed directly, we built a
+stochastic Monte Carlo simulation—running 1,000 randomized trials per
+bus trip across realistic ranges of crowd sizes, walking speeds, and
+shuttle wait times—governed by the following spatial, demographic, and
+behavioral rules:
 
 - **Standardized Spatial Anchors:** To ensure a controlled comparison of
   pedestrian delay, the spatial geometry is standardized. Outbound
   displaced riders originate from the defunct Kennedy Plaza locale
-  (*Coordinates: 41.8250, -71.4110*) and navigate to PRW-FS
+  (*Coordinates: 41.8250, -71.4110*) and navigate to Park Row West
   (*Coordinates: 41.8296, -71.4136*). Inbound displaced riders alight at
-  PRW-FS and navigate Downcity to Kennedy Plaza. As illustrated in
-  @fig-pedestrian-isochrone, all pedestrians follow the same primary
+  Park Row West and navigate Downcity to Kennedy Plaza. As illustrated
+  in @fig-pedestrian-isochrone, all pedestrians follow the same primary
   isochrone path, which standardizes the topographic elevation
-  constraint (*a strenuous climb from 1.05 m to 9.56 m*) used to
-  calculate baseline delay.
+  constraint (*1.05 m to 9.56 m, or \~28 ft of net climb along the
+  standardized hub-to-hub path, yielding +1.85% average net grade*) used
+  to calculate baseline delay.
 
 ![Standardized 1,820-Foot Pedestrian Isochrone Path and Topographic
-Elevation Profile from Kennedy Plaza to Park Row West
-(PRW-FS).](images/RIPTA-ped-path.png){#fig-pedestrian-isochrone}
+Elevation Profile from Kennedy Plaza to Park Row
+West.](images/RIPTA-ped-path.png){#fig-pedestrian-isochrone}
 
 - **Tobler's Downhill Normalization:** To accurately model this
   bi-directional flow, Tobler's Hiking Function was used to normalize
@@ -2576,18 +2490,16 @@ Elevation Profile from Kennedy Plaza to Park Row West
   Survey demographic profile.
 
 - **The Displaced Rider Rate** $(D)$**:** Not all passengers originate
-  or terminate in the immediate Downcity core. The volume of riders
-  specifically disrupted by the hub relocation is defined by a random
-  variable representing the final destination rider rate. This rate is
-  strictly defined as the complement of the hub transfer rate
-  $(D=1-\tilde{\tau})$. The sample median $(\tilde{\tau})$ is utilized
-  rather than the mean because route-level transit volumes are highly
-  right-skewed by extreme disparities in ridership across different
-  routes and throughout the day. Utilizing the robust median prevents
-  high-volume outlier corridors and peak-hour surges from artificially
-  distorting the expected baseline access penalty. This results in
-  simulated **displacement bounds of 49.0% to 64.1%** for any given
-  trip.
+  or terminate in the immediate Downcity core. The share of riders
+  specifically disrupted by the hub relocation is modeled as a random
+  variable representing the final-destination rider rate—defined as the
+  complement of the hub transfer rate $(D=1-\tilde{\tau})$. Because
+  passenger volumes across routes and times of day are heavily
+  right-skewed by rush-hour corridors, we anchor $\tilde{\tau}$ as a
+  sample median $(\tilde{\tau} \in [0.359, 0.510])$ rather than skewed
+  route-volume means. Preventing high-volume outliers from distorting
+  the baseline yields simulated displacement bounds of **49.0% to
+  64.1%** on any given trip.
 
 - **Modal Split Decision Tree:** Once a passenger is designated as part
   of the displaced rider cohort, they must choose how to navigate the
@@ -2615,26 +2527,27 @@ Because the direction of travel dictates logistics, the simulation
 calculates this penalty using two distinct temporal frameworks:
 
 - **Outbound (Deadline-Driven):** For outbound riders, the scheduled
-  departure time from PRW-FS acts as a strict deadline. The penalty
-  represents how much *earlier* a passenger must arrive at the Kennedy
-  Plaza shuttle stop to successfully navigate the spatial gap and catch
-  their bus on time.
+  departure time from Park Row West acts as a strict deadline. The
+  penalty represents how much *earlier* a passenger must arrive at the
+  Kennedy Plaza shuttle stop to successfully navigate the spatial gap
+  and catch their bus on time.
 
   - For **walkers**, the penalty is simply the physical travel time
     required to walk the uphill isochrone path (*e.g., leaving KP 7.5
-    minutes before the scheduled PRW-FS departure to complete the uphill
-    walk*).
+    minutes before the scheduled Park Row West departure to complete the
+    uphill walk*).
 
   - For **R-Line shuttle takers**, the simulation calculates this
     penalty by querying the historical CAD/AVL log for the *latest*
     possible scheduled R-Line North departure from KP that successfully
-    arrives at PRW-FS prior to the outbound bus's departure. The penalty
-    is the total time elapsed between this required KP shuttle departure
-    and the outbound bus's PRW-FS departure.
+    arrives at Park Row West prior to the outbound bus's departure. The
+    penalty is the total time elapsed between this required KP shuttle
+    departure and the outbound bus's Park Row West departure.
 
 - **Inbound (Delay-Driven):** For inbound riders, the penalty clock
-  begins the moment their bus actually arrives at PRW-FS, representing
-  how much *later* they reach their final Downcity destination at KP.
+  begins the moment their bus actually arrives at Park Row West,
+  representing how much *later* they reach their final Downcity
+  destination at KP.
 
   - For **walkers**, the penalty is the physical travel time required to
     walk the downhill isochrone path (6.62 minutes for able-bodied
@@ -2642,29 +2555,30 @@ calculates this penalty using two distinct temporal frameworks:
 
   - For **R-Line shuttle takers**, the simulation calculates this
     penalty by querying the historical CAD/AVL log for the *next
-    available* R-Line South departure from PRW-FS. The penalty is the
-    total time elapsed between their initial bus arrival at PRW-FS and
-    the shuttle's actual arrival at KP.
+    available* R-Line South departure from Park Row West. The penalty is
+    the total time elapsed between their initial bus arrival at Park Row
+    West and the shuttle's actual arrival at KP.
 
 ### Experimental Scope & Equity Filtering
 
 To ensure the displaced rider simulation accurately reflects real-world
 network logistics, the experimental scope is strictly bounded to the
-empirical bi-directional traffic flowing through the proposed transit
-center footprint. The 1-year historical CAD/AVL log was filtered to
-isolate all unique trip observations that explicitly service Providence
-Station (`psta`)—the geographic proxy for the PRW-FS terminal.
+bi-directional traffic flowing through the proposed transit center
+footprint. We started by filtering the 1-year historical CAD/AVL log for
+all unique trip observations serving Providence Station (`psta`)—the
+closest geographic proxy for the Park Row West terminal. However,
+filtering for `psta` alone misses high-frequency routes that
+historically terminated short of the rail station at Kennedy Plaza
+(`kepl`).
 
-To resolve this historical routing truncation, a spatial and temporal
-union was executed across the high-frequency network core. For truncated
-legacy routes that historically serviced Kennedy Plaza but not
-Providence Station, the `kepl` arrival/departure timestamp serves as a
-temporal surrogate, and the vehicle's geographic coordinates were
-artificially overwritten with the proposed PRW-FS coordinates. Trips
-containing a historical `psta` stop were isolated directly. This
-methodology establishes a comprehensive baseline of displaced rider
-flow, with all ingress and egress standardized to the proposed PRW-FS
-hub coordinates.
+To capture both sets of routes in a single unified dataset, trips
+containing a historical `psta` stop were isolated directly, while legacy
+routes terminating at Kennedy Plaza used their historical `kepl` arrival
+and departure timestamps as a schedule proxy, with vehicle coordinates
+reassigned to the proposed Park Row West location. This establishes a
+complete baseline of displaced rider traffic, with all inbound and
+outbound trips standardized to the proposed Park Row West hub
+coordinates.
 
 To accurately classify the equity implications of these disrupted
 bi-directional corridors, the experiment imports the spatial layer
@@ -2784,7 +2698,7 @@ ggplot() +
   ) +
   labs(
     title = "Providence Transit Equity & Network Access",
-    subtitle = "Bi-Directional Passenger Corridors converging on the PRW-FS footprint"
+    subtitle = "Bi-Directional Passenger Corridors converging on the Park Row West footprint"
   )
 ```
 
@@ -2818,7 +2732,7 @@ to board or alight each affected bus:
 2.  **Expected Hub Boardings** $(\lambda)$**:** In radial transit
     networks, the central business district (CBD) hub functions as the
     network's maximum load segment—the location carrying the highest
-    concentration of passengers[^23]. While total daily boardings across
+    concentration of passengers[^20]. While total daily boardings across
     the entire length of a route are considerably greater than the
     volume at this single segment due to continuous passenger turnover,
     the exact proportion of riders boarding at the hub is unknown
@@ -2833,23 +2747,24 @@ to board or alight each affected bus:
     represents the proportion of daily traffic occurring during that
     specific hour. This generates $\lambda$, which represents the
     **total expected number of passengers physically exiting or entering
-    the bus at the PRW-FS hub**.
+    the bus at the Park Row West hub**.
 
 3.  **Transfer vs. Displaced Rider Apportionment:** Not everyone
     utilizing the hub is navigating to or from Downcity; some
     transferred from other buses or arrived by train. The simulation
     draws from the Displaced Rider Rate $(D_r \sim U(0.490, 0.641))$ and
     executes a Binomial experiment to split the total boardings
-    $(\lambda)$ into Transfer Riders and Displaced Riders.
+    $(n \sim \text{Poisson}(\lambda))$ into Transfer Riders and
+    Displaced Riders.
 
 4.  **Pedestrian vs. Shuttle Modal Split:** Finally, the isolated cohort
     of Displaced Riders must navigate the 1,820-foot (0.34-mile) spatial
-    gap between PRW-FS and KP. The simulation applies a stochastic
-    probabilistic split based on the route's equity tier, grounded in
-    pedestrian access thresholds from the *Transit Capacity and Quality
-    of Service Manual (TCQSM)*[^24]. Because the extension exceeds the
-    standard 0.25-mile acceptable walking distance for 75% to 80% of
-    transit users, able-bodied cohorts (*Transit-Dependent and
+    gap between Park Row West and KP. The simulation applies a
+    stochastic probabilistic split based on the route's equity tier,
+    grounded in pedestrian access thresholds from the *Transit Capacity
+    and Quality of Service Manual (TCQSM)*[^21]. Because the extension
+    exceeds the standard 0.25-mile acceptable walking distance for 75%
+    to 80% of transit users, able-bodied cohorts (*Transit-Dependent and
     Non-Vulnerable*) are assigned a walking probability drawn from a
     uniform distribution $(Able\text{\_}Walk \sim U(0.20, 0.30))$,
     routing the vast majority into the R-Line shuttle queue. For
@@ -2861,11 +2776,11 @@ to board or alight each affected bus:
     these probability bounds are multiplied by 1.138 for inbound
     downhill trips to reflect Tobler's structural speed advantage.
 
-[^23]: Transportation Research Board, *Transit Capacity and Quality of
+[^20]: Transportation Research Board, *Transit Capacity and Quality of
     Service Manual, 2nd Edition*, TCRP Report 100 (Washington, DC:
     Transportation Research Board, 2003), 1-16.
 
-[^24]: Transportation Research Board, *Transit Capacity and Quality of
+[^21]: Transportation Research Board, *Transit Capacity and Quality of
     Service Manual, 3rd Edition*, TCRP Report 165 (Washington, DC:
     Transportation Research Board, 2013), 4-18.
 
@@ -2903,7 +2818,7 @@ run_matrix <- tibble(
     "Tobler's Inbound Multiplier",
     "Time-of-Day Multiplier (\\(W_t\\))",
     "Expected Hub Volume (\\(\\lambda\\))",
-    "Total Trip Displacements (\\(n\\))",
+    "Simulated Hub Boardings (\\(n\\))",
     "Hub Apportionment Ratio (\\(H\\))",
     "Displaced Rider Rate (\\(D\\))",
     "Displaced Riders",
@@ -2930,7 +2845,7 @@ run_matrix <- tibble(
     "\\(n \\sim \\text{Poisson}(\\lambda)\\)",
     "\\(H \\sim U(0.30, 0.50)\\)",
     "\\(D \\sim U(0.490, 0.641)\\)",
-    "\\(\\text{Displaced} \\sim \\text{Binomial}(n, W)\\)",
+    "\\(\\text{Displaced} \\sim \\text{Binomial}(n, D)\\)",
     paste0("\\(U(0.01, 0.10)\\) ", ital("scaled by 1.138 if inbound")),
     paste0("\\(U(0.20, 0.30)\\) ", ital("scaled by 1.138 if inbound"))
   )
@@ -3007,10 +2922,11 @@ inbound observations*), we strip out the deterministic spatial
 components to purely evaluate real-world operational friction.
 Predicting the exact delay of a single bus trip over a full year is
 inherently noisy due to random daily traffic events, which results in a
-low overall $R^2$. However, the model successfully isolates the
-underlying infrastructure and temporal bottlenecks that consistently
-slow down the network, as evidenced by the extremely low $p$-values
-$(p<0.001)$ across most primary predictors.
+low overall $R^2$. Because our goal here is diagnosing systemic
+bottlenecks rather than predicting individual daily arrivals,
+**statistical significance—not** $R^2$**—is the decisive metric**, and
+the extremely low $p$-values $(p<0.001)$ confirm that these delays are
+structural features of the network rather than random chance.
 
 ```{r}
 #| label: tbl-regr-summ
@@ -3121,19 +3037,20 @@ overall goodness of fit $(R^2=0.0014)$ and is selected as the primary
 analytical framework because it isolates cardinal-specific approach
 geometry alongside temporal factors. In this full specification,
 system-wide peak-hour traffic conditions independently compound delays
-by an additional **+0.6426 minutes** $(p<0.001)$. However, the existing
-Downcity grid proves equally disruptive: Southern approach routes face a
-severe, statistically significant **+0.6209-minute** penalty relative to
-the Northern reference approach $(p<0.001)$. Conversely, because delay
-is measured at the Downcity perimeter, the Eastern and Western
-approaches arrive **faster** than the Northern baseline, experiencing
-marginal time savings of **-0.4750 minutes** $(p<0.001)$ and **-0.1194
-minutes** $(p=0.0476)$, respectively. Notably, once the approach
-geometry is accounted for in **Model 3**, trip frequency loses its
-statistical significance $(p=0.2642)$. This indicates that approach
-corridor geometry—particularly along the Southern corridor—is the
-dominant driver of existing network fragility, establishing the baseline
-upon which the spatial extension to PRW-FS will be applied.
+by an additional **+0.6426 minutes (\~39 seconds)** $(p<0.001)$.
+However, the existing Downcity grid proves equally disruptive: Southern
+approach routes face a severe, statistically significant
+**+0.6209-minute (\~37-second)** penalty relative to the Northern
+reference approach $(p<0.001)$. Conversely, because delay is measured at
+the Downcity perimeter, the Eastern and Western approaches arrive
+**faster** than the Northern baseline, experiencing marginal time
+savings of **-0.4750 minutes** $(p<0.001)$ and **-0.1194 minutes**
+$(p=0.0476)$, respectively. Notably, once the approach geometry is
+accounted for in **Model 3**, trip frequency loses its statistical
+significance $(p=0.2642)$. This indicates that approach corridor
+geometry—particularly along the Southern corridor—is the dominant driver
+of existing network fragility, establishing the baseline upon which the
+spatial extension to Park Row West will be applied.
 
 To formally confirm whether the incremental variance $(\Delta R^2)$
 explained by these added variables is statistically significant beyond
@@ -3201,18 +3118,19 @@ The sequential ANOVA partial *F*-tests confirm that each added block of
 operational variables significantly improves model fit beyond the
 baseline time-of-day regime $(p<0.001)$. Incorporating scheduled trip
 frequency in **Model 2** accounts for 3,892.3 units of previously
-unexplained residual sum of squares $(F=26.42, p<0.001)$, demonstrating
-that localized bus overlap and berth congestion compound delays
-independently of the time-of-day. Furthermore, incorporating cardinal
-approach vectors in **Model 3** captures an additional 34,335.9 units of
-variance $(F=77.69, p<0.001)$. Because approach direction captures
-nearly **9 times** more variance than trip frequency, this confirms that
-Providence's street geometry—navigating rivers, tunnels, and asymmetric
-one-way grids—is the single greatest driver of existing network
-fragility, far outweighing scheduled bus density. These results confirm
-that the 3-predictor specification in **Model 3** is structurally
-necessary to isolate the true historical drivers of transit delay before
-applying the spatial extension penalty to PRW-FS.
+unexplained **delay variation** (*residual sum of squares;*
+$F=26.42, p<0.001$), demonstrating that localized bus overlap and berth
+congestion compound delays independently of the time-of-day.
+Furthermore, incorporating cardinal approach vectors in **Model 3**
+captures an additional 34,335.9 units of variance $(F=77.69, p<0.001)$.
+Because approach direction captures nearly **9 times** more variance
+than trip frequency, this confirms that Providence's street
+geometry—navigating rivers, tunnels, and asymmetric one-way grids—is the
+single greatest driver of existing network fragility, far outweighing
+scheduled bus density. These results confirm that the 3-predictor
+specification in **Model 3** is structurally necessary to isolate the
+true historical drivers of transit delay before applying the spatial
+extension penalty to Park Row West.
 
 @fig-pred-weights illustrates the data from @tbl-regr-summ, summarizing
 the relative variable importance and marginal delay estimates for the
@@ -3342,7 +3260,7 @@ relying solely on linear regression assumes that operational factors
 affect travel delay in a strictly additive manner. To test whether
 non-linear variable interactions exist and to evaluate how accurately
 our model predicts delays on unseen bus trips, we apply machine learning
-algorithms using the `caret` package[^25]. To keep training and testing
+algorithms using the `caret` package[^22]. To keep training and testing
 data strictly separate and see how the model handles unseen trips, the
 trip-level matrix is partitioned into an **80% training set** (*268,741
 trips*) and an **independent 20% test set** (*67,183 trips*). This split
@@ -3350,28 +3268,29 @@ is stratified by route and time-of-day status to ensure both sets
 maintain identical, representative portions of traffic conditions across
 all corridors.
 
-[^25]: Max Kuhn, "The caret Package," accessed October 12, 2026,
+[^22]: Max Kuhn, "The caret Package," accessed October 12, 2026,
     <https://topepo.github.io/caret/index.html>.
 
 Within the training partition, we evaluate three distinct
 algorithms—**Ordinary Least Squares (`lm`), Regularized Elastic Net
 (`glmnet`),** and a high-performance C++ **Random Forest (`ranger`)**
-regressor—using 5-fold cross-validation[^26]. Utilizing `method = "lm"`
+regressor—using 5-fold cross-validation[^23]. Utilizing `method = "lm"`
 allows us to test standard linear regression on unseen data under
 identical cross-validation rules, confirming that our simple linear
-model generalizes well without overfitting. Using `method = "glmnet"`
+model generalizes well without overfitting (*memorizing random quirks in
+the past data rather than true patterns*). Using `method = "glmnet"`
 applies regularization to modify the fitting procedure, introducing
 penalty terms to large parameter estimates to safeguard against
 overfitting and multicollinearity. Finally, `method = "ranger"` acts as
-a non-parametric benchmark that combines hundreds of decision trees to
-capture fine-grained threshold effects and complex traffic interactions,
-setting a performance prediction ceiling. The machine learning
-evaluation script is available in
-`scripts/test_04_fit_caret_operational_delay.R`. For the regularized
-Elastic Net model, predictors were centered and scaled and evaluated
-across a 10-point hyper-parameter tuning grid.
+a non-parametric benchmark (*making no assumptions about linearity*)
+that combines hundreds of decision trees to capture fine-grained
+threshold effects and complex traffic interactions, setting a
+performance prediction ceiling. The machine learning evaluation script
+is available in `scripts/test_04_fit_caret_operational_delay.R`. For the
+regularized Elastic Net model, predictors were centered and scaled and
+evaluated across a 10-point hyper-parameter tuning grid.
 
-[^26]: Rafael A. Irizarry, "Cross-validation," in *Introduction to Data
+[^23]: Rafael A. Irizarry, "Cross-validation," in *Introduction to Data
     Science*, accessed October 12, 2026,
     <https://rafalab.dfci.harvard.edu/dsbook-part-2/ml/resampling-methods.html#cross-validation>.
 
@@ -3449,7 +3368,8 @@ deliberately penalize the model for extreme disruption outliers, pulling
 the overall metric much higher. Elastic Net regularization yields
 performance virtually identical to OLS (*Test* *RMSE = 11.5693*),
 confirming that regularization provides no additional benefit and that
-core empirical predictors do not suffer from multicollinearity.
+core empirical predictors do not suffer from multicollinearity
+(*overlapping predictors interfering with one another*).
 
 Crucially, applying the Random Forest algorithm yields only marginal
 predictive improvements (*Test RMSE = 11.5532, Test* $R^2$ *= 0.0047*).
@@ -3583,11 +3503,11 @@ deterministic penalty (*red arrows*) over the existing spread of daily
 traffic delays (*boxplots*), it becomes evident that the hub relocation
 does not simply add a fraction of a minute to the route—it fundamentally
 shifts the baseline delay in opposite directions depending on the
-corridor. For routes with truncated inbound path (*indicated by
+corridor. For routes with truncated inbound paths (*indicated by
 left-pointing arrows, such as Route 56*), the relocation offers slight
 structural relief. However, for the vast majority of the network, an
-inflexible geometric penalty (right-pointing arrows) is stacked onto
-highly sensitive, frequency constrained routes that already suffer from
+inflexible geometric penalty (*right-pointing arrows*) is stacked onto
+highly sensitive, frequency-constrained routes that already suffer from
 extreme traffic variance. Pushing the median commute further to the
 right on these vulnerable corridors drives the baseline average further
 towards the point of cascading network failure.
@@ -3676,17 +3596,17 @@ Park Row West-Francis Street (`scripts/test_05_generate_op_costs.R`).
 Applying the projected temporal delay penalties $(\hat{Y}_{ext(i)})$ to
 RIPTA's observed daily inbound trip volumes across the full $N=335,924$
 observation window yields significant systemic cost expansions. As
-detailed in @tbl-impact-costs, relocating the transit hub to PRW-FS
-generates a **net annual increase of 2,336 Vehicle Revenue Hours (VRH)**
-across the network, equating to roughly **6.4 hours** of added driving
-time per day.
+detailed in @tbl-impact-costs, relocating the transit hub to Park Row
+West generates a **net annual increase of 2,336 Vehicle Revenue Hours
+(VRH)** across the network, equating to roughly **6.4 hours** of added
+driving time per day.
 
 ```{r}
 #| label: tbl-impact-costs
 #| message: false
 #| echo: false
 #| warning: false
-#| tbl-cap: "Systemwide Operational, Financial, and Fleet Impacts of Relocating the Transit Hub to PRW-FS."
+#| tbl-cap: "Systemwide Operational, Financial, and Fleet Impacts of Relocating the Transit Hub to Park Row West."
 
 # ==========================================================================
 # RIPTA Hub Relocation: Empirical Operating Cost & Fleet Assessment
@@ -3718,7 +3638,7 @@ total_voms_added     <- ceiling(sum(df_cost$delta_VOMS, na.rm = TRUE))
 system_summary_df <- tibble(
   Metric = c(
     "Evaluated Daily Inbound Runs (N)",
-    "Mean One-Way Trip Delay",
+    "Net Systemwide Mean One-Way Trip Delay (including Northern shortcuts)",
     "Mean Physical Extension Distance",
     "Daily Added Vehicle Revenue Hours (VRH)",
     "Annual Added Vehicle Revenue Hours (VRH)",
@@ -3788,7 +3708,7 @@ Eastern, Southern, and Western routes—led by Route 92 (East), Route 20
 
 ```{r}
 #| label: fig-operational-costs
-#| fig-cap: "Projected Annual Marginal Operating Cost Impacts by Route and Approach Corridor (PRW-FS Relocation)."
+#| fig-cap: "Projected Annual Marginal Operating Cost Impacts by Route and Approach Corridor (Park Row West Relocation)."
 #| fig-width: 9
 #| fig-height: 7
 #| echo: false
@@ -3844,11 +3764,11 @@ ggplot(plot_cost_df, aes(x = delta_OpsCost, y = route_label, fill = approach_dir
 ## Equity & Rider Accessibility Impacts
 
 While the preceding section quantified the agency-side financial and
-fleet burdens of relocating the hub to PRW-FS, those operational metrics
-do not capture the human cost borne by passengers. To evaluate how the
-1,820-foot spatial gap affects daily commuters and transit-dependent
-communities, we simulate passenger-level mobility and equity outcomes
-(`scripts/test_06_equity_pedestrian_impact_sim.R`).
+fleet burdens of relocating the hub to Park Row West, those operational
+metrics do not capture the human cost borne by passengers. To evaluate
+how the 1,820-foot spatial gap affects daily commuters and
+transit-dependent communities, we simulate passenger-level mobility and
+equity outcomes (`scripts/test_06_equity_pedestrian_impact_sim.R`).
 
 ### Simulated Rider Displacement
 
@@ -3858,8 +3778,8 @@ generated by the proposed relocation. By applying the stochastic hub
 apportionment ratio $(H \sim U(0.30,0.50))$ and the displaced rider rate
 $(D \sim U(0.490, 0.641))$ to the empirical trip baselines, the model
 isolates the cohort of passengers who must actively bridge the
-1,820-foot spatial gap between Kennedy Plaza and the proposed PRW-FS
-terminal.
+1,820-foot spatial gap between Kennedy Plaza and the proposed Park Row
+West terminal.
 
 ### Modal Split & Time-to-Board Degradation
 
@@ -3918,7 +3838,7 @@ tibble(
   Metric = c(
     "Network-Wide Sample Size (N Routes)",
     "Baseline KP Penalty ($\\mu_0$)",
-    "Simulated PRW-FS Mean Penalty",
+    "Simulated Park Row West Mean Penalty",
     "Mean Systemic Degradation",
     "t-statistic",
     "p-value",
@@ -4019,7 +3939,7 @@ b1_table <- tibble(
     sprintf("%+.2f mins", vuln_mean - nonvuln_mean),
     sprintf("%.4f", test_b1$statistic),
     ifelse(test_b1$p.value < 0.0001, "< 0.0001", sprintf("%.4f", test_b1$p.value)),
-    "Not Statistically Significant"
+    "Fail to Reject $H_0$ (Universal Penalty Across Cohorts)"
   ),
   `Non-Vulnerable Cohort` = c(
     as.character(b1_summary$N[b1_summary$Equity_Status == "Non-Vulnerable"]),
@@ -4115,8 +4035,8 @@ b2_display |>
     align = c("l", "c", "c", "c"),
     col.names = c(
       "Equity Status",
-      "Severe Burden ($Y_{ext} > 0$)",
-      "Truncated/Relief ($Y_{ext} \\le 0$)",
+      "Severe Burden ($\\hat{Y}_{ext} > 0$)",
+      "Truncated/Relief ($\\hat{Y}_{ext} \\le 0$)",
       "Total Routes"
     )
   ) |>
@@ -4140,8 +4060,8 @@ b2_display |>
 ```
 
 The test yielded $\chi^2$ = `r sprintf("%.4f", b2_test$statistic)`, $p$
-= `r sprintf("%.4f", b2_test$p.value)`. Because $p$-value exceeds the
-0.05 threshold, there is no statistically significant association
+= `r sprintf("%.4f", b2_test$p.value)`. Because the $p$-value exceeds
+the 0.05 threshold, there is no statistically significant association
 between a route's equity classification and its operational burden at
 the 95% confidence level. While vulnerable corridors account for 63% of
 all severely burdened route-directions (*19 of 30*), they also capture
@@ -4162,15 +4082,15 @@ fragility during peak periods, capturing how physical extension
 distance, approach corridor, and rush-hour congestion interact
 non-linearly to drive route-level temporal penalties $(\hat{Y}_{ext})$.
 Feeding those model-predicted delays into the network cost simulation
-shows that relocating the hub to PRW-FS compounds that strain—adding
-**2,336 annual VRH**, **\$394,279 in net annual operating costs**, and
-**2 to 3 additional peak buses** depending on scheduling flexibility.
-For riders, the relocation imposes a statistically significant
-+13.37-minute average transfer penalty across the network. Although
-demographic disparities in delay duration $(p=0.0838)$ and route burden
-($p$ = `r sprintf("%.4f", b2_test$p.value)`) do not cross the 0.05
-threshold for statistical significance, vulnerable routes still absorb
-the majority of extended corridors (*19 of 30*) and experience a
+shows that relocating the hub to Park Row West compounds that
+strain—adding **2,336 annual VRH**, **\$394,279 in net annual operating
+costs**, and **2 to 3 additional peak buses** depending on scheduling
+flexibility. For riders, the relocation imposes a statistically
+significant +13.37-minute average transfer penalty across the network.
+Although demographic disparities in delay duration $(p=0.0838)$ and
+route burden ($p$ = `r sprintf("%.4f", b2_test$p.value)`) do not cross
+the 0.05 threshold for statistical significance, vulnerable routes still
+absorb the majority of extended corridors (*19 of 30*) and experience a
 slightly higher mean penalty. Next, we synthesize these findings into
 policy implications, consider mitigation alternatives, and outline
 concrete recommendations for Providence's transit hub planning.
@@ -4186,11 +4106,10 @@ transit policy recommendations for RIPTA and the City of Providence.
 
 ### Formal Hypothesis Testing & Resolution of Key Question I
 
-To resolve **Key Question I** (*What are the primary drivers of schedule
-delay within the existing Providence transit network, and how will the
-physical relocation to Park Row West impact overall operational
-reliability?*), we evaluate the Full Specification OLS Linear Model
-(**Model 3**).
+To resolve **Key Question I** (*What causes bus delays in downtown
+Providence today, and how will extending routes to Park Row West affect
+on-time reliability and operating costs?*), we evaluate the Full
+Specification OLS Linear Model (**Model 3**).
 
 The formal statistical hypothesis test is defined as:
 
@@ -4213,8 +4132,8 @@ approach vector imposes the largest baseline geometric penalty (*+0.62
 minutes*), before any hub extension is simulated. Accordingly, we
 ***reject*** **the null hypothesis** $(H_0)$ **in favor of** $H_a$.
 
-**Conclusion for Key Question I:** Relocating the hub to PRW-FS stacks
-deterministic extension penalties onto corridors already operating near
+**Conclusion for Key Question I:** Relocating the hub to Park Row West
+adds fixed extension delays onto corridors already operating near
 capacity. While select Northern routes gain marginal relief from shorter
 paths, Eastern, Southern, and Western routes absorb compounding delays
 that directly expand vehicle revenue hours, fleet requirements, and
@@ -4229,8 +4148,8 @@ operational takeaways:
 1.  **Reliable Schedule Calibration:** OLS maintains consistent accuracy
     on the holdout set (*Test* $R^2$ *= 0.0020, RMSE = 11.57 min, MAE =
     3.68* *min*), providing schedulers with **predicted trip delays**
-    $(\hat{Y}_{i,t})$ as a transparent deterministic baseline for
-    timetable padding without over-allocating recovery time.
+    $(\hat{Y}_{i,t})$ as a transparent, data-driven baseline for
+    building realistic schedule buffers ('*timetable padding*').
 
 2.  **Frequency as the Network Tipping Point:** While OLS highlights
     peak $(X_2)$ timing and Southern $(X_4)$ geometry as top additive
@@ -4250,40 +4169,41 @@ operational takeaways:
 - **Redesign Southern & Eastern Approach Alignments:** Evaluate direct
   transit-only bypasses or split-terminal alignments for high-frequency
   Southern and Eastern lines (*e.g., Routes 1, 20, 22, 72, 92*) to
-  eliminate circuitous Downcity looping before reaching PRW-FS.
+  eliminate circuitous Downcity looping before reaching Park Row West.
 
 ## Operating Costs & Fleet Requirements: Conclusions & Recommendations
 
 ### Formal Conclusion of Financial Impacts
 
-Relocating the hub to PRW-FS imposes a **net annual operating cost
-increase of** \$394,279 (2,336 additional annual VRH) and requires 2
-additional peak buses (VOMS) on a net system-wide basis—rising to 3
-additional buses if shortened Northern routes cannot directly transition
-resources saved to the other routes. While RIPTA navigates an ongoing
-fiscal cliff, spending nearly \$400,000 annually and committing 2 to 3
-peak vehicles solely to absorb physical routing extensions yields zero
-improvement in service frequency or rider coverage.
+Relocating the hub to Park Row West imposes a **net annual operating
+cost increase of** \$394,279 (*2,336 additional annual VRH*) and
+requires 2 additional peak buses (*VOMS*) on a net system-wide
+basis—rising to 3 additional buses if shortened Northern routes cannot
+directly transition resources saved to the other routes. While RIPTA
+navigates an ongoing fiscal cliff, spending nearly \$400,000 annually
+and committing 2 to 3 peak vehicles solely to absorb physical routing
+extensions yields zero improvement in service frequency or rider
+coverage.
 
 ### Actionable Optimization Recommendations
 
 - **Adopt a Split-Hub or Cross-Town Strategy:** Terminating Northern
-  routes (*e.g., Routes 50, 55, 56, 57*) at PRW-FS generates genuine
-  time and cost savings, but forcing the rest of the network to follow
-  creates a steep financial deficit. Rather than a universal relocation,
-  RIPTA should terminate Northern lines at PRW-FS, while keeping
-  Eastern, Southern, and Western lines anchored at Kennedy Plaza or
-  paired into continuous cross-town routes (*e.g., Routes 1, 92*)
-  —capturing Northern efficiencies without penalizing the rest of the
-  system.
+  routes (*e.g., Routes 50, 55, 56, 57*) at Park Row West generates
+  genuine time and cost savings, but forcing the rest of the network to
+  follow creates a steep financial deficit. Rather than a universal
+  relocation, RIPTA should terminate Northern lines at Park Row West,
+  while keeping Eastern, Southern, and Western lines anchored at Kennedy
+  Plaza or paired into continuous cross-town routes (*e.g., Routes 1,
+  92*)—capturing Northern efficiencies without penalizing the rest of
+  the system.
 
 ## Equity & Rider Accessibility Impacts: Conclusions & Recommendations
 
 ### Formal Hypothesis Testing & Resolution of Key Question II
 
-To resolve **Key Question II** (*Does relocating the transit hub from KP
-to PRW-FS create a disparate impact that disproportionately degrades
-transit access for vulnerable, transit-dependent populations?),* we
+To resolve **Key Question II** (*Does moving the hub away from Kennedy
+Plaza create an inequitable burden ('disparate impact') that hits
+low-income, senior, and mobility-challenged riders hardest?),* we
 evaluate three formal hypotheses across 51 evaluated route-directions:
 
 - **Test A1 (System-Wide Rider Penalty - One-Sample** $t$**-test):**
@@ -4307,8 +4227,8 @@ riders.
 
 **Test B1:** Vulnerable corridors average **13.69 minutes** of delay
 versus **12.94 minutes** for non-vulnerable corridors (*+0.75 min;*
-$t=1.4055, p=0.0838$). Because $p>0.05$, we **fail to reject** $H_0$—
-the walk/shuttle barrier penalizes displaced riders broadly across
+$t=1.4055, p=0.0838$). Because $p>0.05$, we **fail to reject** $H_0$—the
+walk/shuttle barrier penalizes displaced riders broadly across
 demographics, though the gap approaches marginal significance
 $(\alpha=0.10)$.
 
@@ -4319,11 +4239,11 @@ reject** $H_0$. While vulnerable corridors account for **63.3%** of
 severely burdened routes (*19 of 30*), they also comprise nearly half of
 the truncated relief routes (*10 of 21, largely from the North*).
 
-**Conclusion for Key Question II:** The PRW-FS relocation does not
-produce a statistically significant demographic disparate impact at the
-95% confidence level because the layout creates a **geographic divide**
-rather than a purely demographic one. However, it inflicts a
-statistically undeniable **+13.37-minute penalty** across all displaced
+**Conclusion for Key Question II:** The Park Row West relocation does
+not produce a statistically significant demographic disparate impact at
+the 95% confidence level because the layout creates a **geographic
+divide** rather than a purely demographic one. However, it inflicts a
+statistically undeniable **+13.4-minute penalty** across all displaced
 riders. In practice, this uniform degradation still disproportionately
 harms transit-dependent, elderly, and mobility-challenged riders who
 cannot easily shift to private vehicles or walk the 1,820-foot uphill
@@ -4343,21 +4263,21 @@ on to meet its 2040 targets.
 ### Actionable Equity & Accessibility Recommendations
 
 - **Preserve Zero-Transfer Access for Vulnerable Corridors:** Maintain
-  direct Downcity boarding at Kennedy Plaza (via split-hub or cross-town
-  route design) for high-vulnerability Southern, Eastern, and Western
-  routes to eliminate the 1,820-foot uphill transfer for seniors and
-  mobility-challenged riders.
+  direct Downcity boarding at Kennedy Plaza (*via split-hub or
+  cross-town route design*) for high-vulnerability Southern, Eastern,
+  and Western routes to eliminate the 1,820-foot uphill transfer for
+  seniors and mobility-challenged riders.
 
-- **Guarantee High-Frequency, Accessible Shuttle Service:** If PRW-FS
-  proceeds, mandate a dedicated, zero-fare shuttle running every 5
+- **Guarantee High-Frequency, Accessible Shuttle Service:** If Park Row
+  West proceeds, mandate a dedicated, zero-fare shuttle running every 5
   minutes or less during both peak and off-peak hours—coupled with
-  sheltered, level-boarding stops—to compress the simulated
-  +13.37-minute transfer penalty.
+  sheltered, level-boarding stops—to compress the simulated +13.4-minute
+  transfer penalty.
 
 ## Limitations & Future Work
 
 While this study successfully isolated the structural travel delays and
-rider displacement penalties caused by the PRW-FS hub relocation,
+rider displacement penalties caused by the Park Row West hub relocation,
 evaluating the downstream disruption to transit schedule synchronization
 remains an area for future research. Originally considered for this
 project, quantifying exactly how the hub relocation disrupts established
@@ -4378,12 +4298,12 @@ should consider the following operational data initiatives:
   planners to empirically calculate the exact volume of transfer riders
   vs. final-destination riders at any terminal.
 
-- **Live Route Validation Studies:** Prior to finalizing the PRW-FS
-  relocation, the route-extension delays modeled in this report should
-  be validated against physical pilot runs. Deploying test buses along
-  the proposed Eastern, Southern, and Western routes during peak periods
-  would generate real-world tracking data, offering physical proof of
-  the severe, compounding delays predicted by our models.
+- **Live Route Validation Studies:** Prior to finalizing the Park Row
+  West relocation, the route-extension delays modeled in this report
+  should be validated against physical pilot runs. Deploying test buses
+  along the proposed Eastern, Southern, and Western routes during peak
+  periods would generate real-world tracking data, offering physical
+  proof of the severe, compounding delays predicted by our models.
 
 ## Closing Remarks
 
@@ -4396,7 +4316,7 @@ to Park Row West is mathematically incompatible with the city's
 asymmetrical street grid. By forcing the entire network to navigate the
 northern periphery, the agency will incur nearly \$400,000 in net annual
 operating costs—and require 2 to 3 additional peak buses—while
-subjecting displaced Downcity riders to a severe 13.37-minute systemic
+subjecting displaced Downcity riders to a severe 13.4-minute systemic
 transfer penalty. Crucially, this burden is not shared equally. The
 spatial geometry of the new hub dictates a stark geographic divide,
 offering operational relief to Northern corridors while relegating
@@ -4422,14 +4342,14 @@ from their respective public portals.
 
 # Acknowledgements
 
-Extended thanks are due to the HarvardX Data Science program for
-providing the foundation and motivation to select and complete this
-project. Additional thanks go to my family and several professional
-colleagues who encouraged me to focus on a problem with meaningful
-impacts on my community. I gratefully acknowledge RIPTA Legal Services
-and agency data administrators for fulfilling this public records
-request and providing access to historical Computer-Aided Dispatch and
-Automatic Vehicle Location (CAD/AVL) archives.
+Special thanks go out to the HarvardX Data Science program for providing
+the foundation and motivation to select and complete this project.
+Additional thanks go to my family and several professional colleagues
+who encouraged me to focus on a problem with meaningful impacts on my
+community. I gratefully acknowledge RIPTA Legal Services and agency data
+administrators for fulfilling this public records request and providing
+access to historical Computer-Aided Dispatch and Automatic Vehicle
+Location (CAD/AVL) archives.
 
 ## Disclosure of Artificial Intelligence Usage
 
@@ -4494,8 +4414,8 @@ regional passenger flows to the central transit hub.
 
 [**Service Frequency:**]{#def-svc-freq} A transit service metric
 representing the number of transit vehicles serving the same route and
-direction within a given period of time (*e.g. 4 vehicles per hour*). It
-is the mathematical inverse of **Trip Headway**.
+direction within a given period of time (*e.g., 4 vehicles per hour*).
+It is the mathematical inverse of **Trip Headway**.
 
 [**Transit Signal Priority (TSP):**]{#def-tsp} An operational strategy
 that adjusts traffic signal timing at intersections to give priority to
@@ -4505,7 +4425,7 @@ length along a corridor.
 
 [**Trip Headway:**]{#def-trip-hdwy} The elapsed time between two
 consecutive transit vehicles operating along the same route and
-direction (*e.g. if the RIPTA Route 1 bus arrives at Kennedy Plaza at
+direction (*e.g., if the RIPTA Route 1 bus arrives at Kennedy Plaza at
 8:00 AM and the next arrives at 8:15 AM, the trip headway is **15
 minutes***).
 
@@ -4518,8 +4438,8 @@ rather than a single linked journey.
 [**Vehicle Revenue Hours (VRH):**]{#def-vrh} The hours that transit
 vehicles travel while in active revenue service. This includes running
 time, layover/recovery time, and passenger loading time, but explicitly
-excludes "deadhead" time (traveling to and from the dispatch garage with
-doors closed), operator training, charter services, and vehicle
+excludes "deadhead" time (*traveling to and from the dispatch garage
+with doors closed*), operator training, charter services, and vehicle
 maintenance testing (*Reference: National Transit Database (NTD)
 Glossary*).
 
@@ -4541,3 +4461,61 @@ science and public transit specifications, WGS 84 serves as the
 universal coordinate system for GPS tracking and defines the latitude
 and longitude coordinates used across General Transit Feed Specification
 (GTFS) datasets.
+
+# Technical Appendix {#sec-tech-app .unnumbered}
+
+## GTFS Feed & Schema Summary {.unnumbered}
+
+The GTFS requires several text files to sufficiently describe a transit
+network. Most of the files were modified to reflect the relocation of
+transit hubs. A brief description of each is as follows:
+
+- `stops.txt`: Lists all transit stops in the network, providing a
+  unique stop ID along with latitude and longitude coordinates based on
+  the [WGS 84](#def-wgs84) datum.
+
+- `routes.txt`: Defines all transit lines, specifying a unique route ID,
+  short name, and basic route metadata.
+
+- `trips.txt`: Logs every individual trip across the network, linking
+  trip IDs to their corresponding route IDs.
+
+- `route_timepoints.txt`: A custom file generated by RIPTA to designate
+  which stops act as official published timetable timepoints for a given
+  route.
+
+- `stop_times.txt`: Contains detailed scheduling information, recording
+  the exact scheduled arrival and departure times for each trip at every
+  associated stop ID.
+
+- `shapes.txt`: Describes the path that a vehicle travels along a route.
+  Shapes are associated with trips and consist of a sequence of points
+  through which the vehicle passes in order.
+
+- `calendar.txt` and `frequencies.txt`: Define service calendars, trip
+  [headways](#def-trip-hdwy), and service duration.
+
+## Core R Packages & Analytical Environment {.unnumbered}
+
+The following core R packages were used in this study:
+
+**`tidyverse`:** Popular collection of R packages designed for data
+manipulation and visualization.
+
+**`sf`:** Modern standard for handling, manipulating, and visualizing
+spatial vector data in R.
+
+**`tidytransit`:** Reads, validates, analyzes, and maps public transit
+data stored in the GTFS format.
+
+**`terra`:** Ingests and processes Digital Elevation Model (DEM) raster
+grids for the Providence area.
+
+**`tidycensus`:** Pulls U.S. Census Bureau boundary and demographic data
+directly into R via API.
+
+**`osrm`:** Computes street-network paths, travel distances, travel
+times, and walking accessibility polygons.
+
+**`caret`:** Comprehensive framework for cross-validated machine
+learning and statistical modeling in R.
