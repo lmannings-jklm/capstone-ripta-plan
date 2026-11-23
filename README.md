@@ -12,42 +12,40 @@ This study evaluates the operational, financial, and rider-access impacts of tha
 - **What causes bus delays in downtown Providence today, and how will extending routes to Park Row West affect on-time reliability and operating costs?**
 - **Does moving the hub away from Kennedy Plaza create an inequitable burden (*'disparate impact'*) that hits low-income, senior, and mobility-challenged riders hardest?**
 
-## 3. Installation and Setup
+## 3. Quick Start: Installation & Reproducibility
 
-### Code and Resources
+### Prerequisites
+* R (>= 4.5), RStudio, and TinyTeX (for PDF rendering)
 
-- **Editor:** RStudio 2026.10.1 Build 239
-- **R Version:** R version 4.5.0
+### 1. Clone the Repository
+**Option A — In RStudio (Recommended):**
+1. Go to **File → New Project → Version Control → Git**.
+2. Paste the Repository URL: `https://github.com/lmannings-jklm/capstone-ripta-plan.git`
+3. Click **Create Project**. RStudio will clone the exact folder structure and open `capstone-ripta-plan.Rproj` automatically.
 
----
-### R Packages Used
-The following R packages were used in this study:
-- `tidyverse` — Core collection of packages for data manipulation and visualization (`dplyr`, `stringr`, `ggplot2`, etc.).
-- `sf` — Modern standard for handling, manipulating, and visualizing spatial vector data in R.
-- `tidytransit` — Reads, validates, analyzes, and maps public transit data stored in the GTFS format.
-- `terra` — Ingests and processes Digital Elevation Model (DEM) raster grids for the Providence area.
-- `tidycensus` — Pulls U.S. Census Bureau boundary and demographic data directly into R via API.
-- `osrm` — Street-network routing engine used to compute paths, travel distances, travel times, and walking accessibility polygons.
-- `caret` — Comprehensive framework for cross-validated machine learning and statistical modeling in R.
-- `ranger` — Fast C++ implementation of Random Forest ensembles used for non-linear delay modeling.
-- `readr` — Reads flat/tabular data files efficiently into R.
-- `data.table` — High-performance data frame manipulation for large event logs.
-- `skimr` — Provides descriptive statistics and data quality summaries.
-- `stringi` — Fast and portable string processing tools.
-- `lubridate` — Functions for parsing and calculating date-time intervals.
-- `broom` — Converts statistical model outputs into tidy tibbles.
-- `parallel` — Supports multi-core parallel computing during cross-validation and Monte Carlo runs.
-- `knitr` — Powers Quarto/R Markdown report generation by executing embedded R code.
-- `kableExtra` — Formats publication-ready LaTeX and HTML summary tables.
-- `scales` — Formats human-readable labels for plot axes and legends.
-- `patchwork` — Combines multiple `ggplot2` charts into composite layouts.
-- `latex2exp` — Converts LaTeX math syntax into plot expressions.
-- `ggforce` — Extends `ggplot2` with specialized geometric annotations.
-- `ggrepel` — Repels overlapping text labels on scatterplots and maps.
-- `grid` — Low-level graphics system supporting custom `ggplot2` layouts.
-- `rosm` — Fetches and plots OpenStreetMap basemap tiles.
-- `ggspatial` — Extends `ggplot2` with north arrows, scale bars, and spatial map layers.
-- `prettymapr` — Automates cartographic map formatting and bounding boxes.
+**Option B — Command Line:**
+```bash
+git clone [https://github.com/lmannings-jklm/capstone-ripta-plan.git](https://github.com/lmannings-jklm/capstone-ripta-plan.git)
+cd capstone-ripta-plan
+```
+Then double-click `capstone-ripta-plan.Rproj` to open the project in RStudio.
+
+### 2. Restore the Exact R Package Environment
+In the RStudio Console, run:
+```r
+install.packages("renv") # if not already installed
+renv::restore()
+```
+This installs the exact package versions recorded in `renv.lock` into an isolated project library without affecting your global R setup.
+
+### 3. Run Scripts or Render the Report
+* **Render the full report:** Open `notebook/capstone-ripta.qmd` (or `capstone-ripta.Rmd`) and click **Render** / **Knit**. All processed datasets required for rendering are already included in `data/`.
+* **Run individual scripts:** Execute any script in `scripts/` or `scripts/eda/` directly from the RStudio project root (all paths are relative to the `.Rproj` directory).
+* **Full raw pipeline (optional):** To re-run raw 1-year AVL ingestion from scratch, pull the ~924 MB log directly into `data/` from the RStudio Console:
+```r
+source("scripts/tools/download_raw_avl.R")
+```
+*(Alternatively, download `ripta_avl_1yr_log.csv` manually from the [Releases](https://github.com/lmannings-jklm/capstone-ripta-plan/releases) page and place it in `data/`.)*
 
 ## 4. Primary Data Summary
 
