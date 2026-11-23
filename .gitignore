@@ -15,8 +15,7 @@ Google-Notebook/
 data/old/
 scripts/old/
 
-# .Rmd file and respective PDF output
-notebook/capstone-ripta_v2.Rmd
+# .Rmd PDF output
 notebook/capstone-ripta_v2.pdf
 
 # Large files exceeding GitHub's 100 MB limit
