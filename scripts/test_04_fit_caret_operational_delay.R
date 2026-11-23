@@ -39,8 +39,37 @@ cat("  ML EVALUATION OF OPERATIONAL DELAY MODEL (CARET PIPELINE)\n")
 cat("==========================================================\n\n")
 
 data_file <- "data/ripta_kp_final_dataset.csv"
-if (is.null(data_file)) {
-  stop("Error: Clean trip dataset not found.")
+data_file <- "data/ripta_kp_final_dataset.csv"
+github_url <- "https://raw.githubusercontent.com/lmannings-jklm/capstone-ripta-plan/main/data/ripta_kp_final_dataset.csv"
+
+if (!file.exists(data_file)) {
+  # Fallback: check if the grader placed the CSV in the current working directory
+  if (file.exists("ripta_kp_final_dataset.csv")) {
+    data_file <- "ripta_kp_final_dataset.csv"
+  } else {
+    cat("Local dataset not found. Downloading from GitHub...\n")
+    dir.create(dirname(data_file), recursive = TRUE, showWarnings = FALSE)
+    
+    old_timeout <- getOption("timeout")
+    on.exit(options(timeout = old_timeout), add = TRUE)
+    options(timeout = max(300, old_timeout))
+    
+    tryCatch(
+      {
+        download.file(url = github_url, destfile = data_file, mode = "wb")
+        cat(sprintf("Successfully downloaded dataset to: %s\n", data_file))
+      },
+      error = function(e) {
+        if (file.exists(data_file)) unlink(data_file)
+        stop(
+          "Error: Failed to download dataset from GitHub.\n",
+          "Details: ", conditionMessage(e), "\n",
+          "Please place 'ripta_kp_final_dataset.csv' in the 'data/' directory manually.",
+          call. = FALSE
+        )
+      }
+    )
+  }
 }
 
 cat(sprintf("Ingesting dataset from: %s\n", data_file))
